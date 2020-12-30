@@ -546,32 +546,36 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
-      "name": "AA COIN",
-      "address": "0x92b6475Cb47B8EaB894BC4C3723D89cD0B31D6bb",
-      "symbol": "AA",
+      "name": "UNI COIN",
+      "address": "0x2d9bb38536aFb356732247FBf5B813b886557c11",
+      "symbol": "UNI",
       "decimals": 18,
-      "chainId": 256
+      "chainId": 256,
+      "logoURI": "https://cdn.jsdelivr.net/gh/btswap/btswap.github.io/coins/UNI.png"
     },
     {
-      "name": "BB COIN",
-      "address": "0x326222b46d7a48E0e8eeB6926B4aB6d386d1422F",
-      "symbol": "BB",
+      "name": "Sushi COIN",
+      "address": "0x93d270C47d67E366c28bE2156529Dca7AA59fbF8",
+      "symbol": "Sushi",
       "decimals": 18,
-      "chainId": 256
+      "chainId": 256,
+      "logoURI": "https://tokens.1inch.exchange/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png"
     },
     {
-      "name": "CC COIN",
-      "address": "0xAeED81b6A1e685F4Dd2d089531216578bB6584C2",
-      "symbol": "CC",
+      "name": "Tether COIN",
+      "address": "0x98a146fb6cE959F6290041c1774BD71f55963C92",
+      "symbol": "USDT",
       "decimals": 18,
-      "chainId": 256
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
-      "name": "DD COIN",
-      "address": "0x108a277F3CB612bB868Ae825Bd78FaD58d2FB8E9",
-      "symbol": "DD",
+      "name": "Dai COIN",
+      "address": "0x34454e4F2DE19eB2EBc20433f2E22dea4853881D",
+      "symbol": "Dai",
       "decimals": 18,
-      "chainId": 256
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     }
   ]
 }
