@@ -539,7 +539,7 @@
     },
     {
       "name": "Wrapped Ether",
-      "address": "0xf779142b772f8A1e440f35d33dc073Cd12B17483",
+      "address": "0xA3402dc2616D57F2cbCE2F6e0Aeb7e3F0953d8dd",
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 256,
@@ -561,21 +561,38 @@
       "chainId": 256,
       "logoURI": "https://tokens.1inch.exchange/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png"
     },
+    
     {
       "name": "Tether COIN",
-      "address": "0x98a146fb6cE959F6290041c1774BD71f55963C92",
+      "address": "0x04f535663110a392a6504839beed34e019fdb4e0",
       "symbol": "USDT",
-      "decimals": 18,
+      "decimals": 6,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
       "name": "Dai COIN",
-      "address": "0x34454e4F2DE19eB2EBc20433f2E22dea4853881D",
+      "address": "0x60d64ef311a4f0e288120543a14e7f90e76304c6",
       "symbol": "Dai",
       "decimals": 18,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "USDCoin",
+      "address": "0xd459dad367788893c17c09e17cfbf0bf25c62833",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "TrueUSD",
+      "address": "0xdb4c5b219168f926c2c0c776438b8355a3a4018e",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0000000000085d4780B73119b644AE5ecd22b376/logo.png"
     }
   ]
 }
