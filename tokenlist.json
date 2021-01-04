@@ -540,57 +540,40 @@
     {
       "name": "Wrapped Ether",
       "address": "0xA3402dc2616D57F2cbCE2F6e0Aeb7e3F0953d8dd",
-      "symbol": "WETH",
+      "symbol": "WHT",
       "decimals": 18,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
-      "name": "UNI COIN",
-      "address": "0x2d9bb38536aFb356732247FBf5B813b886557c11",
-      "symbol": "UNI",
-      "decimals": 18,
-      "chainId": 256,
-      "logoURI": "https://cdn.jsdelivr.net/gh/btswap/btswap.github.io/coins/UNI.png"
-    },
-    {
-      "name": "Sushi COIN",
-      "address": "0x93d270C47d67E366c28bE2156529Dca7AA59fbF8",
-      "symbol": "Sushi",
-      "decimals": 18,
-      "chainId": 256,
-      "logoURI": "https://tokens.1inch.exchange/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png"
-    },
-    
-    {
       "name": "Tether COIN",
-      "address": "0x04f535663110a392a6504839beed34e019fdb4e0",
-      "symbol": "USDT",
-      "decimals": 6,
+      "address": "0x4fC5Fb9dBe0A965874A69F77BBCC247e98be7a63",
+      "symbol": "AA",
+      "decimals": 18,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
       "name": "Dai COIN",
-      "address": "0x60d64ef311a4f0e288120543a14e7f90e76304c6",
-      "symbol": "Dai",
-      "decimals": 18,
+      "address": "0xD5FdB93Cd79E90f9841aFd28adE68eF0fA7A495b",
+      "symbol": "BB",
+      "decimals": 12,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
       "name": "USDCoin",
-      "address": "0xd459dad367788893c17c09e17cfbf0bf25c62833",
-      "symbol": "USDC",
-      "decimals": 6,
+      "address": "0xdc994355de8A9EBbE1C4838fB6F1Cbe012D0c98d",
+      "symbol": "CC",
+      "decimals": 8,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "name": "TrueUSD",
-      "address": "0xdb4c5b219168f926c2c0c776438b8355a3a4018e",
-      "symbol": "TUSD",
-      "decimals": 18,
+      "address": "0xF78D5fCB9BCEB1c1f6b1574E22D5aa54125680e0",
+      "symbol": "DD",
+      "decimals": 6,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0000000000085d4780B73119b644AE5ecd22b376/logo.png"
     }
