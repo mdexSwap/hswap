@@ -86,14 +86,6 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
-      "name": "KFC test Token",
-      "address": "0x1cBB40901783B9aE1e101E3Ae99acBb78419ac86",
-      "symbol": "KFC1",
-      "decimals": 18,
-      "chainId": 4,
-      "logoURI": "https://chickenswap.org/static/media/cf_icon.1668e8ac.png"
-    },
-    {
       "name": "ETT Token",
       "address": "0x071a50263f6BCE9Ce51B8b0aD75ae8244deA8102",
       "symbol": "ETT",
