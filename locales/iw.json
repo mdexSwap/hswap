@@ -44,7 +44,7 @@
   "currentPoolSize": "גודל מאגר הנזילות הכולל",
   "yourPoolShare": "חלקך במאגר הנזילות",
   "noZero": "אפס אינו ערך תקין",
-  "mustBeETH": "ETH חייב להופיע באחד מהצדדים",
+  "mustBeETH": "HT חייב להופיע באחד מהצדדים",
   "enterCurrencyOrLabelCont": "כדי להמשיך {{ inputCurrency }} או {{ label }} הכנס",
   "youAreAdding": "מתווספים למאגר",
   "and": "וגם",
