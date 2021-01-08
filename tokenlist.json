@@ -248,6 +248,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://ht.mdex.com/images/bags.png"
+    },
+    {
+      "name": "Heco-Peg NVT Token",
+      "address": "0xf0e406c49c63abf358030a299c0e00118c4c6ba5",
+      "symbol": "NVT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://ht.mdex.com/images/nvt.png"
     }
   ]
 }
