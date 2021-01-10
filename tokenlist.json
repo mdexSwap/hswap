@@ -269,7 +269,7 @@
       "name": "Heco-Peg LYFI Token",
       "address": "0xa441b796e160e204cd0f53d3216275056a355980",
       "symbol": "LYFI",
-      "decimals": 8,
+      "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa441b796e160e204cd0f53d3216275056a355980.png"
     }
