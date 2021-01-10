@@ -264,6 +264,14 @@
       "decimals": 8,
       "chainId": 128,
       "logoURI": "https://ht.mdex.com/images/FilDA.png"
+    },
+    {
+      "name": "Heco-Peg LYFI Token",
+      "address": "0xa441b796e160e204cd0f53d3216275056a355980",
+      "symbol": "LYFI",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa441b796e160e204cd0f53d3216275056a355980.png"
     }
   ]
 }
