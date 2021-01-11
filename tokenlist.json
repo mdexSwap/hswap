@@ -261,7 +261,7 @@
       "name": "Heco-Peg FilDA Token",
       "address": "0xe36ffd17b2661eb57144ceaef942d95295e637f0",
       "symbol": "FilDA",
-      "decimals": 8,
+      "decimals": 18,
       "chainId": 128,
       "logoURI": "https://ht.mdex.com/images/FilDA.png"
     },
