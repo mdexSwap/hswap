@@ -88,5 +88,19 @@
   "brokenToken": "The selected token is not compatible with Uniswap V1. Adding liquidity will result in locked funds.",
   "toleranceExplanation": "Lowering this limit decreases your risk of frontrunning. However, this makes more likely that your transaction will fail due to normal price movements.",
   "tokenSearchPlaceholder": "Search name or paste address",
-  "note": "Notice: We just support Heco now, don't transfer other tokens"
+  "note": "Notice: We just support Heco now, don't transfer other tokens",
+  "reward": "Reward",
+  "wihtdrawlMine": "Withdrawal Reward",
+  "help1": "The rewards that can be allocated to the pool currently.",
+  "help2": "Total historical trading volume of this pool.",
+  "help3": "The current trading volume of the pool.",
+  "help4": "Your trading volume in the pool, if you withdraw the reward, the trading volume will be cleared.",
+  "help5": "Personal Trading Volume / Current Trading Volume, increase or decrease according to your share of the pool.",
+  "text1": "Total Rewards",
+  "text2": "Total Trading",
+  "text3": "Current Trading",
+  "text4": "Personal Trading",
+  "text5": "Personal Reward",
+  "text6": "Curernt Pool‘s Rewards",
+  "text7": "Current Withdrawable Rewards"
 }
