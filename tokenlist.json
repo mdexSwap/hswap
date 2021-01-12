@@ -272,6 +272,30 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa441b796e160e204cd0f53d3216275056a355980.png"
+    },
+    {
+      "name": "Heco-Peg FC Token",
+      "address": "0x12fAC6B5Fa0bc6250058D99d3a1727628651c12E",
+      "symbol": "FC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x12fac6b5fa0bc6250058d99d3a1727628651c12e.png"
+    },
+    {
+      "name": "Heco-Peg FCS Token",
+      "address": "0x1b31b55cD94493d06C7a51678fb1Fe8963258A5d",
+      "symbol": "FCS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x1b31b55cd94493d06c7a51678fb1fe8963258a5d.png"
+    },
+    {
+      "name": "Heco-Peg NULS Token",
+      "address": "0xd938e45680da19ad36646ae8d4c671b2b1270f39",
+      "symbol": "NULS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xd938e45680da19ad36646ae8d4c671b2b1270f39.png"
     }
   ]
 }
