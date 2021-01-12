@@ -296,6 +296,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xd938e45680da19ad36646ae8d4c671b2b1270f39.png"
+    },
+    {
+      "name": "Heco-Peg HPT Token",
+      "address": "0xE499Ef4616993730CEd0f31FA2703B92B50bB536",
+      "symbol": "HPT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xe499ef4616993730ced0f31fa2703b92b50bb536.png"
     }
   ]
 }
