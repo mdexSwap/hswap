@@ -124,7 +124,7 @@
     {
       "name": "Tether COIN",
       "address": "0x04f535663110a392a6504839beed34e019fdb4e0",
-      "symbol": "USDT",
+      "symbol": "HUSDT",
       "decimals": 6,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
@@ -132,7 +132,7 @@
     {
       "name": "Dai COIN",
       "address": "0x60d64ef311a4f0e288120543a14e7f90e76304c6",
-      "symbol": "Dai",
+      "symbol": "HDai",
       "decimals": 18,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
@@ -140,7 +140,7 @@
     {
       "name": "USDCoin",
       "address": "0xd459dad367788893c17c09e17cfbf0bf25c62833",
-      "symbol": "USDC",
+      "symbol": "HUSDC",
       "decimals": 6,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
@@ -148,10 +148,42 @@
     {
       "name": "TrueUSD",
       "address": "0xdb4c5b219168f926c2c0c776438b8355a3a4018e",
-      "symbol": "TUSD",
+      "symbol": "HTUSD",
       "decimals": 18,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0000000000085d4780B73119b644AE5ecd22b376/logo.png"
+    },
+    {
+      "name": "TrueUSD",
+      "address": "0xdb4c5b219168f926c2c0c776438b8355a3a4018e",
+      "symbol": "HTUSD",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0000000000085d4780B73119b644AE5ecd22b376/logo.png"
+    },
+    {
+      "name": "ETH",
+      "address": "0xfeb76ae65c11b363bd452afb4a7ec59925848656",
+      "symbol": "HETH",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfeb76ae65c11b363bd452afb4a7ec59925848656/logo.png"
+    },
+    {
+      "name": "BTC",
+      "address": "0x1d8684e6cdd65383affd3d5cf8263fcda5001f13",
+      "symbol": "HBTC",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1d8684e6cdd65383affd3d5cf8263fcda5001f13/logo.png"
+    },
+    {
+      "name": "MDX",
+      "address": "0xd7b9bd283Ace02f5081cDE0AA2673619e6AFEBC2",
+      "symbol": "MDX",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd7b9bd283Ace02f5081cDE0AA2673619e6AFEBC2/logo.png"
     },
     {
       "name": "Heco-Peg HUSD Token",
