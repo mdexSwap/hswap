@@ -154,14 +154,6 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0000000000085d4780B73119b644AE5ecd22b376/logo.png"
     },
     {
-      "name": "TrueUSD",
-      "address": "0xdb4c5b219168f926c2c0c776438b8355a3a4018e",
-      "symbol": "HTUSD",
-      "decimals": 18,
-      "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0000000000085d4780B73119b644AE5ecd22b376/logo.png"
-    },
-    {
       "name": "ETH",
       "address": "0xfeb76ae65c11b363bd452afb4a7ec59925848656",
       "symbol": "HETH",
