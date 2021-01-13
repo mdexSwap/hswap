@@ -336,6 +336,30 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x03fa282789af9e2574a47024b5ef1f5074ede92f.png"
+    },
+    {
+      "name": "Heco-Peg HTC Token",
+      "address": "0x1d9B88ffFb7B78De890729aF67B68aec2eA57D52",
+      "symbol": "HTC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x1d9b88fffb7b78de890729af67b68aec2ea57d52.png"
+    },
+    {
+      "name": "Heco-Peg HTS Token",
+      "address": "0x559c0af22D0d3efA9a8b95f2E4eaf6017aEa4c22",
+      "symbol": "HTS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x559c0af22d0d3efa9a8b95f2e4eaf6017aea4c22.png"
+    },
+    {
+      "name": "Heco-Peg HTB Token",
+      "address": "0x8AA40B42a35b8cCB616f5ecE8b28A2313D0CC08A",
+      "symbol": "HTB",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x8aa40b42a35b8ccb616f5ece8b28a2313d0cc08a.png"
     }
   ]
 }
