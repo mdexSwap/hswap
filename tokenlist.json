@@ -242,7 +242,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png"
     },
     {
-      "name": "Heco-Peg HFIL Token",
+      "name": "Heco HFIL Token",
       "address": "0xae3a768f9ab104c69a7cd6041fe16ffa235d1810",
       "symbol": "HFIL",
       "decimals": 18,
@@ -250,7 +250,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png"
     },
     {
-      "name": "Heco-Peg HBSV Token",
+      "name": "Heco HBSV Token",
       "address": "0xc2cb6b5357ccce1b99cd22232942d9a225ea4eb1",
       "symbol": "HBSV",
       "decimals": 18,
@@ -258,7 +258,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3602.png"
     },
     {
-      "name": "Heco-Peg BAG Token",
+      "name": "Heco BAG Token",
       "address": "0xa042fb0e60125A4022670014AC121931e7501Af4",
       "symbol": "BAG",
       "decimals": 18,
@@ -266,7 +266,7 @@
       "logoURI": "https://ht.mdex.com/images/bag.png"
     },
     {
-      "name": "Heco-Peg BAGS Token",
+      "name": "Heco BAGS Token",
       "address": "0x6868D406a125Eb30886A6DD6B651D81677d1F22c",
       "symbol": "BAGS",
       "decimals": 18,
@@ -274,7 +274,7 @@
       "logoURI": "https://ht.mdex.com/images/bags.png"
     },
     {
-      "name": "Heco-Peg NVT Token",
+      "name": "Heco NVT Token",
       "address": "0xf0e406c49c63abf358030a299c0e00118c4c6ba5",
       "symbol": "NVT",
       "decimals": 8,
@@ -282,7 +282,7 @@
       "logoURI": "https://ht.mdex.com/images/nvt.png"
     },
     {
-      "name": "Heco-Peg FilDA Token",
+      "name": "Heco FilDA Token",
       "address": "0xe36ffd17b2661eb57144ceaef942d95295e637f0",
       "symbol": "FilDA",
       "decimals": 18,
@@ -290,7 +290,7 @@
       "logoURI": "https://ht.mdex.com/images/FilDA.png"
     },
     {
-      "name": "Heco-Peg LYFI Token",
+      "name": "Heco LYFI Token",
       "address": "0xa441b796e160e204cd0f53d3216275056a355980",
       "symbol": "LYFI",
       "decimals": 18,
@@ -298,7 +298,7 @@
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa441b796e160e204cd0f53d3216275056a355980.png"
     },
     {
-      "name": "Heco-Peg FC Token",
+      "name": "Heco FC Token",
       "address": "0x12fAC6B5Fa0bc6250058D99d3a1727628651c12E",
       "symbol": "FC",
       "decimals": 18,
@@ -306,7 +306,7 @@
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x12fac6b5fa0bc6250058d99d3a1727628651c12e.png"
     },
     {
-      "name": "Heco-Peg FCS Token",
+      "name": "Heco FCS Token",
       "address": "0x1b31b55cD94493d06C7a51678fb1Fe8963258A5d",
       "symbol": "FCS",
       "decimals": 18,
@@ -314,7 +314,7 @@
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x1b31b55cd94493d06c7a51678fb1fe8963258a5d.png"
     },
     {
-      "name": "Heco-Peg NULS Token",
+      "name": "Heco NULS Token",
       "address": "0xd938e45680da19ad36646ae8d4c671b2b1270f39",
       "symbol": "NULS",
       "decimals": 18,
@@ -330,7 +330,7 @@
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xe499ef4616993730ced0f31fa2703b92b50bb536.png"
     },
     {
-      "name": "Heco-Peg GSD Token",
+      "name": "Heco GSD Token",
       "address": "0x03FA282789AF9E2574A47024b5EF1F5074edE92F",
       "symbol": "GSD",
       "decimals": 18,
@@ -338,7 +338,7 @@
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x03fa282789af9e2574a47024b5ef1f5074ede92f.png"
     },
     {
-      "name": "Heco-Peg HTC Token",
+      "name": "Heco HTC Token",
       "address": "0x1d9B88ffFb7B78De890729aF67B68aec2eA57D52",
       "symbol": "HTC",
       "decimals": 18,
@@ -346,7 +346,7 @@
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x1d9b88fffb7b78de890729af67b68aec2ea57d52.png"
     },
     {
-      "name": "Heco-Peg HTS Token",
+      "name": "Heco HTS Token",
       "address": "0x559c0af22D0d3efA9a8b95f2E4eaf6017aEa4c22",
       "symbol": "HTS",
       "decimals": 18,
@@ -354,7 +354,7 @@
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x559c0af22d0d3efa9a8b95f2e4eaf6017aea4c22.png"
     },
     {
-      "name": "Heco-Peg HTB Token",
+      "name": "Heco HTB Token",
       "address": "0x8AA40B42a35b8cCB616f5ecE8b28A2313D0CC08A",
       "symbol": "HTB",
       "decimals": 18,

@@ -1,22 +1,22 @@
 {
   "files": {
-    "static/js/0.8c63d124.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/0.8c63d124.chunk.js",
+    "static/js/0.fa38a04c.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/0.fa38a04c.chunk.js",
     "static/js/1.8ebee1df.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/1.8ebee1df.chunk.js",
-    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/main.d3f10b04.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/runtime-main.8cd3904f.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/main.6a788c48.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/runtime-main.dbda8f0c.js",
     "static/css/4.32992b00.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/css/4.32992b00.chunk.css",
-    "static/js/4.a8f1e5d4.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.a8f1e5d4.chunk.js",
-    "static/js/5.5a9ad426.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/5.5a9ad426.chunk.js",
+    "static/js/4.a34a32bc.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.a34a32bc.chunk.js",
+    "static/js/5.fb66be55.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/5.fb66be55.chunk.js",
     "static/js/6.43f9cd2c.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.43f9cd2c.chunk.js",
     "static/js/7.0952ed93.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/7.0952ed93.chunk.js",
     "static/js/8.7f61c3ff.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/8.7f61c3ff.chunk.js",
     "static/js/9.00884b57.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/9.00884b57.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/index.html",
-    "precache-manifest.aa6ec9ef4504ebf97622fbf92f0ed922.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/precache-manifest.aa6ec9ef4504ebf97622fbf92f0ed922.js",
+    "precache-manifest.e3c1e2b58a3791e8671901562580a13e.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/precache-manifest.e3c1e2b58a3791e8671901562580a13e.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/service-worker.js",
-    "static/js/0.8c63d124.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/0.8c63d124.chunk.js.LICENSE.txt",
-    "static/js/4.a8f1e5d4.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.a8f1e5d4.chunk.js.LICENSE.txt",
-    "static/js/5.5a9ad426.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/5.5a9ad426.chunk.js.LICENSE.txt",
+    "static/js/0.fa38a04c.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/0.fa38a04c.chunk.js.LICENSE.txt",
+    "static/js/4.a34a32bc.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.a34a32bc.chunk.js.LICENSE.txt",
+    "static/js/5.fb66be55.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/5.fb66be55.chunk.js.LICENSE.txt",
     "static/js/6.43f9cd2c.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.43f9cd2c.chunk.js.LICENSE.txt",
     "static/js/9.00884b57.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/9.00884b57.chunk.js.LICENSE.txt",
     "static/media/inter.css": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/Inter.var.f065685b.woff2",
@@ -51,9 +51,9 @@
     "static/media/xl_uni.png": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/xl_uni.ed12c533.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8cd3904f.js",
+    "static/js/runtime-main.dbda8f0c.js",
     "static/css/4.32992b00.chunk.css",
-    "static/js/4.a8f1e5d4.chunk.js",
-    "static/js/main.d3f10b04.chunk.js"
+    "static/js/4.a34a32bc.chunk.js",
+    "static/js/main.6a788c48.chunk.js"
   ]
 }
