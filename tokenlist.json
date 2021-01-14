@@ -354,12 +354,20 @@
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x559c0af22d0d3efa9a8b95f2e4eaf6017aea4c22.png"
     },
     {
-      "name": "Heco HTB Token",
-      "address": "0x8AA40B42a35b8cCB616f5ecE8b28A2313D0CC08A",
-      "symbol": "HTB",
+      "name": "Heco BLC Token",
+      "address": "0xC657D9664f9A011A3aEDedaB8A0296DC60284E5f",
+      "symbol": "BLC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x8aa40b42a35b8ccb616f5ece8b28a2313d0cc08a.png"
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xc657d9664f9a011a3aededab8a0296dc60284e5f.png"
+    },
+    {
+      "name": "Heco BLS Token",
+      "address": "0x5ee4E3a8bd0E865205e95908B290c4578CaBbEff",
+      "symbol": "BLS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x5ee4e3a8bd0e865205e95908b290c4578cabbeff.png"
     }
   ]
 }
