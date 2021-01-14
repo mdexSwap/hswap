@@ -317,7 +317,7 @@
       "name": "Heco NULS Token",
       "address": "0xd938e45680da19ad36646ae8d4c671b2b1270f39",
       "symbol": "NULS",
-      "decimals": 18,
+      "decimals": 8,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xd938e45680da19ad36646ae8d4c671b2b1270f39.png"
     },
