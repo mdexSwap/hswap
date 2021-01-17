@@ -355,7 +355,7 @@
     },
     {
       "name": "Heco BLC Token",
-      "address": "0xC657D9664f9A011A3aEDedaB8A0296DC60284E5f",
+      "address": "0x8AD1caE277B17Ca0Ad0393100E6EBd545B9367Cb",
       "symbol": "BLC",
       "decimals": 18,
       "chainId": 128,
@@ -363,7 +363,7 @@
     },
     {
       "name": "Heco BLS Token",
-      "address": "0x5ee4E3a8bd0E865205e95908B290c4578CaBbEff",
+      "address": "0xc44468670837b8e0Cc39Cb822FFd2fE36Fb02Bb7",
       "symbol": "BLS",
       "decimals": 18,
       "chainId": 128,
