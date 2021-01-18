@@ -370,14 +370,6 @@
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x5ee4e3a8bd0e865205e95908b290c4578cabbeff.png"
     },
     {
-      "name": "Heco NUSDT Token",
-      "address": "0xd1351ec15e8511658c2ba1e1e81e1e60aa39c9cd",
-      "symbol": "NUSDT",
-      "decimals": 6,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xd1351ec15e8511658c2ba1e1e81e1e60aa39c9cd.png"
-    },
-    {
       "name": "Heco LHB Token",
       "address": "0x8F67854497218043E1f72908FFE38D0Ed7F24721",
       "symbol": "LHB",
