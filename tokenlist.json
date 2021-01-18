@@ -388,7 +388,7 @@
     {
       "name": "Heco-Peg USDTHECO Token",
       "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
-      "symbol": "HUSDT",
+      "symbol": "USDT",
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
