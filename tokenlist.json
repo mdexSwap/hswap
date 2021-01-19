@@ -384,6 +384,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
+    },
+    {
+      "name": "MDX",
+      "address": "0x25D2e80cB6B86881Fd7e07dd263Fb79f4AbE033c",
+      "symbol": "MDX",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x25D2e80cB6B86881Fd7e07dd263Fb79f4AbE033c/logo.png"
     }
   ]
 }
