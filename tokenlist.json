@@ -1,5 +1,5 @@
 {
-  "name": "Chicken List",
+  "name": "MDEX token List",
   "timestamp": "2020-08-11T22:55:13.889Z",
   "version": {
     "major": 1,
@@ -9,7 +9,7 @@
   "tags": {},
   "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
   "keywords": [
-    "Chicken",
+    "MDEX",
     "default"
   ],
   "tokens": [
