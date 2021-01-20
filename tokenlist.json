@@ -408,6 +408,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbe0e001a5553f4421dc250a20bbdab0e735495e3/logo.png"
+    },
+    {
+      "name": "ELA",
+      "address": "0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c",
+      "symbol": "ELA",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c/logo.png"
     }
   ]
 }
