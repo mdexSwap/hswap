@@ -330,14 +330,6 @@
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xe499ef4616993730ced0f31fa2703b92b50bb536.png"
     },
     {
-      "name": "Heco GSD Token",
-      "address": "0x03FA282789AF9E2574A47024b5EF1F5074edE92F",
-      "symbol": "GSD",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x03fa282789af9e2574a47024b5ef1f5074ede92f.png"
-    },
-    {
       "name": "Heco HTC Token",
       "address": "0x1d9B88ffFb7B78De890729aF67B68aec2eA57D52",
       "symbol": "HTC",
