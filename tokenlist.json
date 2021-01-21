@@ -279,7 +279,7 @@
       "symbol": "NVT",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://ht.mdex.com/images/nvt.png"
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xf0e406c49c63abf358030a299c0e00118c4c6ba5.png"
     },
     {
       "name": "Heco FilDA Token",
