@@ -383,7 +383,7 @@
       "symbol": "MDX",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x25D2e80cB6B86881Fd7e07dd263Fb79f4AbE033c/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c.png"
     },
     {
       "name": "BXC",
@@ -391,7 +391,7 @@
       "symbol": "BXC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x15f4c382926f8a083bc924abd3aa84ce3982caa9/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x15f4c382926f8a083bc924abd3aa84ce3982caa9.png"
     },
     {
       "name": "BXS",
@@ -399,7 +399,7 @@
       "symbol": "BXS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbe0e001a5553f4421dc250a20bbdab0e735495e3/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xbe0e001a5553f4421dc250a20bbdab0e735495e3.png"
     },
     {
       "name": "ELA",
@@ -407,7 +407,15 @@
       "symbol": "ELA",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c.png"
+    },
+    {
+      "name": "SH",
+      "address": "0x3dc2536480775d0aB5d1D010B853cd2166cf6e11",
+      "symbol": "SH",
+      "decimals": 12,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x3dc2536480775d0ab5d1d010b853cd2166cf6e11.png"
     }
   ]
 }
