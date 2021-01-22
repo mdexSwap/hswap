@@ -416,6 +416,22 @@
       "decimals": 12,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x3dc2536480775d0ab5d1d010b853cd2166cf6e11.png"
+    },
+    {
+      "name": "HIC",
+      "address": "0xc6794C116198861fa371b820BD5BF1ecf94a3565",
+      "symbol": "HIC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xc6794c116198861fa371b820bd5bf1ecf94a3565.png"
+    },
+    {
+      "name": "HIS",
+      "address": "0x3513F22a33357Ba82373680B14f0B50642d0709d",
+      "symbol": "HIS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x3513f22a33357ba82373680b14f0b50642d0709d.png"
     }
   ]
 }
