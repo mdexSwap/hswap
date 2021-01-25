@@ -432,6 +432,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x3513f22a33357ba82373680b14f0b50642d0709d.png"
+    },
+    {
+      "name": "GTL",
+      "address": "0xa352baa250dea5a279c825cf826891d9543bf21c",
+      "symbol": "GTL",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa352baa250dea5a279c825cf826891d9543bf21c.png"
     }
   ]
 }
