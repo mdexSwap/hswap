@@ -440,6 +440,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa352baa250dea5a279c825cf826891d9543bf21c.png"
+    },
+    {
+      "name": "SLN",
+      "address": "0xDfcb9Bc15238bCaE69aa406846CB93d4CC9D4eBc",
+      "symbol": "SLN",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xdfcb9bc15238bcae69aa406846cb93d4cc9d4ebc.png"
     }
   ]
 }
