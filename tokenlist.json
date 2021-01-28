@@ -442,12 +442,12 @@
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa352baa250dea5a279c825cf826891d9543bf21c.png"
     },
     {
-      "name": "SLN",
-      "address": "0xDfcb9Bc15238bCaE69aa406846CB93d4CC9D4eBc",
-      "symbol": "SLN",
+      "name": "ITF",
+      "address": "0x943D97ad0b597F73425d6f740596D0efD3d62507",
+      "symbol": "ITF",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xdfcb9bc15238bcae69aa406846cb93d4cc9d4ebc.png"
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x943d97ad0b597f73425d6f740596d0efd3d62507.png"
     }
   ]
 }
