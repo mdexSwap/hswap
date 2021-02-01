@@ -435,8 +435,16 @@
     },
     {
       "name": "GTL",
-      "address": "0x9234d966a3aC7436ad770fb6b340B424A90b0CBb",
+      "address": "0xa352baa250dea5a279c825cf826891d9543bf21c",
       "symbol": "GTL",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa352baa250dea5a279c825cf826891d9543bf21c.png"
+    },
+    {
+      "name": "GTLT",
+      "address": "0x9234d966a3aC7436ad770fb6b340B424A90b0CBb",
+      "symbol": "GTLT",
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xa352baa250dea5a279c825cf826891d9543bf21c.png"
