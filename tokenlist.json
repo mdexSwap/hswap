@@ -456,6 +456,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x943d97ad0b597f73425d6f740596d0efd3d62507.png"
+    },
+    {
+      "name": "DBC",
+      "address": "0x80DccC9BDC9b1659a226AE669457BD1e0b293A9b",
+      "symbol": "DBC",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x80dccc9bdc9b1659a226ae669457bd1e0b293a9b.png"
     }
   ]
 }
