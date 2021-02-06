@@ -464,6 +464,14 @@
       "decimals": 8,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x80dccc9bdc9b1659a226ae669457bd1e0b293a9b.png"
+    },
+    {
+      "name": "SOVI",
+      "address": "0x49e16563a2ba84e560780946f0fb73a8b32c841e",
+      "symbol": "SOVI",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x49e16563a2ba84e560780946f0fb73a8b32c841e.png"
     }
   ]
 }
