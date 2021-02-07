@@ -480,6 +480,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x7eed8a3ccfe3d507ec4df443773eae792b9ef2d7.png"
+    },
+    {
+      "name": "Can",
+      "address": "0x1e6395E6B059fc97a4ddA925b6c5ebf19E05c69f",
+      "symbol": "Can",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x1e6395e6b059fc97a4dda925b6c5ebf19e05c69f.png"
+    },
+    {
+      "name": "SLNV2",
+      "address": "0x4e252342cf35Ff02c4CCA9bc655129f5b4a2f901",
+      "symbol": "SLNV2",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x4e252342cf35ff02c4cca9bc655129f5b4a2f901.png"
     }
   ]
 }
