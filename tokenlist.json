@@ -520,6 +520,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x22c54ce8321a4015740ee1109d9cbc25815c46e6.png"
+    },
+    {
+      "name": "EDC",
+      "address": "0x68a0a1fef18dfcc422db8be6f0f486dea1999edc",
+      "symbol": "EDC",
+      "decimals": 9,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x68a0a1fef18dfcc422db8be6f0f486dea1999edc.png"
     }
   ]
 }
