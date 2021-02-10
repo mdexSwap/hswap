@@ -499,27 +499,27 @@
     },
     {
       "name": "AAVE",
-      "address": "0xfAfeAafeFc5F92F22415506e78D9AB1E33C03257",
+      "address": "0x202b4936fe1a82a4965220860ae46d7d3939bb25",
       "symbol": "AAVE",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xfafeaafefc5f92f22415506e78d9ab1e33c03257.png"
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x202b4936fe1a82a4965220860ae46d7d3939bb25.png"
     },
     {
       "name": "SNX",
-      "address": "0xc7A4C808a29fc8Cd3A8a6848f7F18bED9924C692",
+      "address": "0x777850281719d5a96c29812ab72f822e0e09f3da",
       "symbol": "SNX",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xc7a4c808a29fc8cd3a8a6848f7f18bed9924c692.png"
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x777850281719d5a96c29812ab72f822e0e09f3da.png"
     },
     {
       "name": "UNI",
-      "address": "0x84455d880af684eb29997B82832dd71EF29c1354",
+      "address": "0x22c54ce8321a4015740ee1109d9cbc25815c46e6",
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x84455d880af684eb29997b82832dd71ef29c1354.png"
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x22c54ce8321a4015740ee1109d9cbc25815c46e6.png"
     }
   ]
 }
