@@ -560,6 +560,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xb4f019beac758abbee2f906033aaa2f0f6dacb35.png"
+    },
+    {
+      "name": "BEE",
+      "address": "0xB1F80844a1B84c61ab80CafD88B1f8c09f9342e1",
+      "symbol": "BEE",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xb1f80844a1b84c61ab80cafd88b1f8c09f9342e1.png"
     }
   ]
 }
