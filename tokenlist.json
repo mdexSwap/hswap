@@ -528,6 +528,22 @@
       "decimals": 9,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x68a0a1fef18dfcc422db8be6f0f486dea1999edc.png"
+    },
+    {
+      "name": "EDC",
+      "address": "0x68a0a1fef18dfcc422db8be6f0f486dea1999edc",
+      "symbol": "EDC",
+      "decimals": 9,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x68a0a1fef18dfcc422db8be6f0f486dea1999edc.png"
+    },
+    {
+      "name": "DHM",
+      "address": "0xca757a8fc34c5d65f38792f329b05e7d9ca8b18e",
+      "symbol": "DHM",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xca757a8fc34c5d65f38792f329b05e7d9ca8b18e.png"
     }
   ]
 }
