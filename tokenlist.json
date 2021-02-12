@@ -536,6 +536,30 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xca757a8fc34c5d65f38792f329b05e7d9ca8b18e.png"
+    },
+    {
+      "name": "LINK",
+      "address": "0x9e004545c59d359f6b7bfb06a26390b087717b42",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x9e004545c59d359f6b7bfb06a26390b087717b42.png"
+    },
+    {
+      "name": "BAL",
+      "address": "0x045de15ca76e76426e8fc7cba8392a3138078d0f",
+      "symbol": "BAL",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x045de15ca76e76426e8fc7cba8392a3138078d0f.png"
+    },
+    {
+      "name": "YFI",
+      "address": "0xb4f019beac758abbee2f906033aaa2f0f6dacb35",
+      "symbol": "YFI",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xb4f019beac758abbee2f906033aaa2f0f6dacb35.png"
     }
   ]
 }
