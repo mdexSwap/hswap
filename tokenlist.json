@@ -568,6 +568,14 @@
       "decimals": 8,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xb1f80844a1b84c61ab80cafd88b1f8c09f9342e1.png"
+    },
+    {
+      "name": "HFI",
+      "address": "0x98fc3b60Ed4A504F588342A53746405E355F9347",
+      "symbol": "HFI",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x98fc3b60ed4a504f588342a53746405e355f9347.png"
     }
   ]
 }
