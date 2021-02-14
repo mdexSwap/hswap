@@ -576,6 +576,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x98fc3b60ed4a504f588342a53746405e355f9347.png"
+    },
+    {
+      "name": "LAVA",
+      "address": "0x56f95662e71f30b333b456439248c6de589082a4",
+      "symbol": "LAVA",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x56f95662e71f30b333b456439248c6de589082a4.png"
     }
   ]
 }
