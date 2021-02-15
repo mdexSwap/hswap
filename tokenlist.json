@@ -584,6 +584,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x56f95662e71f30b333b456439248c6de589082a4.png"
+    },
+    {
+      "name": "DMC",
+      "address": "0x854Bb58fDDa85F20b5aB20B20d888f0554c02560",
+      "symbol": "DMC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x854bb58fdda85f20b5ab20b20d888f0554c02560.png"
     }
   ]
 }
