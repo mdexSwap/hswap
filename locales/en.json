@@ -90,7 +90,7 @@
   "tokenSearchPlaceholder": "Search name or paste address",
   "note": "Heco Eco-Currency Trading Choose MDEX.COM for faster and better",
   "note1": "Create the largest DeFi ecosystem integrating DEX, IMO and DAO",
-  "reward": "Trading Mining",
+  "reward": "Trading",
   "wihtdrawlMine": "Withdrawal Reward",
   "help1": "The rewards that can be allocated to the pool currently.",
   "help2": "Total historical trading volume of this pool.",
@@ -157,7 +157,7 @@
   "text32": "Pool tokens in rewards pool:",
   "text33": "Your pool share:",
   "text34": "Manage Liquidity in Rewards Pool",
-  "liquidity": "Liquidity Mining",
+  "liquidity": "Liquidity",
   "apy": "Yield (D/Y)*:",
   "boardroom": "Boardroom"
 }
