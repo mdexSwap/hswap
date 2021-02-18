@@ -592,6 +592,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x854bb58fdda85f20b5ab20b20d888f0554c02560.png"
+    },
+    {
+      "name": "HBO",
+      "address": "0x8764Bd4fcc027faF72bA83c0b2028a3BAE0D2D57",
+      "symbol": "HBO",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x8764bd4fcc027faf72ba83c0b2028a3bae0d2d57.png"
     }
   ]
 }
