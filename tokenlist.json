@@ -600,6 +600,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x8764bd4fcc027faf72ba83c0b2028a3bae0d2d57.png"
+    },
+    {
+      "name": "TPT",
+      "address": "0x9ef1918a9bee17054b35108bd3e2665e2af1bb1b",
+      "symbol": "TPT",
+      "decimals": 4,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x9ef1918a9bee17054b35108bd3e2665e2af1bb1b.png"
     }
   ]
 }
