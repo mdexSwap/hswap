@@ -616,6 +616,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x0f1ed0e22a74a90d92746a1794394da117e4de40.png"
+    },
+    {
+      "name": "HBC",
+      "address": "0x72bd642c5d097344814aFE23F7e6001F19f6204A",
+      "symbol": "HBC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x72bd642c5d097344814afe23f7e6001f19f6204a.png"
+    },
+    {
+      "name": "HBS",
+      "address": "0x7d7063f3dca97eaE63545a266c77587dD0296090",
+      "symbol": "HBS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x7d7063f3dca97eae63545a266c77587dd0296090.png"
     }
   ]
 }
