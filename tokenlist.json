@@ -637,7 +637,7 @@
       "name": "PNEO",
       "address": "0x6514a5ebff7944099591ae3e8a5c0979c83b2571",
       "symbol": "PNEO",
-      "decimals": 18,
+      "decimals": 8,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x6514a5ebff7944099591ae3e8a5c0979c83b2571.png"
     }
