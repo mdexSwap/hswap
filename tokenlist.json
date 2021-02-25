@@ -656,6 +656,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xb6ccfa7ef3a295932536e0988cffd85228cb177c.png"
+    },
+    {
+      "name": "GOF",
+      "address": "0x2aafe3c9118db36a20dd4a942b6ff3e78981dce1",
+      "symbol": "GOF",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x2aafe3c9118db36a20dd4a942b6ff3e78981dce1.png"
     }
   ]
 }
