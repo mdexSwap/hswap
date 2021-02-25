@@ -640,6 +640,22 @@
       "decimals": 8,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x6514a5ebff7944099591ae3e8a5c0979c83b2571.png"
+    },
+    {
+      "name": "SHARE",
+      "address": "0x41198c6736d23734E6d17a6F0B4f2D15d2621A3a",
+      "symbol": "SHARE",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x41198c6736d23734e6d17a6f0b4f2d15d2621a3a.png"
+    },
+    {
+      "name": "SCASH",
+      "address": "0xb6ccFA7Ef3a295932536E0988CffD85228cB177c",
+      "symbol": "SCASH",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xb6ccfa7ef3a295932536e0988cffd85228cb177c.png"
     }
   ]
 }
