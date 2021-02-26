@@ -664,6 +664,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x2aafe3c9118db36a20dd4a942b6ff3e78981dce1.png"
+    },
+    {
+      "name": "AS",
+      "address": "0x891daabf6de7a648c9665928e1097b808c1721e2",
+      "symbol": "AS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x891daabf6de7a648c9665928e1097b808c1721e2.png"
     }
   ]
 }
