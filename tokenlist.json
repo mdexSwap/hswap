@@ -680,6 +680,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x350ae659b0010895b9e18400e9356b43babc9139.png"
+    },
+    {
+      "name": "MX",
+      "address": "0x48c1d1f0d5281fbb0bec2e699846fa615d55f3d4",
+      "symbol": "MX",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x48c1d1f0d5281fbb0bec2e699846fa615d55f3d4.png"
     }
   ]
 }
