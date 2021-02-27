@@ -672,6 +672,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x891daabf6de7a648c9665928e1097b808c1721e2.png"
+    },
+    {
+      "name": "BKK",
+      "address": "0x350ae659b0010895b9e18400e9356b43babc9139",
+      "symbol": "BKK",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x350ae659b0010895b9e18400e9356b43babc9139.png"
     }
   ]
 }
