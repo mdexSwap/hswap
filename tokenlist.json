@@ -672,22 +672,6 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x891daabf6de7a648c9665928e1097b808c1721e2.png"
-    },
-    {
-      "name": "OSC",
-      "address": "0x119AD5Bc698D701c6a3265081027B3D3Df227bB3",
-      "symbol": "OSC",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x119ad5bc698d701c6a3265081027b3d3df227bb3.png"
-    },
-    {
-      "name": "OSS",
-      "address": "0xEA6516fB86dc8A623425ad557335AA0C4ebd2386",
-      "symbol": "OSS",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xea6516fb86dc8a623425ad557335aa0c4ebd2386.png"
     }
   ]
 }
