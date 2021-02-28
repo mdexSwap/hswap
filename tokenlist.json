@@ -688,6 +688,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x48c1d1f0d5281fbb0bec2e699846fa615d55f3d4.png"
+    },
+    {
+      "name": "MATTER",
+      "address": "0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f",
+      "symbol": "MATTER",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f.png"
     }
   ]
 }
