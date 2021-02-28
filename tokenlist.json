@@ -704,6 +704,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x9cc51365f1d93a39f2646e40140ce138c549cbf1.png"
+    },
+    {
+      "name": "SWFTC",
+      "address": "0x329dda64Cbc4DFD5FA5072b447B3941CE054ebb3",
+      "symbol": "SWFTC",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x329dda64cbc4dfd5fa5072b447b3941ce054ebb3.png"
     }
   ]
 }
