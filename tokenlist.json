@@ -666,14 +666,6 @@
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x2aafe3c9118db36a20dd4a942b6ff3e78981dce1.png"
     },
     {
-      "name": "AS",
-      "address": "0x891daabf6de7a648c9665928e1097b808c1721e2",
-      "symbol": "AS",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x891daabf6de7a648c9665928e1097b808c1721e2.png"
-    },
-    {
       "name": "BKK",
       "address": "0x350ae659b0010895b9e18400e9356b43babc9139",
       "symbol": "BKK",
@@ -696,14 +688,6 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f.png"
-    },
-    {
-      "name": "BOOK",
-      "address": "0x9cc51365f1D93a39f2646e40140CE138c549cbf1",
-      "symbol": "BOOK",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x9cc51365f1d93a39f2646e40140ce138c549cbf1.png"
     },
     {
       "name": "SWFTC",
