@@ -696,6 +696,14 @@
       "decimals": 8,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x329dda64cbc4dfd5fa5072b447b3941ce054ebb3.png"
+    },
+    {
+      "name": "DEP",
+      "address": "0x48C859531254F25e57D1C1A8E030Ef0B1c895c27",
+      "symbol": "DEP",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x48c859531254f25e57d1c1a8e030ef0b1c895c27.png"
     }
   ]
 }
