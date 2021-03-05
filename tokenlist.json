@@ -712,6 +712,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x42712df5009c20fee340b245b510c0395896cf6e.png"
+    },
+    {
+      "name": "XF",
+      "address": "0xe0fe25eefcfcaddef844fe30b8be1d68ac6b7af3",
+      "symbol": "XF",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xe0fe25eefcfcaddef844fe30b8be1d68ac6b7af3.png"
     }
   ]
 }
