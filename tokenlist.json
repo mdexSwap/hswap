@@ -736,6 +736,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x2effc887b3195d7c8f3966a07c421d828e8f8aee.png"
+    },
+    {
+      "name": "NHA",
+      "address": "0x958788357d9C9f0C3eAc4BFDF6869aB94710734D",
+      "symbol": "NHA",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x958788357d9c9f0c3eac4bfdf6869ab94710734d.png"
     }
   ]
 }
