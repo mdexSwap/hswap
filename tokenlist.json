@@ -728,6 +728,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x9ede2df15deeee26a916b9b93ea7d9363d7531d7.png"
+    },
+    {
+      "name": "HWIN",
+      "address": "0x2eFFC887B3195D7c8f3966A07c421D828E8F8AeE",
+      "symbol": "HWIN",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x2effc887b3195d7c8f3966a07c421d828e8f8aee.png"
     }
   ]
 }
