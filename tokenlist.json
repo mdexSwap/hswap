@@ -720,6 +720,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xe0fe25eefcfcaddef844fe30b8be1d68ac6b7af3.png"
+    },
+    {
+      "name": "HYOT",
+      "address": "0x9ede2df15deeee26a916b9b93ea7d9363d7531d7",
+      "symbol": "HYOT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x9ede2df15deeee26a916b9b93ea7d9363d7531d7.png"
     }
   ]
 }
