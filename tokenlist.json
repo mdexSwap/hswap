@@ -744,6 +744,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x958788357d9c9f0c3eac4bfdf6869ab94710734d.png"
+    },
+    {
+      "name": "MKR",
+      "address": "0x34d75515090902a513f009f4505a750efaad63b0",
+      "symbol": "MKR",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x34d75515090902a513f009f4505a750efaad63b0.png"
+    },
+    {
+      "name": "COMP",
+      "address": "0xce0a5ca134fb59402b723412994b30e02f083842",
+      "symbol": "COMP",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xce0a5ca134fb59402b723412994b30e02f083842.png"
     }
   ]
 }
