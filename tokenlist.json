@@ -768,6 +768,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x46efb7724364ded21b3598519d754323a4f66ec9.png"
+    },
+    {
+      "name": "FIX",
+      "address": "0xDe9495De889996404b14dDBf05f66Db7401F0733",
+      "symbol": "FIX",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xde9495de889996404b14ddbf05f66db7401f0733.png"
     }
   ]
 }
