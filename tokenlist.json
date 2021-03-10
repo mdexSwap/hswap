@@ -776,6 +776,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xde9495de889996404b14ddbf05f66db7401f0733.png"
+    },
+    {
+      "name": "AS",
+      "address": "0x891daabf6de7a648c9665928e1097b808c1721e2",
+      "symbol": "AS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x891daabf6de7a648c9665928e1097b808c1721e2.png"
+    },
+    {
+      "name": "VNLA",
+      "address": "0xe09a504071c0c1483e86727fb95f550a0559d9d2",
+      "symbol": "VNLA",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xe09a504071c0c1483e86727fb95f550a0559d9d2.png"
     }
   ]
 }
