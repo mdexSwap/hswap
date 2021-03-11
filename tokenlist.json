@@ -792,6 +792,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xe09a504071c0c1483e86727fb95f550a0559d9d2.png"
+    },
+    {
+      "name": "ODT",
+      "address": "0x991075Cc14A91Fe001528943B3EB6DF31CfF431F",
+      "symbol": "ODT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x991075cc14a91fe001528943b3eb6df31cff431f.png"
     }
   ]
 }
