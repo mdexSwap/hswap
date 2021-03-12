@@ -816,6 +816,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x5a42eed7200d23f0d4cf35ccd582d6d363f16bfc.png"
+    },
+    {
+      "name": "HNB",
+      "address": "0x704F96F04279ec8eB570e520EFcE56F9245CAc38",
+      "symbol": "HNB",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x704f96f04279ec8eb570e520efce56f9245cac38.png"
     }
   ]
 }
