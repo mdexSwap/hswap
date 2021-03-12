@@ -800,6 +800,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x991075cc14a91fe001528943b3eb6df31cff431f.png"
+    },
+    {
+      "name": "LLC",
+      "address": "0x6A4db3965CB6293dBA0F63F14FB36873172E38d3",
+      "symbol": "LLC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x6a4db3965cb6293dba0f63f14fb36873172e38d3.png"
+    },
+    {
+      "name": "LLS",
+      "address": "0x5a42eeD7200d23F0D4CF35Ccd582D6d363F16BFc",
+      "symbol": "LLS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x5a42eed7200d23f0d4cf35ccd582d6d363f16bfc.png"
     }
   ]
 }
