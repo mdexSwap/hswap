@@ -824,6 +824,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x704f96f04279ec8eb570e520efce56f9245cac38.png"
+    },
+    {
+      "name": "PTD",
+      "address": "0x52ee54dd7a68e9cf131b0a57fd6015c74d7140e2",
+      "symbol": "PTD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x52ee54dd7a68e9cf131b0a57fd6015c74d7140e2.png"
     }
   ]
 }
