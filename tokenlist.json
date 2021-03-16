@@ -832,6 +832,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x52ee54dd7a68e9cf131b0a57fd6015c74d7140e2.png"
+    },
+    {
+      "name": "ANO",
+      "address": "0x9e9842bd60ca6cdd4d17532433a2ea41c723a40d",
+      "symbol": "ANO",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x9e9842bd60ca6cdd4d17532433a2ea41c723a40d.png"
     }
   ]
 }
