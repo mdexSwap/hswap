@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>组合icon</title>
+    <defs>
+        <circle id="path-1" cx="15" cy="15" r="15"></circle>
+        <filter x="-66.7%" y="-33.3%" width="233.3%" height="233.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.00392156863   0 0 0 0 0.811764706   0 0 0 0 0.666666667  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="PC子页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的流动资金_移除流动性_极简版" transform="translate(-936.000000, -557.000000)">
+            <g id="编组-5" transform="translate(727.000000, 280.000000)">
+                <g id="组合icon" transform="translate(219.000000, 277.000000)">
+                    <g id="椭圆形">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#01CFAA" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="编组-16" transform="translate(10.000000, 7.500000)" fill="#FFFFFF">
+                        <rect id="矩形" x="3.75" y="0" width="1.9625" height="11.875" rx="0.98125"></rect>
+                        <path d="M7.21015194,8.92034128 C7.63384201,8.58244452 8.25123011,8.65199374 8.58912686,9.0756838 C8.90714734,9.47445092 8.86424681,10.0447983 8.50486612,10.3922249 L8.43378433,10.4546587 L5.2993162,12.9544261 C4.96655643,13.2198051 4.50436042,13.2384374 4.15344763,13.0105005 L4.07455276,12.9535227 L0.949552761,10.4537553 C0.526361623,10.1152339 0.457723248,9.4977439 0.796244661,9.07455276 C1.11485305,8.67625522 1.6805755,8.59202518 2.09884584,8.86572145 L2.17544724,8.92124466 L4.688125,10.93125 L7.21015194,8.92034128 Z" id="路径" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
