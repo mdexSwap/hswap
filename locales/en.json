@@ -17,7 +17,7 @@
   "balance": "Balance: {{ balanceInput }}",
   "unlock": "Unlock",
   "pending": "Pending",
-  "selectToken": "Select a token",
+  "selectToken": "Select",
   "searchOrPaste": "Search Token Name, Symbol, or Address",
   "searchOrPasteMobile": "Name, Symbol, or Address",
   "noExchange": "No Exchange Found",
@@ -159,5 +159,13 @@
   "text34": "Manage Liquidity in Rewards Pool",
   "liquidity": "Liquidity",
   "apy": "Yield (D/Y)*:",
-  "boardroom": "Boardroom"
+  "boardroom": "Boardroom",
+  "SlippagetoleranceHelp": "Current Slippagetolerance",
+  "Fund": "Ecological Fund",
+  "tab1": "Home",
+  "tab2": "Swap",
+  "tab3": "Mining Pool",
+  "tab4": "Chart",
+  "tab5": "Boardroom",
+  "langSet": "Language Settings"
 }
