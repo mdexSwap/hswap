@@ -840,6 +840,14 @@
       "decimals": 8,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x9e9842bd60ca6cdd4d17532433a2ea41c723a40d.png"
+    },
+    {
+      "name": "CON",
+      "address": "0xeef1324343ca7bf6e743e21dd9e92dfa4efc3a56",
+      "symbol": "CON",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xeef1324343ca7bf6e743e21dd9e92dfa4efc3a56.png"
     }
   ]
 }
