@@ -848,6 +848,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xeef1324343ca7bf6e743e21dd9e92dfa4efc3a56.png"
+    },
+    {
+      "name": "GDB",
+      "address": "0x9193754bA76c2DE16BeC8bE02590821cc9798acC",
+      "symbol": "GDB",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x9193754ba76c2de16bec8be02590821cc9798acc.png"
     }
   ]
 }
