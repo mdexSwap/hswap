@@ -872,6 +872,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x2f92c6e8ed836b5d507251b59d816a55f1b853cc.png"
+    },
+    {
+      "name": "HGT",
+      "address": "0xfd6ce15009d46c6327649218431e8643f82f6d64",
+      "symbol": "HGT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xfd6ce15009d46c6327649218431e8643f82f6d64.png"
     }
   ]
 }
