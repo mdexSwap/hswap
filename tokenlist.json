@@ -856,6 +856,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x9193754ba76c2de16bec8be02590821cc9798acc.png"
+    },
+    {
+      "name": "sHT",
+      "address": "0xbbe6c2337a2543239ff313bed370e4eaeda268ef",
+      "symbol": "sHT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xbbe6c2337a2543239ff313bed370e4eaeda268ef.png"
+    },
+    {
+      "name": "sNEO",
+      "address": "0x2f92C6e8ed836B5d507251b59d816A55F1B853cC",
+      "symbol": "sNEO",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xbbe6c2337a2543239ff313bed370e4eaeda268ef.png"
     }
   ]
 }
