@@ -896,6 +896,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xb1a9a1585a553f2170fc68d402a278af5d186c79.png"
+    },
+    {
+      "name": "HTM",
+      "address": "0x80c66d460e2bb9d31a8de54b4016fca986d0811f",
+      "symbol": "HTM",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x80c66d460e2bb9d31a8de54b4016fca986d0811f.png"
     }
   ]
 }
