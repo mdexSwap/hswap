@@ -880,6 +880,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xfd6ce15009d46c6327649218431e8643f82f6d64.png"
+    },
+    {
+      "name": "BXH",
+      "address": "0xcBD6Cb9243d8e3381Fea611EF023e17D1B7AeDF0",
+      "symbol": "BXH",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0.png"
     }
   ]
 }
