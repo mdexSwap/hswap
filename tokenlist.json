@@ -904,6 +904,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x80c66d460e2bb9d31a8de54b4016fca986d0811f.png"
+    },
+    {
+      "name": "DORA",
+      "address": "0x7Ab088FedAE4FA8ada4Df638c07CEF6C23Aff002",
+      "symbol": "DORA",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x7ab088fedae4fa8ada4df638c07cef6c23aff002.png"
     }
   ]
 }
