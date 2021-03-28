@@ -912,6 +912,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x7ab088fedae4fa8ada4df638c07cef6c23aff002.png"
+    },
+    {
+      "name": "PIPI",
+      "address": "0xaaae746b5e55d14398879312660e9fde07fbc1dc",
+      "symbol": "PIPI",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xaaae746b5e55d14398879312660e9fde07fbc1dc.png"
     }
   ]
 }
