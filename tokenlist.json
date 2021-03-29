@@ -920,6 +920,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xaaae746b5e55d14398879312660e9fde07fbc1dc.png"
+    },
+    {
+      "name": "ZT",
+      "address": "0x2b116651f2e4d50b53b3299d11cb2d96d97ae24a",
+      "symbol": "ZT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x2b116651f2e4d50b53b3299d11cb2d96d97ae24a.png"
     }
   ]
 }
