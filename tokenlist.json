@@ -928,6 +928,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x2b116651f2e4d50b53b3299d11cb2d96d97ae24a.png"
+    },
+    {
+      "name": "pUSDT",
+      "address": "0x38c499dd2a14af3b695901bcec76961008bbc227",
+      "symbol": "pUSDT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x38c499dd2a14af3b695901bcec76961008bbc227.png"
     }
   ]
 }
