@@ -944,6 +944,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xfe04c1d41502ac0d664b1b41dc23e1a4803188e2.png"
+    },
+    {
+      "name": "STK",
+      "address": "0xd187e65f5a6e88d84437d96d2ae8c909cc329f95",
+      "symbol": "STK",
+      "decimals": 12,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xd187e65f5a6e88d84437d96d2ae8c909cc329f95.png"
     }
   ]
 }
