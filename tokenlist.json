@@ -952,6 +952,14 @@
       "decimals": 12,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xd187e65f5a6e88d84437d96d2ae8c909cc329f95.png"
+    },
+    {
+      "name": "COOK",
+      "address": "0x74189862b069e2be5f7c8e6ff08ea8e1b1948519",
+      "symbol": "COOK",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x74189862b069e2be5f7c8e6ff08ea8e1b1948519.png"
     }
   ]
 }
