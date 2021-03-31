@@ -936,6 +936,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x38c499dd2a14af3b695901bcec76961008bbc227.png"
+    },
+    {
+      "name": "HGB",
+      "address": "0xfe04c1d41502ac0d664b1b41dc23e1a4803188e2",
+      "symbol": "HGB",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xfe04c1d41502ac0d664b1b41dc23e1a4803188e2.png"
     }
   ]
 }
