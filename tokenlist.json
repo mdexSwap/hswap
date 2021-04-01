@@ -968,6 +968,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xaab4b32014189e924a9759701586e8bfb0feae3c.png"
+    },
+    {
+      "name": "DBS",
+      "address": "0x414fe43435086924b7b5a32d0218ee3a65bbfbeb",
+      "symbol": "DBS",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x414fe43435086924b7b5a32d0218ee3a65bbfbeb.png"
     }
   ]
 }
