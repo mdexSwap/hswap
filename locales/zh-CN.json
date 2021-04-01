@@ -15,7 +15,7 @@
   "balance": "余额: {{ balanceInput }}",
   "unlock": "解锁",
   "pending": "处理中",
-  "selectToken": "选择",
+  "selectToken": "选择通证",
   "searchOrPaste": "搜索通证或粘贴地址",
   "noExchange": "未找到交易所",
   "exchangeRate": "兑换率",
