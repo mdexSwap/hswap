@@ -976,6 +976,30 @@
       "decimals": 8,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x414fe43435086924b7b5a32d0218ee3a65bbfbeb.png"
+    },
+    {
+      "name": "RDTK",
+      "address": "0x1e0abaf926013fadc7da19ad41665bb753639a94",
+      "symbol": "RDTK",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x1e0abaf926013fadc7da19ad41665bb753639a94.png"
+    },
+    {
+      "name": "sFILDA",
+      "address": "0xb813b811967a77e30b3b1582a578753520c2a4d0",
+      "symbol": "sFILDA",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xb813b811967a77e30b3b1582a578753520c2a4d0.png"
+    },
+    {
+      "name": "sNULS",
+      "address": "0x9812c79099418486838a218037d49b2f823f120c",
+      "symbol": "sNULS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x9812c79099418486838a218037d49b2f823f120c.png"
     }
   ]
 }
