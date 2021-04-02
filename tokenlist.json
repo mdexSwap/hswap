@@ -1000,6 +1000,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x9812c79099418486838a218037d49b2f823f120c.png"
+    },
+    {
+      "name": "AAB",
+      "address": "0x0f73280a282f3b87a3ae2e343ceb6a91e7d87acd",
+      "symbol": "AAB",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x0f73280a282f3b87a3ae2e343ceb6a91e7d87acd.png"
     }
   ]
 }
