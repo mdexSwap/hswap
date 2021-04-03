@@ -1008,6 +1008,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x0f73280a282f3b87a3ae2e343ceb6a91e7d87acd.png"
+    },
+    {
+      "name": "HOBA",
+      "address": "0xf2d3640eecb890984c3a4d282811f805db2fa93b",
+      "symbol": "HOBA",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xf2d3640eecb890984c3a4d282811f805db2fa93b.png"
     }
   ]
 }
