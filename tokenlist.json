@@ -1016,6 +1016,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xf2d3640eecb890984c3a4d282811f805db2fa93b.png"
+    },
+    {
+      "name": "TRIBE",
+      "address": "0x38999fa3a7320bd2c3609bf0f8cb5cd4c11d3fe1",
+      "symbol": "TRIBE",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x38999fa3a7320bd2c3609bf0f8cb5cd4c11d3fe1.png"
+    },
+    {
+      "name": "FEI",
+      "address": "0x485cdbff08a4f91a16689e73893a11ae8b76af6d",
+      "symbol": "FEI",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x485cdbff08a4f91a16689e73893a11ae8b76af6d.png"
     }
   ]
 }
