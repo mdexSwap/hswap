@@ -1032,6 +1032,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x485cdbff08a4f91a16689e73893a11ae8b76af6d.png"
+    },
+    {
+      "name": "WCMD",
+      "address": "0xc7aa0cc3d048785155275fc5793916c28a25d927",
+      "symbol": "WCMD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xc7aa0cc3d048785155275fc5793916c28a25d927.png"
     }
   ]
 }
