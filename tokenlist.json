@@ -1040,6 +1040,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xc7aa0cc3d048785155275fc5793916c28a25d927.png"
+    },
+    {
+      "name": "IDT",
+      "address": "0x950bfdda329d120f6763d3c7bedb35d2880bf7bf",
+      "symbol": "IDT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x950bfdda329d120f6763d3c7bedb35d2880bf7bf.png"
     }
   ]
 }
