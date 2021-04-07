@@ -1040,6 +1040,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x950bfdda329d120f6763d3c7bedb35d2880bf7bf.png"
+    },
+    {
+      "name": "PWT",
+      "address": "0x9ffa142b9c7726e819bb637d4cb70f02224b2185",
+      "symbol": "PWT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x9ffa142b9c7726e819bb637d4cb70f02224b2185.png"
     }
   ]
 }
