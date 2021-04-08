@@ -104,7 +104,7 @@
   "text5": "Personal Reward",
   "text6": "Pool‘s Rewards",
   "text7": "Withdrawable Rewards",
-  "charts": "Charts",
+  "charts": "Chart",
   "Slippagetolerance": "Slippage Tolerance",
   "enterAmount": "Enter amount",
   "connectWallet": "Connect Wallet",
@@ -164,9 +164,11 @@
   "Fund": "Ecological Fund",
   "tab1": "Home",
   "tab2": "Swap",
-  "tab3": "Mining Pool",
+  "tab3": "Farm",
   "tab4": "Chart",
   "tab5": "Boardroom",
   "langSet": "Language Settings",
-  "crossChain": "Bridge"
+  "crossChain": "Bridge",
+  "announcement": "News",
+  "Cooperation": "Cooperation"
 }
