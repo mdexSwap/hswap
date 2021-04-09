@@ -1048,6 +1048,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x9ffa142b9c7726e819bb637d4cb70f02224b2185.png"
+    },
+    {
+      "name": "BOO",
+      "address": "0xff96dccf2763d512b6038dc60b7e96d1a9142507",
+      "symbol": "BOO",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xff96dccf2763d512b6038dc60b7e96d1a9142507.png"
     }
   ]
 }
