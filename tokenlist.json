@@ -1069,9 +1069,17 @@
       "name": "LOM",
       "address": "0x7404db858261673d47bddc2970a23d2163720a5f",
       "symbol": "LOM",
-      "decimals": 18,
+      "decimals": 8,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x7404db858261673d47bddc2970a23d2163720a5f.png"
+    },
+    {
+      "name": "Guru",
+      "address": "0xf288a18b65fee193c915158908143abdde4d5106",
+      "symbol": "Guru",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xf288a18b65fee193c915158908143abdde4d5106.png"
     }
   ]
 }
