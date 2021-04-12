@@ -1064,6 +1064,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x0302a9778a61abd0c9cc1a8fb8f9246f3fbcd18f.png"
+    },
+    {
+      "name": "LOM",
+      "address": "0x7404db858261673d47bddc2970a23d2163720a5f",
+      "symbol": "LOM",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x7404db858261673d47bddc2970a23d2163720a5f.png"
     }
   ]
 }
