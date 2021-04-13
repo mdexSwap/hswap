@@ -1080,6 +1080,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xf288a18b65fee193c915158908143abdde4d5106.png"
+    },
+    {
+      "name": "SYN",
+      "address": "0xc0ea346e4a6ea25a92975b268183eb2628585f19",
+      "symbol": "SYN",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xc0ea346e4a6ea25a92975b268183eb2628585f19.png"
+    },
+    {
+      "name": "HOO",
+      "address": "0xe1d1f66215998786110ba0102ef558b22224c016",
+      "symbol": "HOO",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xe1d1f66215998786110ba0102ef558b22224c016.png"
     }
   ]
 }
