@@ -1096,6 +1096,38 @@
       "decimals": 8,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xe1d1f66215998786110ba0102ef558b22224c016.png"
+    },
+    {
+      "name": "DOGE",
+      "address": "0x40280e26a572745b1152a54d1d44f365daa51618",
+      "symbol": "DOGE",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x40280e26a572745b1152a54d1d44f365daa51618.png"
+    },
+    {
+      "name": "EOS",
+      "address": "0xae3a94a6dc7fce46b40d63bbf355a3ab2aa2a588",
+      "symbol": "EOS",
+      "decimals": 4,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xae3a94a6dc7fce46b40d63bbf355a3ab2aa2a588.png"
+    },
+    {
+      "name": "ADA",
+      "address": "0x843af718ef25708765a8e0942f89edeae1d88df0",
+      "symbol": "ADA",
+      "decimals": 6,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x843af718ef25708765a8e0942f89edeae1d88df0.png"
+    },
+    {
+      "name": "XRP",
+      "address": "0xa2f3c2446a3e20049708838a779ff8782ce6645a",
+      "symbol": "XRP",
+      "decimals": 6,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xa2f3c2446a3e20049708838a779ff8782ce6645a.png"
     }
   ]
 }
