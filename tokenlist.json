@@ -1128,6 +1128,54 @@
       "decimals": 6,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xa2f3c2446a3e20049708838a779ff8782ce6645a.png"
+    },
+    {
+      "name": "DHD",
+      "address": "0xc35efb44d01f9c121f7070f3de53e600233378f8",
+      "symbol": "DHD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xc35efb44d01f9c121f7070f3de53e600233378f8.png"
+    },
+    {
+      "name": "CVT",
+      "address": "0xd27547a4e3ba5fbc8ac6c2477151ab8e17e4d341",
+      "symbol": "CVT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xd27547a4e3ba5fbc8ac6c2477151ab8e17e4d341.png"
+    },
+    {
+      "name": "XMPT",
+      "address": "0x4fa8f0a59a47beabf950a8795933c01455dd9c81",
+      "symbol": "XMPT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x4fa8f0a59a47beabf950a8795933c01455dd9c81.png"
+    },
+    {
+      "name": "XFORCE",
+      "address": "0x8637ac40300296fe3e5c9e67f73ac1d16749a7bf",
+      "symbol": "XFORCE",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x8637ac40300296fe3e5c9e67f73ac1d16749a7bf.png"
+    },
+    {
+      "name": "HYN",
+      "address": "0x3ac19481face71565155f370b3e34a1178745382",
+      "symbol": "HYN",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x3ac19481face71565155f370b3e34a1178745382.png"
+    },
+    {
+      "name": "RP",
+      "address": "0x057899dd6fcb69b23f3b4dc6c7c2bfa4a8a0b0ee",
+      "symbol": "RP",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x057899dd6fcb69b23f3b4dc6c7c2bfa4a8a0b0ee.png"
     }
   ]
 }
