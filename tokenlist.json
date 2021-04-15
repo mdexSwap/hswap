@@ -1162,20 +1162,20 @@
       "logoURI": "https://mdex.com/token-icons/heco/0x8637ac40300296fe3e5c9e67f73ac1d16749a7bf.png"
     },
     {
-      "name": "HYN",
-      "address": "0x3ac19481face71565155f370b3e34a1178745382",
-      "symbol": "HYN",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x3ac19481face71565155f370b3e34a1178745382.png"
-    },
-    {
       "name": "RP",
       "address": "0x057899dd6fcb69b23f3b4dc6c7c2bfa4a8a0b0ee",
       "symbol": "RP",
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x057899dd6fcb69b23f3b4dc6c7c2bfa4a8a0b0ee.png"
+    },
+    {
+      "name": "HYN",
+      "address": "0x3ac19481face71565155f370b3e34a1178745382",
+      "symbol": "HYN",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x3ac19481face71565155f370b3e34a1178745382.png"
     }
   ]
 }
