@@ -1192,6 +1192,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xc0ecc17c6c87b32b2a86d9f4a783974cb1e6507c.png"
+    },
+    {
+      "name": "APYS",
+      "address": "0x90e8896b12a92d51cd213b681c2cad83a9a6bd49",
+      "symbol": "APYS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x90e8896b12a92d51cd213b681c2cad83a9a6bd49.png"
     }
   ]
 }
