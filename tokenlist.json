@@ -1176,6 +1176,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x3ac19481face71565155f370b3e34a1178745382.png"
+    },
+    {
+      "name": "ONE",
+      "address": "0x04baf95fd4c52fd09a56d840baee0ab8d7357bf0",
+      "symbol": "ONE",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x04baf95fd4c52fd09a56d840baee0ab8d7357bf0.png"
+    },
+    {
+      "name": "JT",
+      "address": "0xc0ecc17c6c87b32b2a86d9f4a783974cb1e6507c",
+      "symbol": "JT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xc0ecc17c6c87b32b2a86d9f4a783974cb1e6507c.png"
     }
   ]
 }
