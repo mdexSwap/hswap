@@ -1200,6 +1200,30 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x90e8896b12a92d51cd213b681c2cad83a9a6bd49.png"
+    },
+    {
+      "name": "hFLUX",
+      "address": "0xd10852df03ea8b8af0cc0b09cac3f7dbb15e0433",
+      "symbol": "hFLUX",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xd10852df03ea8b8af0cc0b09cac3f7dbb15e0433.png"
+    },
+    {
+      "name": "BCV",
+      "address": "0xe8145df475e819c64ad68d66cd09d1a5e5e60219",
+      "symbol": "BCV",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xe8145df475e819c64ad68d66cd09d1a5e5e60219.png"
+    },
+    {
+      "name": "PFi",
+      "address": "0xa51eef95a1da7e26ed7d06a28e1bb3507cc34ebd",
+      "symbol": "PFi",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xa51eef95a1da7e26ed7d06a28e1bb3507cc34ebd.png"
     }
   ]
 }
