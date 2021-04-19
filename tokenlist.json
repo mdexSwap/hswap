@@ -1224,6 +1224,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xa51eef95a1da7e26ed7d06a28e1bb3507cc34ebd.png"
+    },
+    {
+      "name": "XY",
+      "address": "0x770c3565dadb34ede50a226a21d1d0671a89bcfd",
+      "symbol": "XY",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x770c3565dadb34ede50a226a21d1d0671a89bcfd.png"
     }
   ]
 }
