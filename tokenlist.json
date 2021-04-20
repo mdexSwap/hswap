@@ -1232,6 +1232,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x770c3565dadb34ede50a226a21d1d0671a89bcfd.png"
+    },
+    {
+      "name": "SHIB",
+      "address": "0xc38072aa3f8e049de541223a9c9772132bb48634",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xc38072aa3f8e049de541223a9c9772132bb48634.png"
     }
   ]
 }
