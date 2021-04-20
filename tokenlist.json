@@ -1240,6 +1240,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xc38072aa3f8e049de541223a9c9772132bb48634.png"
+    },
+    {
+      "name": "BIFI",
+      "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+      "symbol": "BIFI",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x765277eebeca2e31912c9946eae1021199b39c61.png"
     }
   ]
 }
