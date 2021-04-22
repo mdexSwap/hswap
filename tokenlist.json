@@ -1248,6 +1248,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x765277eebeca2e31912c9946eae1021199b39c61.png"
+    },
+    {
+      "name": "sMDX",
+      "address": "0x46914a848405fd79a0b937f388936c9798bf6eac",
+      "symbol": "sMDX",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x46914a848405fd79a0b937f388936c9798bf6eac.png"
     }
   ]
 }
