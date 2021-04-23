@@ -1264,6 +1264,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xe5ed86704819b5c5ec41eeeb52bb739fd36aec20.png"
+    },
+    {
+      "name": "DHD",
+      "address": "0xc35efb44d01f9c121f7070f3de53e600233378f8",
+      "symbol": "DHD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xc35efb44d01f9c121f7070f3de53e600233378f8.png"
     }
   ]
 }
