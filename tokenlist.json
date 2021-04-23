@@ -1256,6 +1256,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x46914a848405fd79a0b937f388936c9798bf6eac.png"
+    },
+    {
+      "name": "ATM",
+      "address": "0xe5ed86704819b5c5ec41eeeb52bb739fd36aec20",
+      "symbol": "ATM",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xe5ed86704819b5c5ec41eeeb52bb739fd36aec20.png"
     }
   ]
 }
