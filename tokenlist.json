@@ -1264,6 +1264,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xe5ed86704819b5c5ec41eeeb52bb739fd36aec20.png"
+    },
+    {
+      "name": "ETET",
+      "address": "0x4911f439936b7e34453bfff4322520e23243cfa3",
+      "symbol": "ETET",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x4911f439936b7e34453bfff4322520e23243cfa3.png"
+    },
+    {
+      "name": "MAN",
+      "address": "0x7a45d615f26da940ffff43eca1274d8ea116ce0c",
+      "symbol": "MAN",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x7a45d615f26da940ffff43eca1274d8ea116ce0c.png"
     }
   ]
 }
