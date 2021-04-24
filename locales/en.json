@@ -171,6 +171,6 @@
   "crossChain": "Bridge",
   "announcement": "News",
   "Cooperation": "Cooperation",
-  "rewardTip": "Transaction mining rewards, the specific rewards received shall prevail.",
+  "rewardTip": "Transactsion mining reward shall subject to the reward received",
   "rewardText": "Reward"
 }
