@@ -923,11 +923,11 @@
     },
     {
       "name": "ZT",
-      "address": "0x2b116651f2e4d50b53b3299d11cb2d96d97ae24a",
+      "address": "0x7d4b6cdcc6fd68ab651c97d787af462b78f55cd0",
       "symbol": "ZT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x2b116651f2e4d50b53b3299d11cb2d96d97ae24a.png"
+      "logoURI": "https://mdex.com/token-icons/heco/0x7d4b6cdcc6fd68ab651c97d787af462b78f55cd0.png"
     },
     {
       "name": "pUSDT",
@@ -1280,6 +1280,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x7a45d615f26da940ffff43eca1274d8ea116ce0c.png"
+    },
+    {
+      "name": "ETHST",
+      "address": "0xb86e05f2cbed6de54874763e4237be6b6391bf48",
+      "symbol": "ETHST",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xb86e05f2cbed6de54874763e4237be6b6391bf48.png"
+    },
+    {
+      "name": "ET",
+      "address": "0x99336b9a5f70f52b4b1fc2886ba9bd2d2263f5d5",
+      "symbol": "ET",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x99336b9a5f70f52b4b1fc2886ba9bd2d2263f5d5.png"
     }
   ]
 }
