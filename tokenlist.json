@@ -1296,6 +1296,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x99336b9a5f70f52b4b1fc2886ba9bd2d2263f5d5.png"
+    },
+    {
+      "name": "WOO",
+      "address": "0x3befb2308bce92da97264077faf37dcd6c8a75e6",
+      "symbol": "WOO",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x3befb2308bce92da97264077faf37dcd6c8a75e6.png"
     }
   ]
 }
