@@ -1304,6 +1304,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x3befb2308bce92da97264077faf37dcd6c8a75e6.png"
+    },
+    {
+      "name": "BLACK",
+      "address": "0xd714d91a169127e11d8fab3665d72e8b7ef9dbe2",
+      "symbol": "BLACK",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xd714d91a169127e11d8fab3665d72e8b7ef9dbe2.png"
+    },
+    {
+      "name": "WAR",
+      "address": "0x910651f81a605a6ef35d05527d24a72fecef8bf0",
+      "symbol": "WAR",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x910651f81a605a6ef35d05527d24a72fecef8bf0.png"
     }
   ]
 }
