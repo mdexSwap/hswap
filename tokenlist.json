@@ -1322,12 +1322,20 @@
       "logoURI": "https://mdex.com/token-icons/heco/0x910651f81a605a6ef35d05527d24a72fecef8bf0.png"
     },
     {
-      "name": "SAP",
-      "address": "0xfe2f1890d8dc69cf16d611c71fef4a811ca84575",
-      "symbol": "SAP",
+      "name": "GOAT",
+      "address": "0x9a359907a1b8f80f59653b3b0844615dda109730",
+      "symbol": "GOAT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xfe2f1890d8dc69cf16d611c71fef4a811ca84575.png"
+      "logoURI": "https://mdex.com/token-icons/heco/0x9a359907a1b8f80f59653b3b0844615dda109730.png"
+    },
+    {
+      "name": "LAMB",
+      "address": "0xe131f048d85f0391a24435eefb7763199b587d0e",
+      "symbol": "LAMB",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xe131f048d85f0391a24435eefb7763199b587d0e.png"
     }
   ]
 }
