@@ -1336,6 +1336,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xe131f048d85f0391a24435eefb7763199b587d0e.png"
+    },
+    {
+      "name": "AFT",
+      "address": "0x25032dbfc1c889ecc78ef1adcfdf65e45a3e02ec",
+      "symbol": "AFT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x25032dbfc1c889ecc78ef1adcfdf65e45a3e02ec.png"
     }
   ]
 }
