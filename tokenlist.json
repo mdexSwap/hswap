@@ -1320,6 +1320,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x910651f81a605a6ef35d05527d24a72fecef8bf0.png"
+    },
+    {
+      "name": "SAP",
+      "address": "0xfe2f1890d8dc69cf16d611c71fef4a811ca84575",
+      "symbol": "SAP",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xfe2f1890d8dc69cf16d611c71fef4a811ca84575.png"
     }
   ]
 }
