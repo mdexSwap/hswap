@@ -1344,6 +1344,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x25032dbfc1c889ecc78ef1adcfdf65e45a3e02ec.png"
+    },
+    {
+      "name": "BADI",
+      "address": "0xacef56397556502b27048a4a546d0f2c2f54b840",
+      "symbol": "BADI",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xacef56397556502b27048a4a546d0f2c2f54b840.png"
     }
   ]
 }
