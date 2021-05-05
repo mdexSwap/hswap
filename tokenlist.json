@@ -1360,6 +1360,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x099626783842d35c221e5d01694c2b928eb3b0ad.png"
+    },
+    {
+      "name": "LION",
+      "address": "0xd44c3ba075d73c812e272c03d42fdb6448ae10cd",
+      "symbol": "LION",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xd44c3ba075d73c812e272c03d42fdb6448ae10cd.png"
     }
   ]
 }
