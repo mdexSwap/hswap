@@ -1352,6 +1352,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xacef56397556502b27048a4a546d0f2c2f54b840.png"
+    },
+    {
+      "name": "DOG",
+      "address": "0x099626783842d35c221e5d01694c2b928eb3b0ad",
+      "symbol": "DOG",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x099626783842d35c221e5d01694c2b928eb3b0ad.png"
     }
   ]
 }
