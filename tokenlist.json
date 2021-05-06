@@ -1384,6 +1384,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x3d760a45d0887dfd89a2f5385a236b29cb46ed2a.png"
+    },
+    {
+      "name": "YF",
+      "address": "0x0d1cde65e2dba76d08c29867aa3bc1b84e1e3aed",
+      "symbol": "YF",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x0d1cde65e2dba76d08c29867aa3bc1b84e1e3aed.png"
     }
   ]
 }
