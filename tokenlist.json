@@ -1368,6 +1368,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xd44c3ba075d73c812e272c03d42fdb6448ae10cd.png"
+    },
+    {
+      "name": "USDC",
+      "address": "0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b.png"
+    },
+    {
+      "name": "DAI",
+      "address": "0x3d760a45d0887dfd89a2f5385a236b29cb46ed2a",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x3d760a45d0887dfd89a2f5385a236b29cb46ed2a.png"
     }
   ]
 }
