@@ -1392,6 +1392,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x0d1cde65e2dba76d08c29867aa3bc1b84e1e3aed.png"
+    },
+    {
+      "name": "YFX",
+      "address": "0xf55a93b613d172b86c2ba3981a849dae2aecde2f",
+      "symbol": "YFX",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xf55a93b613d172b86c2ba3981a849dae2aecde2f.png"
     }
   ]
 }
