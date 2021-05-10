@@ -1400,6 +1400,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xf55a93b613d172b86c2ba3981a849dae2aecde2f.png"
+    },
+    {
+      "name": "HTMoon",
+      "address": "0xb62e3b6a3866f5754fdefcf82e733310e2851043",
+      "symbol": "HTMoon",
+      "decimals": 9,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xb62e3b6a3866f5754fdefcf82e733310e2851043.png"
     }
   ]
 }
