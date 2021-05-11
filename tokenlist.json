@@ -1408,6 +1408,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x29e8e0055cd5c41bdff16a649be2d1e653901625.png"
+    },
+    {
+      "name": "KISHU",
+      "address": "0x06943f317b0111bd5d3eff7e83f33b05914721c5",
+      "symbol": "KISHU",
+      "decimals": 9,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x06943f317b0111bd5d3eff7e83f33b05914721c5.png"
+    },
+    {
+      "name": "ASS",
+      "address": "0x89f8e4473842e92441165c3506a0b909049f6faa",
+      "symbol": "ASS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x89f8e4473842e92441165c3506a0b909049f6faa.png"
     }
   ]
 }
