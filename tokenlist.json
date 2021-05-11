@@ -1424,6 +1424,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x89f8e4473842e92441165c3506a0b909049f6faa.png"
+    },
+    {
+      "name": "NDFIL",
+      "address": "0x10c41dbf49b935f268b6cab0a0a9e9b62a654bde",
+      "symbol": "NDFIL",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x10c41dbf49b935f268b6cab0a0a9e9b62a654bde.png"
+    },
+    {
+      "name": "NDCEX",
+      "address": "0xe7aad5eb7d46c8fcecdd1dc88114cca2385c2317",
+      "symbol": "NDCEX",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xe7aad5eb7d46c8fcecdd1dc88114cca2385c2317.png"
     }
   ]
 }
