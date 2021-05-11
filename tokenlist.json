@@ -1408,6 +1408,14 @@
       "decimals": 9,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xb62e3b6a3866f5754fdefcf82e733310e2851043.png"
+    },
+    {
+      "name": "SHARE",
+      "address": "0x29e8e0055cd5c41bdff16a649be2d1e653901625",
+      "symbol": "SHARE",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x29e8e0055cd5c41bdff16a649be2d1e653901625.png"
     }
   ]
 }
