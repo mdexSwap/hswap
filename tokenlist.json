@@ -1440,6 +1440,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xe7aad5eb7d46c8fcecdd1dc88114cca2385c2317.png"
+    },
+    {
+      "name": "EMJ",
+      "address": "0x8dc9c7521cd538a9969a422e3f0f2a309713484a",
+      "symbol": "EMJ",
+      "decimals": 12,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x8dc9c7521cd538a9969a422e3f0f2a309713484a.png"
+    },
+    {
+      "name": "CMC",
+      "address": "0x4bc94ffe38ca9bbbfbfd62edba0aa5574418a65e",
+      "symbol": "CMC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x4bc94ffe38ca9bbbfbfd62edba0aa5574418a65e.png"
     }
   ]
 }
