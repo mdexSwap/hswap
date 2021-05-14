@@ -1480,6 +1480,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xee9801669c6138e84bd50deb500827b776777d28.png"
+    },
+    {
+      "name": "FIDO",
+      "address": "0x9c80d1ff2452df8c7d061ee277082b6d51b3f6a0",
+      "symbol": "FIDO",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x9c80d1ff2452df8c7d061ee277082b6d51b3f6a0.png"
+    },
+    {
+      "name": "MFIL",
+      "address": "0x5cdafd00aff95da3304791a5c9ae00f84506a909",
+      "symbol": "MFIL",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x5cdafd00aff95da3304791a5c9ae00f84506a909.png"
     }
   ]
 }
