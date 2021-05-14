@@ -1467,11 +1467,11 @@
     },
     {
       "name": "KIKA",
-      "address": "0x0ab9bc77f365fc5ad4d98a81d464d4588c361776",
+      "address": "0x14fadc277f18f848b10d120ba723a3f0f4189a05",
       "symbol": "KIKA",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x0ab9bc77f365fc5ad4d98a81d464d4588c361776.png"
+      "logoURI": "https://mdex.com/token-icons/heco/0x14fadc277f18f848b10d120ba723a3f0f4189a05.png"
     }
   ]
 }
