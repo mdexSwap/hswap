@@ -1456,6 +1456,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x8d854e603dc777337134286f5b3408261736a88f.png"
+    },
+    {
+      "name": "mBTM",
+      "address": "0xd97b21993187391f44d497dd4d961122e0a6f958",
+      "symbol": "mBTM",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xd97b21993187391f44d497dd4d961122e0a6f958.png"
+    },
+    {
+      "name": "KIKA",
+      "address": "0x0ab9bc77f365fc5ad4d98a81d464d4588c361776",
+      "symbol": "KIKA",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x0ab9bc77f365fc5ad4d98a81d464d4588c361776.png"
     }
   ]
 }
