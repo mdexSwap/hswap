@@ -1496,6 +1496,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x5cdafd00aff95da3304791a5c9ae00f84506a909.png"
+    },
+    {
+      "name": "HOGT",
+      "address": "0xfc33785f44c1069010b5de466ee7657c27ab8a0e",
+      "symbol": "HOGT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xfc33785f44c1069010b5de466ee7657c27ab8a0e.png"
     }
   ]
 }
