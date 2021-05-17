@@ -1504,6 +1504,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xfc33785f44c1069010b5de466ee7657c27ab8a0e.png"
+    },
+    {
+      "name": "ORB",
+      "address": "0x440ab529708ce0af5bb3a4d77cfd270beed701c5",
+      "symbol": "ORB",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x440ab529708ce0af5bb3a4d77cfd270beed701c5.png"
     }
   ]
 }
