@@ -1520,6 +1520,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x764b290d97ca0119387133fea63391a765213dc5.png"
+    },
+    {
+      "name": "CMP",
+      "address": "0x681472b80d6e5c4fc27760a9b92e77d7eea99679",
+      "symbol": "CMP",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x681472b80d6e5c4fc27760a9b92e77d7eea99679.png"
     }
   ]
 }
