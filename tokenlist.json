@@ -1528,6 +1528,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x681472b80d6e5c4fc27760a9b92e77d7eea99679.png"
+    },
+    {
+      "name": "HBELT",
+      "address": "0x8c517631a7cd20fc365aa9a4025955fcdaa11f57",
+      "symbol": "HBELT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x8c517631a7cd20fc365aa9a4025955fcdaa11f57.png"
     }
   ]
 }
