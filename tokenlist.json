@@ -1552,6 +1552,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xaca179e010a5d0624d103d2e8e563b26716194ce.png"
+    },
+    {
+      "name": "eCell",
+      "address": "0xf23e43ab4f3990651b562411cda2a053f8590563",
+      "symbol": "eCell",
+      "decimals": 2,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xf23e43ab4f3990651b562411cda2a053f8590563.png"
     }
   ]
 }
