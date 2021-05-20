@@ -1536,6 +1536,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x8c517631a7cd20fc365aa9a4025955fcdaa11f57.png"
+    },
+    {
+      "name": "OGT",
+      "address": "0xf6ef1f99314d9b1a51fd5b69c7d6ad0008083477",
+      "symbol": "OGT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xf6ef1f99314d9b1a51fd5b69c7d6ad0008083477.png"
+    },
+    {
+      "name": "FA",
+      "address": "0xaca179e010a5d0624d103d2e8e563b26716194ce",
+      "symbol": "FA",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xaca179e010a5d0624d103d2e8e563b26716194ce.png"
     }
   ]
 }
