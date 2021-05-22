@@ -1568,6 +1568,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x8a3b7bcbcfa1cf18d415db34e8ed39bda95acfc8.png"
+    },
+    {
+      "name": "COO",
+      "address": "0xa2b7cb98585634ad3b91ce7e719a4c696090adf1",
+      "symbol": "COO",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xa2b7cb98585634ad3b91ce7e719a4c696090adf1.png"
     }
   ]
 }
