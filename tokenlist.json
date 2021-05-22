@@ -1560,6 +1560,14 @@
       "decimals": 2,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xf23e43ab4f3990651b562411cda2a053f8590563.png"
+    },
+    {
+      "name": "SKK",
+      "address": "0x8a3b7bcbcfa1cf18d415db34e8ed39bda95acfc8",
+      "symbol": "SKK",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x8a3b7bcbcfa1cf18d415db34e8ed39bda95acfc8.png"
     }
   ]
 }
