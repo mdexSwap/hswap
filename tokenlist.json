@@ -1584,6 +1584,38 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x80861a817106665bca173db6ac2ab628a738c737.png"
+    },
+    {
+      "name": "COC",
+      "address": "0x588694f56af825b5a1bb80e6ce1aaf08755064de",
+      "symbol": "COC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x588694f56af825b5a1bb80e6ce1aaf08755064de.png"
+    },
+    {
+      "name": "COB",
+      "address": "0xc424ad368d901f6159e43b4f59dd15f90c06ac67",
+      "symbol": "COB",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xc424ad368d901f6159e43b4f59dd15f90c06ac67.png"
+    },
+    {
+      "name": "COS",
+      "address": "0xf08a2a19e4766b342b5ed6644550b05acedee5a8",
+      "symbol": "COS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xf08a2a19e4766b342b5ed6644550b05acedee5a8.png"
+    },
+    {
+      "name": "RING",
+      "address": "0x15e65456310ecb216b51efbd8a1dbf753353dcf9",
+      "symbol": "RING",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x15e65456310ecb216b51efbd8a1dbf753353dcf9.png"
     }
   ]
 }
