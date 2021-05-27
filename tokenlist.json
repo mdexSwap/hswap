@@ -1624,6 +1624,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x4f99d10e16972ff2fe315eee53a95fc5a5870ce3.png"
+    },
+    {
+      "name": "SGB",
+      "address": "0x7f8ab1593f84b0c450385a3f70e921cb796401ba",
+      "symbol": "SGB",
+      "decimals": 6,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x7f8ab1593f84b0c450385a3f70e921cb796401ba.png"
     }
   ]
 }
