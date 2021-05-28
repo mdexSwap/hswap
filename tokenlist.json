@@ -1632,6 +1632,14 @@
       "decimals": 6,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x7f8ab1593f84b0c450385a3f70e921cb796401ba.png"
+    },
+    {
+      "name": "LEV",
+      "address": "0xbc194e6f748a222754c3e8b9946922c09e7d4e91",
+      "symbol": "LEV",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xbc194e6f748a222754c3e8b9946922c09e7d4e91.png"
     }
   ]
 }
