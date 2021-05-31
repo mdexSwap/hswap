@@ -1640,6 +1640,54 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xbc194e6f748a222754c3e8b9946922c09e7d4e91.png"
+    },
+    {
+      "name": "PAUL",
+      "address": "0xfc01b8f883a89278235ba674bbe2bb48db96d9cf",
+      "symbol": "PAUL",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xfc01b8f883a89278235ba674bbe2bb48db96d9cf.png"
+    },
+    {
+      "name": "BSD",
+      "address": "0x7c657cc7b58f4fc8ac6d951d82d31c7dd370106d",
+      "symbol": "BSD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x7c657cc7b58f4fc8ac6d951d82d31c7dd370106d.png"
+    },
+    {
+      "name": "PNX",
+      "address": "0xdb0ad86386dc5c12cd2b9cb7f17f31f405c7e376",
+      "symbol": "PNX",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xdb0ad86386dc5c12cd2b9cb7f17f31f405c7e376.png"
+    },
+    {
+      "name": "PUSD",
+      "address": "0xc36ff5b42092a1822948e8fac103509cc8b68dc6",
+      "symbol": "PUSD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xc36ff5b42092a1822948e8fac103509cc8b68dc6.png"
+    },
+    {
+      "name": "CRU",
+      "address": "0x926875854917c871ebbd44b75ac33ac8386d4ed5",
+      "symbol": "CRU",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x926875854917c871ebbd44b75ac33ac8386d4ed5.png"
+    },
+    {
+      "name": "GFC",
+      "address": "0xafe739209c8bd6993d0abdb50cab9bc4eafe68c4",
+      "symbol": "GFC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xafe739209c8bd6993d0abdb50cab9bc4eafe68c4.png"
     }
   ]
 }
