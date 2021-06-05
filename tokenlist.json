@@ -1688,6 +1688,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0xafe739209c8bd6993d0abdb50cab9bc4eafe68c4.png"
+    },
+    {
+      "name": "SGT",
+      "address": "0x3ca3d376bfe88510712b3e8ca5aee2cfd8c3d956",
+      "symbol": "SGT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x3ca3d376bfe88510712b3e8ca5aee2cfd8c3d956.png"
     }
   ]
 }
