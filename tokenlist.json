@@ -1696,6 +1696,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x3ca3d376bfe88510712b3e8ca5aee2cfd8c3d956.png"
+    },
+    {
+      "name": "kungfu",
+      "address": "0x1b625dd82aeb3aac21398ea9933fbd56e9652383",
+      "symbol": "kungfu",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x1b625dd82aeb3aac21398ea9933fbd56e9652383.png"
     }
   ]
 }
