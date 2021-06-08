@@ -1704,6 +1704,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x1b625dd82aeb3aac21398ea9933fbd56e9652383.png"
+    },
+    {
+      "name": "NUT",
+      "address": "0x4f0a338dfa1c9369f62109c9022042e1f0ae479b",
+      "symbol": "NUT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x4f0a338dfa1c9369f62109c9022042e1f0ae479b.png"
+    },
+    {
+      "name": "Dogmoon",
+      "address": "0x67bab912ee30074cf9a94826e2e02d9936842781",
+      "symbol": "Dogmoon",
+      "decimals": 9,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x67bab912ee30074cf9a94826e2e02d9936842781.png"
     }
   ]
 }
