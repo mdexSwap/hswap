@@ -1728,6 +1728,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x61ed1c66239d29cc93c8597c6167159e8f69a823.png"
+    },
+    {
+      "name": "SID",
+      "address": "0xc095679e7ce024ce0049b1c26eb9c8e789e38146",
+      "symbol": "SID",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xc095679e7ce024ce0049b1c26eb9c8e789e38146.png"
     }
   ]
 }
