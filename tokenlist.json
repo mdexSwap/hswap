@@ -1744,6 +1744,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x4c34e80c4ec7d06e6d2e7c8150dd9513ef413c2e.png"
+    },
+    {
+      "name": "DOJO",
+      "address": "0x180dae91d6d56235453a892d2e56a3e40ba81df8",
+      "symbol": "DOJO",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x180dae91d6d56235453a892d2e56a3e40ba81df8.png"
     }
   ]
 }
