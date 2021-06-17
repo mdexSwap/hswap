@@ -1752,6 +1752,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x180dae91d6d56235453a892d2e56a3e40ba81df8.png"
+    },
+    {
+      "name": "UDog",
+      "address": "0x6ab015683914cd09a209b500f9cb24c39352973d",
+      "symbol": "UDog",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x6ab015683914cd09a209b500f9cb24c39352973d.png"
     }
   ]
 }
