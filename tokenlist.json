@@ -1760,6 +1760,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x6ab015683914cd09a209b500f9cb24c39352973d.png"
+    },
+    {
+      "name": "NIO",
+      "address": "0x19ece5243ed8cbf4b4aabc7f897881eb5759fb7b",
+      "symbol": "NIO",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0x19ece5243ed8cbf4b4aabc7f897881eb5759fb7b.png"
     }
   ]
 }
