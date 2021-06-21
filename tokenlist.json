@@ -1760,6 +1760,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.com/token-icons/heco/0x19ece5243ed8cbf4b4aabc7f897881eb5759fb7b.png"
+    },
+    {
+      "name": "MNC",
+      "address": "0xc66496bd7616ee02691e56d17608e59e6c9f94ea",
+      "symbol": "MNC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.com/token-icons/heco/0xc66496bd7616ee02691e56d17608e59e6c9f94ea.png"
     }
   ]
 }
