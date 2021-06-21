@@ -1738,14 +1738,6 @@
       "logoURI": "https://mdex.com/token-icons/heco/0xc095679e7ce024ce0049b1c26eb9c8e789e38146.png"
     },
     {
-      "name": "CHA",
-      "address": "0x4c34e80c4ec7d06e6d2e7c8150dd9513ef413c2e",
-      "symbol": "CHA",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x4c34e80c4ec7d06e6d2e7c8150dd9513ef413c2e.png"
-    },
-    {
       "name": "DOJO",
       "address": "0x180dae91d6d56235453a892d2e56a3e40ba81df8",
       "symbol": "DOJO",
