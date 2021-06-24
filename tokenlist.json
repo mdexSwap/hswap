@@ -279,7 +279,7 @@
       "symbol": "NVT",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xf0e406c49c63abf358030a299c0e00118c4c6ba5.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xf0e406c49c63abf358030a299c0e00118c4c6ba5.png"
     },
     {
       "name": "Heco FilDA Token",
@@ -295,7 +295,7 @@
       "symbol": "LYFI",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xa441b796e160e204cd0f53d3216275056a355980.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xa441b796e160e204cd0f53d3216275056a355980.png"
     },
     {
       "name": "Heco FC Token",
@@ -303,7 +303,7 @@
       "symbol": "FC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x12fac6b5fa0bc6250058d99d3a1727628651c12e.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x12fac6b5fa0bc6250058d99d3a1727628651c12e.png"
     },
     {
       "name": "Heco FCS Token",
@@ -311,7 +311,7 @@
       "symbol": "FCS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x1b31b55cd94493d06c7a51678fb1fe8963258a5d.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x1b31b55cd94493d06c7a51678fb1fe8963258a5d.png"
     },
     {
       "name": "Heco NULS Token",
@@ -319,7 +319,7 @@
       "symbol": "NULS",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xd938e45680da19ad36646ae8d4c671b2b1270f39.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xd938e45680da19ad36646ae8d4c671b2b1270f39.png"
     },
     {
       "name": "Heco-Peg HPT Token",
@@ -327,7 +327,7 @@
       "symbol": "HPT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xe499ef4616993730ced0f31fa2703b92b50bb536.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xe499ef4616993730ced0f31fa2703b92b50bb536.png"
     },
     {
       "name": "Heco HTC Token",
@@ -335,7 +335,7 @@
       "symbol": "HTC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x1d9b88fffb7b78de890729af67b68aec2ea57d52.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x1d9b88fffb7b78de890729af67b68aec2ea57d52.png"
     },
     {
       "name": "Heco HTS Token",
@@ -343,7 +343,7 @@
       "symbol": "HTS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x559c0af22d0d3efa9a8b95f2e4eaf6017aea4c22.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x559c0af22d0d3efa9a8b95f2e4eaf6017aea4c22.png"
     },
     {
       "name": "Heco BLC Token",
@@ -351,7 +351,7 @@
       "symbol": "BLC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xc657d9664f9a011a3aededab8a0296dc60284e5f.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xc657d9664f9a011a3aededab8a0296dc60284e5f.png"
     },
     {
       "name": "Heco BLS Token",
@@ -359,7 +359,7 @@
       "symbol": "BLS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x5ee4e3a8bd0e865205e95908b290c4578cabbeff.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x5ee4e3a8bd0e865205e95908b290c4578cabbeff.png"
     },
     {
       "name": "Heco LHB Token",
@@ -367,7 +367,7 @@
       "symbol": "LHB",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x8f67854497218043e1f72908ffe38d0ed7f24721.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x8f67854497218043e1f72908ffe38d0ed7f24721.png"
     },
     {
       "name": "Heco-Peg USDTHECO Token",
@@ -375,7 +375,7 @@
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
     },
     {
       "name": "MDX",
@@ -383,7 +383,7 @@
       "symbol": "MDX",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c.png"
     },
     {
       "name": "BXC",
@@ -391,7 +391,7 @@
       "symbol": "BXC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x15f4c382926f8a083bc924abd3aa84ce3982caa9.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x15f4c382926f8a083bc924abd3aa84ce3982caa9.png"
     },
     {
       "name": "BXS",
@@ -399,7 +399,7 @@
       "symbol": "BXS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xbe0e001a5553f4421dc250a20bbdab0e735495e3.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xbe0e001a5553f4421dc250a20bbdab0e735495e3.png"
     },
     {
       "name": "ELA",
@@ -407,7 +407,7 @@
       "symbol": "ELA",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c.png"
     },
     {
       "name": "SH",
@@ -415,7 +415,7 @@
       "symbol": "SH",
       "decimals": 12,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x3dc2536480775d0ab5d1d010b853cd2166cf6e11.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x3dc2536480775d0ab5d1d010b853cd2166cf6e11.png"
     },
     {
       "name": "HIC",
@@ -423,7 +423,7 @@
       "symbol": "HIC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xc6794c116198861fa371b820bd5bf1ecf94a3565.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xc6794c116198861fa371b820bd5bf1ecf94a3565.png"
     },
     {
       "name": "HIS",
@@ -431,7 +431,7 @@
       "symbol": "HIS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x3513f22a33357ba82373680b14f0b50642d0709d.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x3513f22a33357ba82373680b14f0b50642d0709d.png"
     },
     {
       "name": "GTL",
@@ -439,7 +439,7 @@
       "symbol": "GTL",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xa352baa250dea5a279c825cf826891d9543bf21c.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xa352baa250dea5a279c825cf826891d9543bf21c.png"
     },
     {
       "name": "GTLT",
@@ -447,7 +447,7 @@
       "symbol": "GTLT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xa352baa250dea5a279c825cf826891d9543bf21c.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xa352baa250dea5a279c825cf826891d9543bf21c.png"
     },
     {
       "name": "ITF",
@@ -455,7 +455,7 @@
       "symbol": "ITF",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x943d97ad0b597f73425d6f740596d0efd3d62507.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x943d97ad0b597f73425d6f740596d0efd3d62507.png"
     },
     {
       "name": "DBC",
@@ -463,7 +463,7 @@
       "symbol": "DBC",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x80dccc9bdc9b1659a226ae669457bd1e0b293a9b.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x80dccc9bdc9b1659a226ae669457bd1e0b293a9b.png"
     },
     {
       "name": "SOVI",
@@ -471,7 +471,7 @@
       "symbol": "SOVI",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x49e16563a2ba84e560780946f0fb73a8b32c841e.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x49e16563a2ba84e560780946f0fb73a8b32c841e.png"
     },
     {
       "name": "PTT",
@@ -479,7 +479,7 @@
       "symbol": "PTT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x7eed8a3ccfe3d507ec4df443773eae792b9ef2d7.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x7eed8a3ccfe3d507ec4df443773eae792b9ef2d7.png"
     },
     {
       "name": "Can",
@@ -487,7 +487,7 @@
       "symbol": "Can",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x1e6395e6b059fc97a4dda925b6c5ebf19e05c69f.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x1e6395e6b059fc97a4dda925b6c5ebf19e05c69f.png"
     },
     {
       "name": "SLNV2",
@@ -495,7 +495,7 @@
       "symbol": "SLNV2",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x4e252342cf35ff02c4cca9bc655129f5b4a2f901.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x4e252342cf35ff02c4cca9bc655129f5b4a2f901.png"
     },
     {
       "name": "AAVE",
@@ -503,7 +503,7 @@
       "symbol": "AAVE",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x202b4936fe1a82a4965220860ae46d7d3939bb25.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x202b4936fe1a82a4965220860ae46d7d3939bb25.png"
     },
     {
       "name": "SNX",
@@ -511,7 +511,7 @@
       "symbol": "SNX",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x777850281719d5a96c29812ab72f822e0e09f3da.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x777850281719d5a96c29812ab72f822e0e09f3da.png"
     },
     {
       "name": "UNI",
@@ -519,7 +519,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x22c54ce8321a4015740ee1109d9cbc25815c46e6.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x22c54ce8321a4015740ee1109d9cbc25815c46e6.png"
     },
     {
       "name": "EDC",
@@ -527,7 +527,7 @@
       "symbol": "EDC",
       "decimals": 9,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x68a0a1fef18dfcc422db8be6f0f486dea1999edc.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x68a0a1fef18dfcc422db8be6f0f486dea1999edc.png"
     },
     {
       "name": "DHM",
@@ -535,7 +535,7 @@
       "symbol": "DHM",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xca757a8fc34c5d65f38792f329b05e7d9ca8b18e.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xca757a8fc34c5d65f38792f329b05e7d9ca8b18e.png"
     },
     {
       "name": "LINK",
@@ -543,7 +543,7 @@
       "symbol": "LINK",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x9e004545c59d359f6b7bfb06a26390b087717b42.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x9e004545c59d359f6b7bfb06a26390b087717b42.png"
     },
     {
       "name": "BAL",
@@ -551,7 +551,7 @@
       "symbol": "BAL",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x045de15ca76e76426e8fc7cba8392a3138078d0f.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x045de15ca76e76426e8fc7cba8392a3138078d0f.png"
     },
     {
       "name": "YFI",
@@ -559,7 +559,7 @@
       "symbol": "YFI",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xb4f019beac758abbee2f906033aaa2f0f6dacb35.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xb4f019beac758abbee2f906033aaa2f0f6dacb35.png"
     },
     {
       "name": "BEE",
@@ -567,7 +567,7 @@
       "symbol": "BEE",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xb1f80844a1b84c61ab80cafd88b1f8c09f9342e1.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xb1f80844a1b84c61ab80cafd88b1f8c09f9342e1.png"
     },
     {
       "name": "HFI",
@@ -575,7 +575,7 @@
       "symbol": "HFI",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x98fc3b60ed4a504f588342a53746405e355f9347.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x98fc3b60ed4a504f588342a53746405e355f9347.png"
     },
     {
       "name": "LAVA",
@@ -583,7 +583,7 @@
       "symbol": "LAVA",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x56f95662e71f30b333b456439248c6de589082a4.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x56f95662e71f30b333b456439248c6de589082a4.png"
     },
     {
       "name": "DMC",
@@ -591,7 +591,7 @@
       "symbol": "DMC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x854bb58fdda85f20b5ab20b20d888f0554c02560.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x854bb58fdda85f20b5ab20b20d888f0554c02560.png"
     },
     {
       "name": "HBO",
@@ -599,7 +599,7 @@
       "symbol": "HBO",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x8764bd4fcc027faf72ba83c0b2028a3bae0d2d57.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x8764bd4fcc027faf72ba83c0b2028a3bae0d2d57.png"
     },
     {
       "name": "TPT",
@@ -607,7 +607,7 @@
       "symbol": "TPT",
       "decimals": 4,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x9ef1918a9bee17054b35108bd3e2665e2af1bb1b.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x9ef1918a9bee17054b35108bd3e2665e2af1bb1b.png"
     },
     {
       "name": "GDT",
@@ -615,7 +615,7 @@
       "symbol": "GDT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x0f1ed0e22a74a90d92746a1794394da117e4de40.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x0f1ed0e22a74a90d92746a1794394da117e4de40.png"
     },
     {
       "name": "HBC",
@@ -623,7 +623,7 @@
       "symbol": "HBC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x72bd642c5d097344814afe23f7e6001f19f6204a.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x72bd642c5d097344814afe23f7e6001f19f6204a.png"
     },
     {
       "name": "HBS",
@@ -631,7 +631,7 @@
       "symbol": "HBS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x7d7063f3dca97eae63545a266c77587dd0296090.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x7d7063f3dca97eae63545a266c77587dd0296090.png"
     },
     {
       "name": "PNEO",
@@ -639,7 +639,7 @@
       "symbol": "PNEO",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x6514a5ebff7944099591ae3e8a5c0979c83b2571.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x6514a5ebff7944099591ae3e8a5c0979c83b2571.png"
     },
     {
       "name": "SCASH",
@@ -647,7 +647,7 @@
       "symbol": "SCASH",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xb6ccfa7ef3a295932536e0988cffd85228cb177c.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xb6ccfa7ef3a295932536e0988cffd85228cb177c.png"
     },
     {
       "name": "GOF",
@@ -655,7 +655,7 @@
       "symbol": "GOF",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x2aafe3c9118db36a20dd4a942b6ff3e78981dce1.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x2aafe3c9118db36a20dd4a942b6ff3e78981dce1.png"
     },
     {
       "name": "BKK",
@@ -663,7 +663,7 @@
       "symbol": "BKK",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x350ae659b0010895b9e18400e9356b43babc9139.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x350ae659b0010895b9e18400e9356b43babc9139.png"
     },
     {
       "name": "MATTER",
@@ -671,7 +671,7 @@
       "symbol": "MATTER",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f.png"
     },
     {
       "name": "SWFTC",
@@ -679,7 +679,7 @@
       "symbol": "SWFTC",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x329dda64cbc4dfd5fa5072b447b3941ce054ebb3.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x329dda64cbc4dfd5fa5072b447b3941ce054ebb3.png"
     },
     {
       "name": "DEP",
@@ -687,7 +687,7 @@
       "symbol": "DEP",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x48c859531254f25e57d1c1a8e030ef0b1c895c27.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x48c859531254f25e57d1c1a8e030ef0b1c895c27.png"
     },
     {
       "name": "DFT",
@@ -695,7 +695,7 @@
       "symbol": "DFT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x42712df5009c20fee340b245b510c0395896cf6e.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x42712df5009c20fee340b245b510c0395896cf6e.png"
     },
     {
       "name": "XF",
@@ -703,7 +703,7 @@
       "symbol": "XF",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xe0fe25eefcfcaddef844fe30b8be1d68ac6b7af3.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xe0fe25eefcfcaddef844fe30b8be1d68ac6b7af3.png"
     },
     {
       "name": "HYOT",
@@ -711,7 +711,7 @@
       "symbol": "HYOT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x9ede2df15deeee26a916b9b93ea7d9363d7531d7.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x9ede2df15deeee26a916b9b93ea7d9363d7531d7.png"
     },
     {
       "name": "HWIN",
@@ -719,7 +719,7 @@
       "symbol": "HWIN",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x2effc887b3195d7c8f3966a07c421d828e8f8aee.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x2effc887b3195d7c8f3966a07c421d828e8f8aee.png"
     },
     {
       "name": "NHA",
@@ -727,7 +727,7 @@
       "symbol": "NHA",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x958788357d9c9f0c3eac4bfdf6869ab94710734d.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x958788357d9c9f0c3eac4bfdf6869ab94710734d.png"
     },
     {
       "name": "MKR",
@@ -735,7 +735,7 @@
       "symbol": "MKR",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x34d75515090902a513f009f4505a750efaad63b0.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x34d75515090902a513f009f4505a750efaad63b0.png"
     },
     {
       "name": "COMP",
@@ -743,7 +743,7 @@
       "symbol": "COMP",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xce0a5ca134fb59402b723412994b30e02f083842.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xce0a5ca134fb59402b723412994b30e02f083842.png"
     },
     {
       "name": "COPR",
@@ -751,7 +751,7 @@
       "symbol": "COPR",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x46efb7724364ded21b3598519d754323a4f66ec9.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x46efb7724364ded21b3598519d754323a4f66ec9.png"
     },
     {
       "name": "FIX",
@@ -759,7 +759,7 @@
       "symbol": "FIX",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xde9495de889996404b14ddbf05f66db7401f0733.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xde9495de889996404b14ddbf05f66db7401f0733.png"
     },
     {
       "name": "AS",
@@ -767,7 +767,7 @@
       "symbol": "AS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x891daabf6de7a648c9665928e1097b808c1721e2.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x891daabf6de7a648c9665928e1097b808c1721e2.png"
     },
     {
       "name": "VNLA",
@@ -775,7 +775,7 @@
       "symbol": "VNLA",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xe09a504071c0c1483e86727fb95f550a0559d9d2.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xe09a504071c0c1483e86727fb95f550a0559d9d2.png"
     },
     {
       "name": "ODT",
@@ -783,7 +783,7 @@
       "symbol": "ODT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x991075cc14a91fe001528943b3eb6df31cff431f.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x991075cc14a91fe001528943b3eb6df31cff431f.png"
     },
     {
       "name": "LLC",
@@ -791,7 +791,7 @@
       "symbol": "LLC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x6a4db3965cb6293dba0f63f14fb36873172e38d3.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x6a4db3965cb6293dba0f63f14fb36873172e38d3.png"
     },
     {
       "name": "LLS",
@@ -799,7 +799,7 @@
       "symbol": "LLS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x5a42eed7200d23f0d4cf35ccd582d6d363f16bfc.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x5a42eed7200d23f0d4cf35ccd582d6d363f16bfc.png"
     },
     {
       "name": "HNB",
@@ -807,7 +807,7 @@
       "symbol": "HNB",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x704f96f04279ec8eb570e520efce56f9245cac38.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x704f96f04279ec8eb570e520efce56f9245cac38.png"
     },
     {
       "name": "PTD",
@@ -815,7 +815,7 @@
       "symbol": "PTD",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x52ee54dd7a68e9cf131b0a57fd6015c74d7140e2.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x52ee54dd7a68e9cf131b0a57fd6015c74d7140e2.png"
     },
     {
       "name": "ANO",
@@ -823,7 +823,7 @@
       "symbol": "ANO",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x9e9842bd60ca6cdd4d17532433a2ea41c723a40d.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x9e9842bd60ca6cdd4d17532433a2ea41c723a40d.png"
     },
     {
       "name": "CON",
@@ -831,7 +831,7 @@
       "symbol": "CON",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xeef1324343ca7bf6e743e21dd9e92dfa4efc3a56.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xeef1324343ca7bf6e743e21dd9e92dfa4efc3a56.png"
     },
     {
       "name": "GDB",
@@ -839,7 +839,7 @@
       "symbol": "GDB",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x9193754ba76c2de16bec8be02590821cc9798acc.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x9193754ba76c2de16bec8be02590821cc9798acc.png"
     },
     {
       "name": "sHT",
@@ -847,7 +847,7 @@
       "symbol": "sHT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xbbe6c2337a2543239ff313bed370e4eaeda268ef.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xbbe6c2337a2543239ff313bed370e4eaeda268ef.png"
     },
     {
       "name": "sNEO",
@@ -855,7 +855,7 @@
       "symbol": "sNEO",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x2f92c6e8ed836b5d507251b59d816a55f1b853cc.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x2f92c6e8ed836b5d507251b59d816a55f1b853cc.png"
     },
     {
       "name": "HGT",
@@ -863,7 +863,7 @@
       "symbol": "HGT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xfd6ce15009d46c6327649218431e8643f82f6d64.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xfd6ce15009d46c6327649218431e8643f82f6d64.png"
     },
     {
       "name": "BXH",
@@ -871,7 +871,7 @@
       "symbol": "BXH",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0.png"
     },
     {
       "name": "XC",
@@ -879,7 +879,7 @@
       "symbol": "XC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xb1a9a1585a553f2170fc68d402a278af5d186c79.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xb1a9a1585a553f2170fc68d402a278af5d186c79.png"
     },
     {
       "name": "HTM",
@@ -887,7 +887,7 @@
       "symbol": "HTM",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x80c66d460e2bb9d31a8de54b4016fca986d0811f.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x80c66d460e2bb9d31a8de54b4016fca986d0811f.png"
     },
     {
       "name": "DORA",
@@ -895,7 +895,7 @@
       "symbol": "DORA",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x7ab088fedae4fa8ada4df638c07cef6c23aff002.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x7ab088fedae4fa8ada4df638c07cef6c23aff002.png"
     },
     {
       "name": "PIPI",
@@ -903,7 +903,7 @@
       "symbol": "PIPI",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xaaae746b5e55d14398879312660e9fde07fbc1dc.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xaaae746b5e55d14398879312660e9fde07fbc1dc.png"
     },
     {
       "name": "ZT",
@@ -911,7 +911,7 @@
       "symbol": "ZT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x7d4b6cdcc6fd68ab651c97d787af462b78f55cd0.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x7d4b6cdcc6fd68ab651c97d787af462b78f55cd0.png"
     },
     {
       "name": "pUSDT",
@@ -919,7 +919,7 @@
       "symbol": "pUSDT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x38c499dd2a14af3b695901bcec76961008bbc227.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x38c499dd2a14af3b695901bcec76961008bbc227.png"
     },
     {
       "name": "HGB",
@@ -927,7 +927,7 @@
       "symbol": "HGB",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xfe04c1d41502ac0d664b1b41dc23e1a4803188e2.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xfe04c1d41502ac0d664b1b41dc23e1a4803188e2.png"
     },
     {
       "name": "STK",
@@ -935,7 +935,7 @@
       "symbol": "STK",
       "decimals": 12,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xd187e65f5a6e88d84437d96d2ae8c909cc329f95.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xd187e65f5a6e88d84437d96d2ae8c909cc329f95.png"
     },
     {
       "name": "COOK",
@@ -943,7 +943,7 @@
       "symbol": "COOK",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x74189862b069e2be5f7c8e6ff08ea8e1b1948519.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x74189862b069e2be5f7c8e6ff08ea8e1b1948519.png"
     },
     {
       "name": "LUCK",
@@ -951,7 +951,7 @@
       "symbol": "LUCK",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xaab4b32014189e924a9759701586e8bfb0feae3c.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xaab4b32014189e924a9759701586e8bfb0feae3c.png"
     },
     {
       "name": "DBS",
@@ -959,7 +959,7 @@
       "symbol": "DBS",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x414fe43435086924b7b5a32d0218ee3a65bbfbeb.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x414fe43435086924b7b5a32d0218ee3a65bbfbeb.png"
     },
     {
       "name": "RDTK",
@@ -967,7 +967,7 @@
       "symbol": "RDTK",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x1e0abaf926013fadc7da19ad41665bb753639a94.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x1e0abaf926013fadc7da19ad41665bb753639a94.png"
     },
     {
       "name": "sFILDA",
@@ -975,7 +975,7 @@
       "symbol": "sFILDA",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xb813b811967a77e30b3b1582a578753520c2a4d0.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xb813b811967a77e30b3b1582a578753520c2a4d0.png"
     },
     {
       "name": "sNULS",
@@ -983,7 +983,7 @@
       "symbol": "sNULS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x9812c79099418486838a218037d49b2f823f120c.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x9812c79099418486838a218037d49b2f823f120c.png"
     },
     {
       "name": "AAB",
@@ -991,7 +991,7 @@
       "symbol": "AAB",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x0f73280a282f3b87a3ae2e343ceb6a91e7d87acd.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x0f73280a282f3b87a3ae2e343ceb6a91e7d87acd.png"
     },
     {
       "name": "HOBA",
@@ -999,7 +999,7 @@
       "symbol": "HOBA",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xf2d3640eecb890984c3a4d282811f805db2fa93b.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xf2d3640eecb890984c3a4d282811f805db2fa93b.png"
     },
     {
       "name": "TRIBE",
@@ -1007,7 +1007,7 @@
       "symbol": "TRIBE",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x38999fa3a7320bd2c3609bf0f8cb5cd4c11d3fe1.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x38999fa3a7320bd2c3609bf0f8cb5cd4c11d3fe1.png"
     },
     {
       "name": "FEI",
@@ -1015,7 +1015,7 @@
       "symbol": "FEI",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x485cdbff08a4f91a16689e73893a11ae8b76af6d.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x485cdbff08a4f91a16689e73893a11ae8b76af6d.png"
     },
     {
       "name": "IDT",
@@ -1023,7 +1023,7 @@
       "symbol": "IDT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x950bfdda329d120f6763d3c7bedb35d2880bf7bf.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x950bfdda329d120f6763d3c7bedb35d2880bf7bf.png"
     },
     {
       "name": "PWT",
@@ -1031,7 +1031,7 @@
       "symbol": "PWT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x9ffa142b9c7726e819bb637d4cb70f02224b2185.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x9ffa142b9c7726e819bb637d4cb70f02224b2185.png"
     },
     {
       "name": "BOO",
@@ -1039,7 +1039,7 @@
       "symbol": "BOO",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xff96dccf2763d512b6038dc60b7e96d1a9142507.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xff96dccf2763d512b6038dc60b7e96d1a9142507.png"
     },
     {
       "name": "SWF",
@@ -1047,7 +1047,7 @@
       "symbol": "SWF",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x0302a9778a61abd0c9cc1a8fb8f9246f3fbcd18f.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x0302a9778a61abd0c9cc1a8fb8f9246f3fbcd18f.png"
     },
     {
       "name": "LOM",
@@ -1055,7 +1055,7 @@
       "symbol": "LOM",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x7404db858261673d47bddc2970a23d2163720a5f.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x7404db858261673d47bddc2970a23d2163720a5f.png"
     },
     {
       "name": "GURU",
@@ -1063,7 +1063,7 @@
       "symbol": "GURU",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xf288a18b65fee193c915158908143abdde4d5106.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xf288a18b65fee193c915158908143abdde4d5106.png"
     },
     {
       "name": "SYN",
@@ -1071,7 +1071,7 @@
       "symbol": "SYN",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xc0ea346e4a6ea25a92975b268183eb2628585f19.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xc0ea346e4a6ea25a92975b268183eb2628585f19.png"
     },
     {
       "name": "HOO",
@@ -1079,7 +1079,7 @@
       "symbol": "HOO",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xe1d1f66215998786110ba0102ef558b22224c016.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xe1d1f66215998786110ba0102ef558b22224c016.png"
     },
     {
       "name": "DOGE",
@@ -1087,7 +1087,7 @@
       "symbol": "DOGE",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x40280e26a572745b1152a54d1d44f365daa51618.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x40280e26a572745b1152a54d1d44f365daa51618.png"
     },
     {
       "name": "EOS",
@@ -1095,7 +1095,7 @@
       "symbol": "EOS",
       "decimals": 4,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xae3a94a6dc7fce46b40d63bbf355a3ab2aa2a588.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xae3a94a6dc7fce46b40d63bbf355a3ab2aa2a588.png"
     },
     {
       "name": "ADA",
@@ -1103,7 +1103,7 @@
       "symbol": "ADA",
       "decimals": 6,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x843af718ef25708765a8e0942f89edeae1d88df0.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x843af718ef25708765a8e0942f89edeae1d88df0.png"
     },
     {
       "name": "XRP",
@@ -1111,7 +1111,7 @@
       "symbol": "XRP",
       "decimals": 6,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xa2f3c2446a3e20049708838a779ff8782ce6645a.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xa2f3c2446a3e20049708838a779ff8782ce6645a.png"
     },
     {
       "name": "DHD",
@@ -1119,7 +1119,7 @@
       "symbol": "DHD",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xc35efb44d01f9c121f7070f3de53e600233378f8.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xc35efb44d01f9c121f7070f3de53e600233378f8.png"
     },
     {
       "name": "CVT",
@@ -1127,7 +1127,7 @@
       "symbol": "CVT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xd27547a4e3ba5fbc8ac6c2477151ab8e17e4d341.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xd27547a4e3ba5fbc8ac6c2477151ab8e17e4d341.png"
     },
     {
       "name": "XMPT",
@@ -1135,7 +1135,7 @@
       "symbol": "XMPT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x4fa8f0a59a47beabf950a8795933c01455dd9c81.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x4fa8f0a59a47beabf950a8795933c01455dd9c81.png"
     },
     {
       "name": "XFORCE",
@@ -1143,7 +1143,7 @@
       "symbol": "XFORCE",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x8637ac40300296fe3e5c9e67f73ac1d16749a7bf.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x8637ac40300296fe3e5c9e67f73ac1d16749a7bf.png"
     },
     {
       "name": "RP",
@@ -1151,7 +1151,7 @@
       "symbol": "RP",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x057899dd6fcb69b23f3b4dc6c7c2bfa4a8a0b0ee.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x057899dd6fcb69b23f3b4dc6c7c2bfa4a8a0b0ee.png"
     },
     {
       "name": "HYN",
@@ -1159,7 +1159,7 @@
       "symbol": "HYN",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x3ac19481face71565155f370b3e34a1178745382.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x3ac19481face71565155f370b3e34a1178745382.png"
     },
     {
       "name": "ONE",
@@ -1167,7 +1167,7 @@
       "symbol": "ONE",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x04baf95fd4c52fd09a56d840baee0ab8d7357bf0.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x04baf95fd4c52fd09a56d840baee0ab8d7357bf0.png"
     },
     {
       "name": "JT",
@@ -1175,7 +1175,7 @@
       "symbol": "JT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xc0ecc17c6c87b32b2a86d9f4a783974cb1e6507c.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xc0ecc17c6c87b32b2a86d9f4a783974cb1e6507c.png"
     },
     {
       "name": "APYS",
@@ -1183,7 +1183,7 @@
       "symbol": "APYS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x90e8896b12a92d51cd213b681c2cad83a9a6bd49.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x90e8896b12a92d51cd213b681c2cad83a9a6bd49.png"
     },
     {
       "name": "hFLUX",
@@ -1191,7 +1191,7 @@
       "symbol": "hFLUX",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xd10852df03ea8b8af0cc0b09cac3f7dbb15e0433.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xd10852df03ea8b8af0cc0b09cac3f7dbb15e0433.png"
     },
     {
       "name": "BCV",
@@ -1199,7 +1199,7 @@
       "symbol": "BCV",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xe8145df475e819c64ad68d66cd09d1a5e5e60219.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xe8145df475e819c64ad68d66cd09d1a5e5e60219.png"
     },
     {
       "name": "PFi",
@@ -1207,7 +1207,7 @@
       "symbol": "PFi",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xa51eef95a1da7e26ed7d06a28e1bb3507cc34ebd.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xa51eef95a1da7e26ed7d06a28e1bb3507cc34ebd.png"
     },
     {
       "name": "XY",
@@ -1215,7 +1215,7 @@
       "symbol": "XY",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x770c3565dadb34ede50a226a21d1d0671a89bcfd.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x770c3565dadb34ede50a226a21d1d0671a89bcfd.png"
     },
     {
       "name": "SHIB",
@@ -1223,7 +1223,7 @@
       "symbol": "SHIB",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xc38072aa3f8e049de541223a9c9772132bb48634.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xc38072aa3f8e049de541223a9c9772132bb48634.png"
     },
     {
       "name": "BIFI",
@@ -1231,7 +1231,7 @@
       "symbol": "BIFI",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x765277eebeca2e31912c9946eae1021199b39c61.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x765277eebeca2e31912c9946eae1021199b39c61.png"
     },
     {
       "name": "sMDX",
@@ -1239,7 +1239,7 @@
       "symbol": "sMDX",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x46914a848405fd79a0b937f388936c9798bf6eac.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x46914a848405fd79a0b937f388936c9798bf6eac.png"
     },
     {
       "name": "ATM",
@@ -1247,7 +1247,7 @@
       "symbol": "ATM",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xe5ed86704819b5c5ec41eeeb52bb739fd36aec20.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xe5ed86704819b5c5ec41eeeb52bb739fd36aec20.png"
     },
     {
       "name": "ETET",
@@ -1255,7 +1255,7 @@
       "symbol": "ETET",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x4911f439936b7e34453bfff4322520e23243cfa3.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x4911f439936b7e34453bfff4322520e23243cfa3.png"
     },
     {
       "name": "MAN",
@@ -1263,7 +1263,7 @@
       "symbol": "MAN",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x7a45d615f26da940ffff43eca1274d8ea116ce0c.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x7a45d615f26da940ffff43eca1274d8ea116ce0c.png"
     },
     {
       "name": "ETHST",
@@ -1271,7 +1271,7 @@
       "symbol": "ETHST",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xb86e05f2cbed6de54874763e4237be6b6391bf48.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xb86e05f2cbed6de54874763e4237be6b6391bf48.png"
     },
     {
       "name": "ET",
@@ -1279,7 +1279,7 @@
       "symbol": "ET",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x99336b9a5f70f52b4b1fc2886ba9bd2d2263f5d5.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x99336b9a5f70f52b4b1fc2886ba9bd2d2263f5d5.png"
     },
     {
       "name": "WOO",
@@ -1287,7 +1287,7 @@
       "symbol": "WOO",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x3befb2308bce92da97264077faf37dcd6c8a75e6.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x3befb2308bce92da97264077faf37dcd6c8a75e6.png"
     },
     {
       "name": "BLACK",
@@ -1295,7 +1295,7 @@
       "symbol": "BLACK",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xd714d91a169127e11d8fab3665d72e8b7ef9dbe2.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xd714d91a169127e11d8fab3665d72e8b7ef9dbe2.png"
     },
     {
       "name": "WAR",
@@ -1303,7 +1303,7 @@
       "symbol": "WAR",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x910651f81a605a6ef35d05527d24a72fecef8bf0.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x910651f81a605a6ef35d05527d24a72fecef8bf0.png"
     },
     {
       "name": "GOAT",
@@ -1311,7 +1311,7 @@
       "symbol": "GOAT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x9a359907a1b8f80f59653b3b0844615dda109730.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x9a359907a1b8f80f59653b3b0844615dda109730.png"
     },
     {
       "name": "LAMB",
@@ -1319,7 +1319,7 @@
       "symbol": "LAMB",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xe131f048d85f0391a24435eefb7763199b587d0e.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xe131f048d85f0391a24435eefb7763199b587d0e.png"
     },
     {
       "name": "AFT",
@@ -1327,7 +1327,7 @@
       "symbol": "AFT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x25032dbfc1c889ecc78ef1adcfdf65e45a3e02ec.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x25032dbfc1c889ecc78ef1adcfdf65e45a3e02ec.png"
     },
     {
       "name": "BADI",
@@ -1335,7 +1335,7 @@
       "symbol": "BADI",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xacef56397556502b27048a4a546d0f2c2f54b840.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xacef56397556502b27048a4a546d0f2c2f54b840.png"
     },
     {
       "name": "DOG",
@@ -1343,7 +1343,7 @@
       "symbol": "DOG",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x099626783842d35c221e5d01694c2b928eb3b0ad.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x099626783842d35c221e5d01694c2b928eb3b0ad.png"
     },
     {
       "name": "LION",
@@ -1351,7 +1351,7 @@
       "symbol": "LION",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xd44c3ba075d73c812e272c03d42fdb6448ae10cd.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xd44c3ba075d73c812e272c03d42fdb6448ae10cd.png"
     },
     {
       "name": "USDC",
@@ -1359,7 +1359,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b.png"
     },
     {
       "name": "DAI",
@@ -1367,7 +1367,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x3d760a45d0887dfd89a2f5385a236b29cb46ed2a.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x3d760a45d0887dfd89a2f5385a236b29cb46ed2a.png"
     },
     {
       "name": "YF",
@@ -1375,7 +1375,7 @@
       "symbol": "YF",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x0d1cde65e2dba76d08c29867aa3bc1b84e1e3aed.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x0d1cde65e2dba76d08c29867aa3bc1b84e1e3aed.png"
     },
     {
       "name": "YFX",
@@ -1383,7 +1383,7 @@
       "symbol": "YFX",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xf55a93b613d172b86c2ba3981a849dae2aecde2f.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xf55a93b613d172b86c2ba3981a849dae2aecde2f.png"
     },
     {
       "name": "HTMoon",
@@ -1391,7 +1391,7 @@
       "symbol": "HTMoon",
       "decimals": 9,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xb62e3b6a3866f5754fdefcf82e733310e2851043.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xb62e3b6a3866f5754fdefcf82e733310e2851043.png"
     },
     {
       "name": "SHARE",
@@ -1399,7 +1399,7 @@
       "symbol": "SHARE",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x29e8e0055cd5c41bdff16a649be2d1e653901625.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x29e8e0055cd5c41bdff16a649be2d1e653901625.png"
     },
     {
       "name": "KISHU",
@@ -1407,7 +1407,7 @@
       "symbol": "KISHU",
       "decimals": 9,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x06943f317b0111bd5d3eff7e83f33b05914721c5.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x06943f317b0111bd5d3eff7e83f33b05914721c5.png"
     },
     {
       "name": "ASS",
@@ -1415,7 +1415,7 @@
       "symbol": "ASS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x89f8e4473842e92441165c3506a0b909049f6faa.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x89f8e4473842e92441165c3506a0b909049f6faa.png"
     },
     {
       "name": "NDFIL",
@@ -1423,7 +1423,7 @@
       "symbol": "NDFIL",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x10c41dbf49b935f268b6cab0a0a9e9b62a654bde.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x10c41dbf49b935f268b6cab0a0a9e9b62a654bde.png"
     },
     {
       "name": "NDCEX",
@@ -1431,7 +1431,7 @@
       "symbol": "NDCEX",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xe7aad5eb7d46c8fcecdd1dc88114cca2385c2317.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xe7aad5eb7d46c8fcecdd1dc88114cca2385c2317.png"
     },
     {
       "name": "EMJ",
@@ -1439,7 +1439,7 @@
       "symbol": "EMJ",
       "decimals": 12,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x8dc9c7521cd538a9969a422e3f0f2a309713484a.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x8dc9c7521cd538a9969a422e3f0f2a309713484a.png"
     },
     {
       "name": "CMC",
@@ -1447,7 +1447,7 @@
       "symbol": "CMC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x4bc94ffe38ca9bbbfbfd62edba0aa5574418a65e.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x4bc94ffe38ca9bbbfbfd62edba0aa5574418a65e.png"
     },
     {
       "name": "MX",
@@ -1455,7 +1455,7 @@
       "symbol": "MX",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x8d854e603dc777337134286f5b3408261736a88f.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x8d854e603dc777337134286f5b3408261736a88f.png"
     },
     {
       "name": "mBTM",
@@ -1463,7 +1463,7 @@
       "symbol": "mBTM",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xd97b21993187391f44d497dd4d961122e0a6f958.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xd97b21993187391f44d497dd4d961122e0a6f958.png"
     },
     {
       "name": "KIKA",
@@ -1471,7 +1471,7 @@
       "symbol": "KIKA",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x14fadc277f18f848b10d120ba723a3f0f4189a05.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x14fadc277f18f848b10d120ba723a3f0f4189a05.png"
     },
     {
       "name": "O3",
@@ -1479,7 +1479,7 @@
       "symbol": "O3",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xee9801669c6138e84bd50deb500827b776777d28.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xee9801669c6138e84bd50deb500827b776777d28.png"
     },
     {
       "name": "FIDO",
@@ -1487,7 +1487,7 @@
       "symbol": "FIDO",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x9c80d1ff2452df8c7d061ee277082b6d51b3f6a0.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x9c80d1ff2452df8c7d061ee277082b6d51b3f6a0.png"
     },
     {
       "name": "MFIL",
@@ -1495,7 +1495,7 @@
       "symbol": "MFIL",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x5cdafd00aff95da3304791a5c9ae00f84506a909.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x5cdafd00aff95da3304791a5c9ae00f84506a909.png"
     },
     {
       "name": "HOGT",
@@ -1503,7 +1503,7 @@
       "symbol": "HOGT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xfc33785f44c1069010b5de466ee7657c27ab8a0e.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xfc33785f44c1069010b5de466ee7657c27ab8a0e.png"
     },
     {
       "name": "ORB",
@@ -1511,7 +1511,7 @@
       "symbol": "ORB",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x440ab529708ce0af5bb3a4d77cfd270beed701c5.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x440ab529708ce0af5bb3a4d77cfd270beed701c5.png"
     },
     {
       "name": "MEL",
@@ -1519,7 +1519,7 @@
       "symbol": "MEL",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x764b290d97ca0119387133fea63391a765213dc5.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x764b290d97ca0119387133fea63391a765213dc5.png"
     },
     {
       "name": "CMP",
@@ -1527,7 +1527,7 @@
       "symbol": "CMP",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x681472b80d6e5c4fc27760a9b92e77d7eea99679.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x681472b80d6e5c4fc27760a9b92e77d7eea99679.png"
     },
     {
       "name": "HBELT",
@@ -1535,7 +1535,7 @@
       "symbol": "HBELT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x8c517631a7cd20fc365aa9a4025955fcdaa11f57.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x8c517631a7cd20fc365aa9a4025955fcdaa11f57.png"
     },
     {
       "name": "OGT",
@@ -1543,7 +1543,7 @@
       "symbol": "OGT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xf6ef1f99314d9b1a51fd5b69c7d6ad0008083477.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xf6ef1f99314d9b1a51fd5b69c7d6ad0008083477.png"
     },
     {
       "name": "FA",
@@ -1551,7 +1551,7 @@
       "symbol": "FA",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xaca179e010a5d0624d103d2e8e563b26716194ce.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xaca179e010a5d0624d103d2e8e563b26716194ce.png"
     },
     {
       "name": "eCell",
@@ -1559,7 +1559,7 @@
       "symbol": "eCell",
       "decimals": 2,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xf23e43ab4f3990651b562411cda2a053f8590563.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xf23e43ab4f3990651b562411cda2a053f8590563.png"
     },
     {
       "name": "SKK",
@@ -1567,7 +1567,7 @@
       "symbol": "SKK",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x8a3b7bcbcfa1cf18d415db34e8ed39bda95acfc8.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x8a3b7bcbcfa1cf18d415db34e8ed39bda95acfc8.png"
     },
     {
       "name": "COO",
@@ -1575,7 +1575,7 @@
       "symbol": "COO",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xa2b7cb98585634ad3b91ce7e719a4c696090adf1.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xa2b7cb98585634ad3b91ce7e719a4c696090adf1.png"
     },
     {
       "name": "COW",
@@ -1583,7 +1583,7 @@
       "symbol": "COW",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x80861a817106665bca173db6ac2ab628a738c737.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x80861a817106665bca173db6ac2ab628a738c737.png"
     },
     {
       "name": "COC",
@@ -1591,7 +1591,7 @@
       "symbol": "COC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x588694f56af825b5a1bb80e6ce1aaf08755064de.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x588694f56af825b5a1bb80e6ce1aaf08755064de.png"
     },
     {
       "name": "COB",
@@ -1599,7 +1599,7 @@
       "symbol": "COB",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xc424ad368d901f6159e43b4f59dd15f90c06ac67.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xc424ad368d901f6159e43b4f59dd15f90c06ac67.png"
     },
     {
       "name": "COS",
@@ -1607,7 +1607,7 @@
       "symbol": "COS",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xf08a2a19e4766b342b5ed6644550b05acedee5a8.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xf08a2a19e4766b342b5ed6644550b05acedee5a8.png"
     },
     {
       "name": "RING",
@@ -1615,7 +1615,7 @@
       "symbol": "RING",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x15e65456310ecb216b51efbd8a1dbf753353dcf9.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x15e65456310ecb216b51efbd8a1dbf753353dcf9.png"
     },
     {
       "name": "BNB",
@@ -1623,7 +1623,7 @@
       "symbol": "BNB",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x4f99d10e16972ff2fe315eee53a95fc5a5870ce3.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x4f99d10e16972ff2fe315eee53a95fc5a5870ce3.png"
     },
     {
       "name": "SGB",
@@ -1631,7 +1631,7 @@
       "symbol": "SGB",
       "decimals": 6,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x7f8ab1593f84b0c450385a3f70e921cb796401ba.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x7f8ab1593f84b0c450385a3f70e921cb796401ba.png"
     },
     {
       "name": "LEV",
@@ -1639,7 +1639,7 @@
       "symbol": "LEV",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xbc194e6f748a222754c3e8b9946922c09e7d4e91.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xbc194e6f748a222754c3e8b9946922c09e7d4e91.png"
     },
     {
       "name": "PAUL",
@@ -1647,7 +1647,7 @@
       "symbol": "PAUL",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xfc01b8f883a89278235ba674bbe2bb48db96d9cf.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xfc01b8f883a89278235ba674bbe2bb48db96d9cf.png"
     },
     {
       "name": "BSD",
@@ -1655,7 +1655,7 @@
       "symbol": "BSD",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x7c657cc7b58f4fc8ac6d951d82d31c7dd370106d.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x7c657cc7b58f4fc8ac6d951d82d31c7dd370106d.png"
     },
     {
       "name": "PNX",
@@ -1663,7 +1663,7 @@
       "symbol": "PNX",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xdb0ad86386dc5c12cd2b9cb7f17f31f405c7e376.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xdb0ad86386dc5c12cd2b9cb7f17f31f405c7e376.png"
     },
     {
       "name": "PUSD",
@@ -1671,7 +1671,7 @@
       "symbol": "PUSD",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xc36ff5b42092a1822948e8fac103509cc8b68dc6.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xc36ff5b42092a1822948e8fac103509cc8b68dc6.png"
     },
     {
       "name": "CRU",
@@ -1679,7 +1679,7 @@
       "symbol": "CRU",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x926875854917c871ebbd44b75ac33ac8386d4ed5.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x926875854917c871ebbd44b75ac33ac8386d4ed5.png"
     },
     {
       "name": "GFC",
@@ -1687,7 +1687,7 @@
       "symbol": "GFC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xafe739209c8bd6993d0abdb50cab9bc4eafe68c4.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xafe739209c8bd6993d0abdb50cab9bc4eafe68c4.png"
     },
     {
       "name": "SGT",
@@ -1695,7 +1695,7 @@
       "symbol": "SGT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x3ca3d376bfe88510712b3e8ca5aee2cfd8c3d956.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x3ca3d376bfe88510712b3e8ca5aee2cfd8c3d956.png"
     },
     {
       "name": "kungfu",
@@ -1703,7 +1703,7 @@
       "symbol": "kungfu",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x1b625dd82aeb3aac21398ea9933fbd56e9652383.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x1b625dd82aeb3aac21398ea9933fbd56e9652383.png"
     },
     {
       "name": "NUT",
@@ -1711,7 +1711,7 @@
       "symbol": "NUT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x4f0a338dfa1c9369f62109c9022042e1f0ae479b.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x4f0a338dfa1c9369f62109c9022042e1f0ae479b.png"
     },
     {
       "name": "Dogmoon",
@@ -1719,7 +1719,7 @@
       "symbol": "Dogmoon",
       "decimals": 9,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x67bab912ee30074cf9a94826e2e02d9936842781.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x67bab912ee30074cf9a94826e2e02d9936842781.png"
     },
     {
       "name": "RSD",
@@ -1727,7 +1727,7 @@
       "symbol": "RSD",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x61ed1c66239d29cc93c8597c6167159e8f69a823.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x61ed1c66239d29cc93c8597c6167159e8f69a823.png"
     },
     {
       "name": "SID",
@@ -1735,7 +1735,7 @@
       "symbol": "SID",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xc095679e7ce024ce0049b1c26eb9c8e789e38146.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xc095679e7ce024ce0049b1c26eb9c8e789e38146.png"
     },
     {
       "name": "DOJO",
@@ -1743,7 +1743,7 @@
       "symbol": "DOJO",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x180dae91d6d56235453a892d2e56a3e40ba81df8.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x180dae91d6d56235453a892d2e56a3e40ba81df8.png"
     },
     {
       "name": "UDog",
@@ -1751,7 +1751,7 @@
       "symbol": "UDog",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x6ab015683914cd09a209b500f9cb24c39352973d.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x6ab015683914cd09a209b500f9cb24c39352973d.png"
     },
     {
       "name": "NIO",
@@ -1759,7 +1759,7 @@
       "symbol": "NIO",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0x19ece5243ed8cbf4b4aabc7f897881eb5759fb7b.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0x19ece5243ed8cbf4b4aabc7f897881eb5759fb7b.png"
     },
     {
       "name": "MNC",
@@ -1767,7 +1767,7 @@
       "symbol": "MNC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://mdex.com/token-icons/heco/0xc66496bd7616ee02691e56d17608e59e6c9f94ea.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xc66496bd7616ee02691e56d17608e59e6c9f94ea.png"
     }
   ]
 }
