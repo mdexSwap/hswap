@@ -1768,6 +1768,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xc66496bd7616ee02691e56d17608e59e6c9f94ea.png"
+    },
+    {
+      "name": "LGC",
+      "address": "0xb7a819d170e59d79f6289b91ca1d1a9d0c788a2a",
+      "symbol": "LGC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xb7a819d170e59d79f6289b91ca1d1a9d0c788a2a.png"
     }
   ]
 }
