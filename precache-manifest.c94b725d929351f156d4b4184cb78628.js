@@ -1,71 +1,67 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7777fabe939e3b54fa6f84c52771c1f",
+    "revision": "26566ee366660808e2711973d6656e4d",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/index.html"
   },
   {
-    "revision": "c388bad4bd8c2ef560be",
+    "revision": "e7c9683116465c1a75e1",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/css/4.32992b00.chunk.css"
   },
   {
-    "revision": "40f09c502bfd342057d7",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/0.b16b5b9e.chunk.js"
+    "revision": "b09206b0e2dd9038dc40",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/0.18ef8775.chunk.js"
   },
   {
     "revision": "5f39ec92d632dd1dd85e0f960f3dd11e",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/0.b16b5b9e.chunk.js.LICENSE.txt"
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/0.18ef8775.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c1c5ec36a4ab8496e26c",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/1.daf020b3.chunk.js"
+    "revision": "2f5d00abeef0205376e0",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/1.68b6240d.chunk.js"
   },
   {
-    "revision": "c388bad4bd8c2ef560be",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.6e8cd363.chunk.js"
+    "revision": "e7c9683116465c1a75e1",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.29bb840e.chunk.js"
   },
   {
-    "revision": "f9add0e3a4603658cc837c38b7c21c06",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.6e8cd363.chunk.js.LICENSE.txt"
+    "revision": "41f5d48cdc2a18e04ffd3d58c43f7273",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.29bb840e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a635d4206d95618aa7e7",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/5.48fe2a67.chunk.js"
+    "revision": "6267621b878709f84302",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/5.7a26f529.chunk.js"
   },
   {
-    "revision": "3289493f4d0b141d782e538107605ed2",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/5.48fe2a67.chunk.js.LICENSE.txt"
+    "revision": "caaa9c24a9c77eaead93960f555b5a26",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/5.7a26f529.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "27975aef368bd6d4ad32",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.16894c6b.chunk.js"
+    "revision": "4b4d3dfdf209b09563ad",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.9fcef894.chunk.js"
   },
   {
-    "revision": "783f14fa45b10e088e68f98251448010",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.16894c6b.chunk.js.LICENSE.txt"
+    "revision": "e510716e81d0e28f0928",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/7.63d1b0a5.chunk.js"
   },
   {
-    "revision": "81c13055aef2027744f9",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/7.9d169c37.chunk.js"
+    "revision": "25b95b341c04e245b169",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/8.b7e14384.chunk.js"
   },
   {
-    "revision": "4d843b3f8031e18f9a7c",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/8.5e38c2e2.chunk.js"
-  },
-  {
-    "revision": "d2c6a71e379bab7ec49b",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/9.51bde23b.chunk.js"
+    "revision": "c1a2494e19bd342a487c",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/9.49ce6b9d.chunk.js"
   },
   {
     "revision": "c178649ae0de162657ef6caa733cc024",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/9.51bde23b.chunk.js.LICENSE.txt"
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/9.49ce6b9d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "75d59c0adf5ea2fa47c8",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/main.4fb81ad7.chunk.js"
+    "revision": "f534feb60ef74c611c31",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/main.cf83d041.chunk.js"
   },
   {
-    "revision": "7bafb99d605ebc2230b8",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/runtime-main.cf078fdc.js"
+    "revision": "65105dfcb1ddcaffcebc",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/runtime-main.64150cd4.js"
   },
   {
     "revision": "9934c19c9dafeb1ede53329defca3972",
