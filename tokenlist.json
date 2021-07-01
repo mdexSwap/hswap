@@ -1776,6 +1776,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xb7a819d170e59d79f6289b91ca1d1a9d0c788a2a.png"
+    },
+    {
+      "name": "IFNT",
+      "address": "0x7d4c107ec8fd251fd39c32199c70b76eae4e67c1",
+      "symbol": "IFNT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x7d4c107ec8fd251fd39c32199c70b76eae4e67c1.png"
     }
   ]
 }
