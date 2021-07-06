@@ -1800,6 +1800,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xfe2f1890d8dc69cf16d611c71fef4a811ca84575.png"
+    },
+    {
+      "name": "MOMAT",
+      "address": "0x162edc778dfd179a1e54e4bcaaf650dc293bb2c9",
+      "symbol": "MOMAT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x162edc778dfd179a1e54e4bcaaf650dc293bb2c9.png"
     }
   ]
 }
