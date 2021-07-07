@@ -1808,6 +1808,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x162edc778dfd179a1e54e4bcaaf650dc293bb2c9.png"
+    },
+    {
+      "name": "NFTB",
+      "address": "0xacdbb3329d9c46e6c2c22d123f92a5f6705540fc",
+      "symbol": "NFTB",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xacdbb3329d9c46e6c2c22d123f92a5f6705540fc.png"
     }
   ]
 }
