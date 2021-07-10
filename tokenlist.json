@@ -1816,6 +1816,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xacdbb3329d9c46e6c2c22d123f92a5f6705540fc.png"
+    },
+    {
+      "name": "HBC",
+      "address": "0x894b2917c783514c9e4c24229bf60f3cb4c9c905",
+      "symbol": "HBC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x894b2917c783514c9e4c24229bf60f3cb4c9c905.png"
     }
   ]
 }
