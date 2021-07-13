@@ -1824,6 +1824,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x894b2917c783514c9e4c24229bf60f3cb4c9c905.png"
+    },
+    {
+      "name": "BIRD",
+      "address": "0xed6a80032336bdba650d581f07ac64aec58b0f3d",
+      "symbol": "BIRD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xed6a80032336bdba650d581f07ac64aec58b0f3d.png"
+    },
+    {
+      "name": "DOTC",
+      "address": "0xc0748cf90e231b8f21f75b7ad69732f19c76b751",
+      "symbol": "DOTC",
+      "decimals": 12,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xc0748cf90e231b8f21f75b7ad69732f19c76b751.png"
     }
   ]
 }
