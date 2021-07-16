@@ -1856,6 +1856,22 @@
       "decimals": 3,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x5c1a372b944f76e6464e3caade017c0860b252c5.png"
+    },
+    {
+      "name": "OFE",
+      "address": "0xdc216b57cfd24080a920ec66a484c9c01503d6fe",
+      "symbol": "OFE",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xdc216b57cfd24080a920ec66a484c9c01503d6fe.png"
+    },
+    {
+      "name": "CNCE",
+      "address": "0xde8490b5b858a55703a6bc7683d7cd73064512f0",
+      "symbol": "CNCE",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xde8490b5b858a55703a6bc7683d7cd73064512f0.png"
     }
   ]
 }
