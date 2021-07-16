@@ -1848,6 +1848,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x8b70512b5248e7c1f0f6996e2fde2e952708c4c9.png"
+    },
+    {
+      "name": "UBT",
+      "address": "0x5c1a372b944f76e6464e3caade017c0860b252c5",
+      "symbol": "UBT",
+      "decimals": 3,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x5c1a372b944f76e6464e3caade017c0860b252c5.png"
     }
   ]
 }
