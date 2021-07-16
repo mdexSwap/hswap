@@ -1840,6 +1840,14 @@
       "decimals": 12,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xc0748cf90e231b8f21f75b7ad69732f19c76b751.png"
+    },
+    {
+      "name": "NT",
+      "address": "0x8b70512b5248e7c1f0f6996e2fde2e952708c4c9",
+      "symbol": "NT",
+      "decimals": 12,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x8b70512b5248e7c1f0f6996e2fde2e952708c4c9.png"
     }
   ]
 }
