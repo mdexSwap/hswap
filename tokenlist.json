@@ -1872,6 +1872,46 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xde8490b5b858a55703a6bc7683d7cd73064512f0.png"
+    },
+    {
+      "name": "AURA",
+      "address": "0x745e5a2f4db6c78c71911e86e5978990a3630666",
+      "symbol": "AURA",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x745e5a2f4db6c78c71911e86e5978990a3630666.png"
+    },
+    {
+      "name": "GOLD",
+      "address": "0xfb371c8b99ba0b239e66e0a66bb6296b00dcd09f",
+      "symbol": "GOLD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xfb371c8b99ba0b239e66e0a66bb6296b00dcd09f.png"
+    },
+    {
+      "name": "HHO",
+      "address": "0x56746a8099a7e6d962802a23e01feddc1282cdae",
+      "symbol": "HHO",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x56746a8099a7e6d962802a23e01feddc1282cdae.png"
+    },
+    {
+      "name": "FIRE",
+      "address": "0xe97c7f83ec91e29569f1a08de95ad3bb0e8b6b3a",
+      "symbol": "FIRE",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xe97c7f83ec91e29569f1a08de95ad3bb0e8b6b3a.png"
+    },
+    {
+      "name": "SIOO",
+      "address": "0x81989cd57271565dbffe9807e917afc098b30c9a",
+      "symbol": "SIOO",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x81989cd57271565dbffe9807e917afc098b30c9a.png"
     }
   ]
 }
