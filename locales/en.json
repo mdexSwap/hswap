@@ -157,6 +157,7 @@
   "text32": "Pool tokens in rewards pool:",
   "text33": "Your pool share:",
   "text34": "Manage Liquidity in Rewards Pool",
+  "text35": "The data is counted by DeBank, which summarizes the balance of the address in multiple blockchain networks.",
   "liquidity": "Liquidity",
   "apy": "Yield (D/Y)*:",
   "boardroom": "Boardroom",
@@ -173,11 +174,15 @@
   "Cooperation": "Cooperation",
   "rewardTip": "Transactsion mining reward shall subject to the reward received",
   "rewardText": "Reward",
-
   "Apply": "Listing Token",
   "Fluidity": "Liquidity Mining Whitelist",
   "Notice": "Notice",
   "Repurchase": "Repurchase & Burn",
   "Vulnerability": "Bug Bounty Campaign",
-  "MdexApplication": "MDEX Ecological Fund Application"
+  "MdexApplication": "MDEX Ecological Fund Application",
+  "importToken": "Import token",
+  "text36": "Anyone can create a HRC-20 token on HECO with any name, including creating fake versions of existing tokens and tokens that claim to represent projects that do not have a token.",
+  "text37": "If you purchase an arbitrary token, you may be unable to sell it back.",
+  "viewOn": "view on HecoInfo",
+  "IKnow": "I understand"
 }
