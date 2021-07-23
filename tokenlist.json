@@ -1812,6 +1812,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x81989cd57271565dbffe9807e917afc098b30c9a.png"
+    },
+    {
+      "name": "WOOD",
+      "address": "0xca3749c8c3af04278d596a3fbe461481b6aa1b01",
+      "symbol": "WOOD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xca3749c8c3af04278d596a3fbe461481b6aa1b01.png"
     }
   ]
 }
