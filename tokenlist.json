@@ -1820,6 +1820,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xca3749c8c3af04278d596a3fbe461481b6aa1b01.png"
+    },
+    {
+      "name": "MAKI",
+      "address": "0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93",
+      "symbol": "MAKI",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93.png"
     }
   ]
 }
