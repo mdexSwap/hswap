@@ -1828,6 +1828,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93.png"
+    },
+    {
+      "name": "VFIL",
+      "address": "0x1f60736262af2df60b60bdeedc113333c22f6034",
+      "symbol": "VFIL",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x1f60736262af2df60b60bdeedc113333c22f6034.png"
     }
   ]
 }
