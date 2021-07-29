@@ -1836,6 +1836,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x1f60736262af2df60b60bdeedc113333c22f6034.png"
+    },
+    {
+      "name": "XNFT",
+      "address": "0xe5944b50df84001a36c7de0d5cb4da7ab21407d2",
+      "symbol": "XNFT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xe5944b50df84001a36c7de0d5cb4da7ab21407d2.png"
+    },
+    {
+      "name": "TUSD",
+      "address": "0x5ee41ab6edd38cdfb9f6b4e6cf7f75c87e170d98",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x5ee41ab6edd38cdfb9f6b4e6cf7f75c87e170d98.png"
     }
   ]
 }
