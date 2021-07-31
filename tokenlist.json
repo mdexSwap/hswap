@@ -1860,6 +1860,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xa6cb08514bff2ac5f7583959818e4842ef91e74f.png"
+    },
+    {
+      "name": "Moore",
+      "address": "0x97c3d6cfee6fe1c8d598ee7506eac814a5c86ddb",
+      "symbol": "Moore",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x97c3d6cfee6fe1c8d598ee7506eac814a5c86ddb.png"
     }
   ]
 }
