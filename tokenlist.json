@@ -1868,6 +1868,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x97c3d6cfee6fe1c8d598ee7506eac814a5c86ddb.png"
+    },
+    {
+      "name": "BTAU",
+      "address": "0x782b2be4cb221cd9d7916ce2b4e15f7aa43ab754",
+      "symbol": "BTAU",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x782b2be4cb221cd9d7916ce2b4e15f7aa43ab754.png"
     }
   ]
 }
