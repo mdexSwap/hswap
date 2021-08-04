@@ -166,7 +166,7 @@
   "tab1": "Home",
   "tab2": "Swap",
   "tab3": "Farm",
-  "tab4": "Trade",
+  "tab4": "Markets",
   "tab5": "Boardroom",
   "langSet": "Language Settings",
   "crossChain": "Bridge",
@@ -185,5 +185,5 @@
   "text37": "If you purchase an arbitrary token, you may be unable to sell it back.",
   "viewOn": "view on HecoInfo",
   "IKnow": "I understand",
-  "trade": "Trade"
+  "trade": "Markets"
 }
