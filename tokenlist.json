@@ -1876,6 +1876,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x782b2be4cb221cd9d7916ce2b4e15f7aa43ab754.png"
+    },
+    {
+      "name": "BUTTER",
+      "address": "0xbf84214ea409a369774321727595f218889ed943",
+      "symbol": "BUTTER",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xbf84214ea409a369774321727595f218889ed943.png"
     }
   ]
 }
