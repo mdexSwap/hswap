@@ -1884,6 +1884,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xbf84214ea409a369774321727595f218889ed943.png"
+    },
+    {
+      "name": "BET",
+      "address": "0x028a52032a7075a42585c037f069c62b49ebaa3d",
+      "symbol": "BET",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x028a52032a7075a42585c037f069c62b49ebaa3d.png"
     }
   ]
 }
