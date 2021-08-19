@@ -1900,6 +1900,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xfed613cdd4182b73a032fe1f03bd7872465010f8.png"
+    },
+    {
+      "name": "SAME",
+      "address": "0xb273fb0f00ff4681fe6cd1137a5e68faba3b1889",
+      "symbol": "SAME",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xb273fb0f00ff4681fe6cd1137a5e68faba3b1889.png"
     }
   ]
 }
