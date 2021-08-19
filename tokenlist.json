@@ -1892,6 +1892,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x028a52032a7075a42585c037f069c62b49ebaa3d.png"
+    },
+    {
+      "name": "C",
+      "address": "0xfed613cdd4182b73a032fe1f03bd7872465010f8",
+      "symbol": "C",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xfed613cdd4182b73a032fe1f03bd7872465010f8.png"
     }
   ]
 }
