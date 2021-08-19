@@ -1908,6 +1908,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xb273fb0f00ff4681fe6cd1137a5e68faba3b1889.png"
+    },
+    {
+      "name": "ACMD",
+      "address": "0x8d4088fa51712afd45d066ba317f15fd78739843",
+      "symbol": "ACMD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x8d4088fa51712afd45d066ba317f15fd78739843.png"
     }
   ]
 }
