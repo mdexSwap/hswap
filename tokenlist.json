@@ -1916,6 +1916,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x8d4088fa51712afd45d066ba317f15fd78739843.png"
+    },
+    {
+      "name": "EPK",
+      "address": "0x2e969f4826466e3ef52eae153f6368d17ec5d8f4",
+      "symbol": "EPK",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x2e969f4826466e3ef52eae153f6368d17ec5d8f4.png"
     }
   ]
 }
