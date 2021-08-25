@@ -1924,6 +1924,30 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x2e969f4826466e3ef52eae153f6368d17ec5d8f4.png"
+    },
+    {
+      "name": "CETF",
+      "address": "0x24ab27a7274de0ba5760bab804fe870bb572c510",
+      "symbol": "CETF",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x24ab27a7274de0ba5760bab804fe870bb572c510.png"
+    },
+    {
+      "name": "XTM",
+      "address": "0x3f526a5a8811cc1812d923d5dbb20e4b1c6028db",
+      "symbol": "XTM",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x3f526a5a8811cc1812d923d5dbb20e4b1c6028db.png"
+    },
+    {
+      "name": "DOG",
+      "address": "0xb3863e02d6930762933f672ca134c1ccecd0d413",
+      "symbol": "DOG",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xb3863e02d6930762933f672ca134c1ccecd0d413.png"
     }
   ]
 }
