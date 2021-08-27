@@ -1948,6 +1948,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xb3863e02d6930762933f672ca134c1ccecd0d413.png"
+    },
+    {
+      "name": "HTSUN",
+      "address": "0xca1539b060a6663915c983ac14d2e52b7c0e8360",
+      "symbol": "HTSUN",
+      "decimals": 9,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xca1539b060a6663915c983ac14d2e52b7c0e8360.png"
     }
   ]
 }
