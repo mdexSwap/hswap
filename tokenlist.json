@@ -1956,6 +1956,14 @@
       "decimals": 9,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xca1539b060a6663915c983ac14d2e52b7c0e8360.png"
+    },
+    {
+      "name": "AMMC",
+      "address": "0x569409cdb77097b518b338f91a808fa868400ace",
+      "symbol": "AMMC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x569409cdb77097b518b338f91a808fa868400ace.png"
     }
   ]
 }
