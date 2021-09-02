@@ -104,7 +104,7 @@
   "text5": "Personal Reward",
   "text6": "Pool‘s Rewards",
   "text7": "Withdrawable Rewards",
-  "charts": "Chart",
+  "charts": "Info",
   "Slippagetolerance": "Slippage Tolerance",
   "enterAmount": "Enter amount",
   "connectWallet": "Connect Wallet",
@@ -166,7 +166,7 @@
   "tab1": "Home",
   "tab2": "Swap",
   "tab3": "Farm",
-  "tab4": "Markets",
+  "tab4": "Charts",
   "tab5": "Boardroom",
   "langSet": "Language Settings",
   "crossChain": "Bridge",
@@ -185,5 +185,5 @@
   "text37": "If you purchase an arbitrary token, you may be unable to sell it back.",
   "viewOn": "view on HecoInfo",
   "IKnow": "I understand",
-  "trade": "Markets"
+  "trade": "Charts"
 }
