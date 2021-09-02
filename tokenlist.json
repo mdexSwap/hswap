@@ -1964,6 +1964,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x569409cdb77097b518b338f91a808fa868400ace.png"
+    },
+    {
+      "name": "PKQT",
+      "address": "0x15e5e02677aa7523655755d2c48cf4b54b5d4233",
+      "symbol": "PKQT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x15e5e02677aa7523655755d2c48cf4b54b5d4233.png"
     }
   ]
 }
