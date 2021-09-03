@@ -19,6 +19,7 @@
       "symbol": "WHT",
       "decimals": 18,
       "chainId": 256,
+      "whitelist" : true,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
     },
     {
@@ -59,6 +60,7 @@
       "symbol": "HETH",
       "decimals": 18,
       "chainId": 256,
+      "whitelist" : true,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfeb76ae65c11b363bd452afb4a7ec59925848656/logo.png"
     },
     {
@@ -67,6 +69,7 @@
       "symbol": "HBTC",
       "decimals": 18,
       "chainId": 256,
+      "whitelist" : true,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1d8684e6cdd65383affd3d5cf8263fcda5001f13/logo.png"
     },
     {
@@ -83,6 +86,7 @@
       "symbol": "HUSD",
       "decimals": 8,
       "chainId": 128,
+      "whitelist" : true,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4779.png"
     },
     {
@@ -91,6 +95,7 @@
       "symbol": "WHT",
       "decimals": 18,
       "chainId": 128,
+      "whitelist" : true,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
     },
     {
@@ -115,6 +120,7 @@
       "symbol": "HDOT",
       "decimals": 18,
       "chainId": 128,
+      "whitelist" : true,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
     },
     {
@@ -123,6 +129,7 @@
       "symbol": "HLTC",
       "decimals": 18,
       "chainId": 128,
+      "whitelist" : true,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
     },
     {
@@ -131,6 +138,7 @@
       "symbol": "HBCH",
       "decimals": 18,
       "chainId": 128,
+      "whitelist" : true,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png"
     },
     {
@@ -147,6 +155,7 @@
       "symbol": "HFIL",
       "decimals": 18,
       "chainId": 128,
+      "whitelist" : true,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png"
     },
     {
@@ -275,6 +284,7 @@
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 128,
+      "whitelist" : true,
       "logoURI": "https://mdex.co/token-icons/heco/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
     },
     {
@@ -283,6 +293,7 @@
       "symbol": "MDX",
       "decimals": 18,
       "chainId": 128,
+      "whitelist" : true,
       "logoURI": "https://mdex.co/token-icons/heco/0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c.png"
     },
     {
@@ -419,6 +430,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 128,
+      "whitelist" : true,
       "logoURI": "https://mdex.co/token-icons/heco/0x22c54ce8321a4015740ee1109d9cbc25815c46e6.png"
     },
     {
@@ -443,6 +455,7 @@
       "symbol": "LINK",
       "decimals": 18,
       "chainId": 128,
+      "whitelist" : true,
       "logoURI": "https://mdex.co/token-icons/heco/0x9e004545c59d359f6b7bfb06a26390b087717b42.png"
     },
     {
@@ -987,6 +1000,7 @@
       "symbol": "DOGE",
       "decimals": 8,
       "chainId": 128,
+      "whitelist" : true,
       "logoURI": "https://mdex.co/token-icons/heco/0x40280e26a572745b1152a54d1d44f365daa51618.png"
     },
     {
@@ -1003,6 +1017,7 @@
       "symbol": "ADA",
       "decimals": 6,
       "chainId": 128,
+      "whitelist" : true,
       "logoURI": "https://mdex.co/token-icons/heco/0x843af718ef25708765a8e0942f89edeae1d88df0.png"
     },
     {
@@ -1011,6 +1026,7 @@
       "symbol": "XRP",
       "decimals": 6,
       "chainId": 128,
+      "whitelist" : true,
       "logoURI": "https://mdex.co/token-icons/heco/0xa2f3c2446a3e20049708838a779ff8782ce6645a.png"
     },
     {
@@ -1259,6 +1275,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 128,
+      "whitelist" : true,
       "logoURI": "https://mdex.co/token-icons/heco/0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b.png"
     },
     {
@@ -1267,6 +1284,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 128,
+      "whitelist" : true,
       "logoURI": "https://mdex.co/token-icons/heco/0x3d760a45d0887dfd89a2f5385a236b29cb46ed2a.png"
     },
     {
@@ -1523,6 +1541,7 @@
       "symbol": "BNB",
       "decimals": 18,
       "chainId": 128,
+      "whitelist" : true,
       "logoURI": "https://mdex.co/token-icons/heco/0x4f99d10e16972ff2fe315eee53a95fc5a5870ce3.png"
     },
     {
