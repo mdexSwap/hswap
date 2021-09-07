@@ -1991,6 +1991,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x15e5e02677aa7523655755d2c48cf4b54b5d4233.png"
+    },
+    {
+      "name": "4Belt",
+      "address": "0x0e6a619e7b5b6005e99d67dbf4c1d659a1f93add",
+      "symbol": "4Belt",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x0e6a619e7b5b6005e99d67dbf4c1d659a1f93add.png"
+    },
+    {
+      "name": "PiMoon",
+      "address": "0xe1c91942e366dd875d0ba2729fd89569fdd552db",
+      "symbol": "PiMoon",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xe1c91942e366dd875d0ba2729fd89569fdd552db.png"
     }
   ]
 }
