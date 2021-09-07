@@ -1,24 +1,33 @@
-name: Deploy to Skynet
+name: Build & deploy
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
 
 jobs:
   build:
+    name: Build
     runs-on: ubuntu-latest
-
+    
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
-          node-version: 16.x
+          node-version: 12.x
+
+      - run: npm install
+      - run: npm run build-production
 
 
-
-      - name: "Deploy to Skynet"
+      - name: Deploy to Skynet
         uses: SkynetLabs/deploy-to-skynet-action@v2
         with:
-          upload-dir: build
+          upload-dir: ./dist/production
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          registry-seed: ${{ secrets.SKYNET_REGISTRY_SEED || '' }}
+          registry-seed: ${{ secrets.REGISTRY_SEED || '' }}
+          registry-datakey: ${{ secrets.REGISTRY_DATAKEY || '' }}
