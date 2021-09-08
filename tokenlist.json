@@ -2007,6 +2007,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xe1c91942e366dd875d0ba2729fd89569fdd552db.png"
+    },
+    {
+      "name": "CAN",
+      "address": "0xd5f9bdc2e6c8ee0484a6293ce7fa97d96a5e1012",
+      "symbol": "CAN",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xd5f9bdc2e6c8ee0484a6293ce7fa97d96a5e1012.png"
     }
   ]
 }
