@@ -2015,6 +2015,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xd5f9bdc2e6c8ee0484a6293ce7fa97d96a5e1012.png"
+    },
+    {
+      "name": "xMDX",
+      "address": "0xf5cf092c93cddfe9087b86bdca5cb3f4f72b7242",
+      "symbol": "xMDX",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xf5cf092c93cddfe9087b86bdca5cb3f4f72b7242.png"
     }
   ]
 }
