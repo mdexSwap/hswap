@@ -2023,6 +2023,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xf5cf092c93cddfe9087b86bdca5cb3f4f72b7242.png"
+    },
+    {
+      "name": "HJW",
+      "address": "0x96b414744296e0027b3f75557936d4bffd5eb810",
+      "symbol": "HJW",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x96b414744296e0027b3f75557936d4bffd5eb810.png"
     }
   ]
 }
