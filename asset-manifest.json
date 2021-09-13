@@ -1,21 +1,21 @@
 {
   "files": {
-    "static/js/0.176f18f9.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/0.176f18f9.chunk.js",
-    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/main.cd147e3d.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/runtime-main.c1a93b91.js",
+    "static/js/0.e09cc8ce.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/0.e09cc8ce.chunk.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/main.0102359f.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/runtime-main.c0afe8e8.js",
     "static/css/3.719925f0.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/css/3.719925f0.chunk.css",
-    "static/js/3.c3d63402.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/3.c3d63402.chunk.js",
-    "static/js/4.b693efa9.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.b693efa9.chunk.js",
-    "static/js/5.3a8741f2.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/5.3a8741f2.chunk.js",
-    "static/js/6.baf549ae.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.baf549ae.chunk.js",
-    "static/js/7.76916a1b.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/7.76916a1b.chunk.js",
-    "static/js/8.99c1224e.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/8.99c1224e.chunk.js",
+    "static/js/3.b090b371.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/3.b090b371.chunk.js",
+    "static/js/4.6b7c023c.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.6b7c023c.chunk.js",
+    "static/js/5.a6d484c6.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/5.a6d484c6.chunk.js",
+    "static/js/6.b3ae03f3.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.b3ae03f3.chunk.js",
+    "static/js/7.5f690ca3.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/7.5f690ca3.chunk.js",
+    "static/js/8.000df973.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/8.000df973.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/index.html",
-    "precache-manifest.0bbc4324a5c99803caf8d32e7bc8b923.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/precache-manifest.0bbc4324a5c99803caf8d32e7bc8b923.js",
+    "precache-manifest.f20d18f16cea829c052f4ddb5af5bd1d.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/precache-manifest.f20d18f16cea829c052f4ddb5af5bd1d.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/service-worker.js",
-    "static/js/3.c3d63402.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/3.c3d63402.chunk.js.LICENSE.txt",
-    "static/js/4.b693efa9.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.b693efa9.chunk.js.LICENSE.txt",
-    "static/js/6.baf549ae.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.baf549ae.chunk.js.LICENSE.txt",
+    "static/js/3.b090b371.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/3.b090b371.chunk.js.LICENSE.txt",
+    "static/js/4.6b7c023c.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.6b7c023c.chunk.js.LICENSE.txt",
+    "static/js/6.b3ae03f3.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.b3ae03f3.chunk.js.LICENSE.txt",
     "static/media/Discord-hover.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/Discord-hover.67c60337.svg",
     "static/media/Discord.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/Discord.4aa39640.svg",
     "static/media/Github-hover.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/Github-hover.e8b190b2.svg",
@@ -82,9 +82,9 @@
     "static/media/x.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/x.5b8e2186.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1a93b91.js",
+    "static/js/runtime-main.c0afe8e8.js",
     "static/css/3.719925f0.chunk.css",
-    "static/js/3.c3d63402.chunk.js",
-    "static/js/main.cd147e3d.chunk.js"
+    "static/js/3.b090b371.chunk.js",
+    "static/js/main.0102359f.chunk.js"
   ]
 }
