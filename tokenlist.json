@@ -2031,6 +2031,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x96b414744296e0027b3f75557936d4bffd5eb810.png"
+    },
+    {
+      "name": "KISS",
+      "address": "0x6894b3a977fe0492617307348355c4f17be2c70d",
+      "symbol": "KISS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x6894b3a977fe0492617307348355c4f17be2c70d.png"
     }
   ]
 }
