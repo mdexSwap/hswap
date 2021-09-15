@@ -1473,11 +1473,11 @@
     },
     {
       "name": "eCell",
-      "address": "0xf23e43ab4f3990651b562411cda2a053f8590563",
+      "address": "0xcf5fac84e13622ef1fc538c2f83c710abc816f92",
       "symbol": "eCell",
       "decimals": 2,
       "chainId": 128,
-      "logoURI": "https://mdex.co/token-icons/heco/0xf23e43ab4f3990651b562411cda2a053f8590563.png"
+      "logoURI": "https://mdex.co/token-icons/heco/0xcf5fac84e13622ef1fc538c2f83c710abc816f92.png"
     },
     {
       "name": "SKK",
