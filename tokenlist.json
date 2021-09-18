@@ -2063,6 +2063,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x57a7bcdfab1631aca9d6e0f39959477182cfae12.png"
+    },
+    {
+      "name": "DUSD",
+      "address": "0x9f5c80dc840f9cc60670a20c1e5d0fbd3e13b015",
+      "symbol": "DUSD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x9f5c80dc840f9cc60670a20c1e5d0fbd3e13b015.png"
     }
   ]
 }
