@@ -1,19 +1,19 @@
 {
   "files": {
     "static/js/0.e09cc8ce.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/0.e09cc8ce.chunk.js",
-    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/main.0102359f.chunk.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/main.af4365ea.chunk.js",
     "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/runtime-main.c0afe8e8.js",
     "static/css/3.719925f0.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/css/3.719925f0.chunk.css",
-    "static/js/3.b090b371.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/3.b090b371.chunk.js",
+    "static/js/3.37ccef88.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/3.37ccef88.chunk.js",
     "static/js/4.6b7c023c.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.6b7c023c.chunk.js",
     "static/js/5.a6d484c6.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/5.a6d484c6.chunk.js",
     "static/js/6.b3ae03f3.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.b3ae03f3.chunk.js",
     "static/js/7.5f690ca3.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/7.5f690ca3.chunk.js",
     "static/js/8.000df973.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/8.000df973.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/index.html",
-    "precache-manifest.f20d18f16cea829c052f4ddb5af5bd1d.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/precache-manifest.f20d18f16cea829c052f4ddb5af5bd1d.js",
+    "precache-manifest.e7e5b0fed1cd078d06331c92ad89109d.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/precache-manifest.e7e5b0fed1cd078d06331c92ad89109d.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/service-worker.js",
-    "static/js/3.b090b371.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/3.b090b371.chunk.js.LICENSE.txt",
+    "static/js/3.37ccef88.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/3.37ccef88.chunk.js.LICENSE.txt",
     "static/js/4.6b7c023c.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.6b7c023c.chunk.js.LICENSE.txt",
     "static/js/6.b3ae03f3.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.b3ae03f3.chunk.js.LICENSE.txt",
     "static/media/Discord-hover.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/Discord-hover.67c60337.svg",
@@ -84,7 +84,7 @@
   "entrypoints": [
     "static/js/runtime-main.c0afe8e8.js",
     "static/css/3.719925f0.chunk.css",
-    "static/js/3.b090b371.chunk.js",
-    "static/js/main.0102359f.chunk.js"
+    "static/js/3.37ccef88.chunk.js",
+    "static/js/main.af4365ea.chunk.js"
   ]
 }
