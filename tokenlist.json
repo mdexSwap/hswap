@@ -2055,6 +2055,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xae88bedcedaca56a3d9a56b656804460ca16ad86.png"
+    },
+    {
+      "name": "DMT",
+      "address": "0x57a7bcdfab1631aca9d6e0f39959477182cfae12",
+      "symbol": "DMT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x57a7bcdfab1631aca9d6e0f39959477182cfae12.png"
     }
   ]
 }
