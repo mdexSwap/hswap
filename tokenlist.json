@@ -2071,6 +2071,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x9f5c80dc840f9cc60670a20c1e5d0fbd3e13b015.png"
+    },
+    {
+      "name": "hCFX",
+      "address": "0x045c4324039da91c52c55df5d785385aab073dcf",
+      "symbol": "hCFX",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x045c4324039da91c52c55df5d785385aab073dcf.png"
     }
   ]
 }
