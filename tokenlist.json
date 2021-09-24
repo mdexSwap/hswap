@@ -2079,6 +2079,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x045c4324039da91c52c55df5d785385aab073dcf.png"
+    },
+    {
+      "name": "SAFEHAMSTERS",
+      "address": "0xbd3915a6f532dd98a0ac3b866a406d5b97e093cb",
+      "symbol": "SAFEHAMSTERS",
+      "decimals": 9,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xbd3915a6f532dd98a0ac3b866a406d5b97e093cb.png"
     }
   ]
 }
