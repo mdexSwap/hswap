@@ -2079,6 +2079,14 @@
       "decimals": 9,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xbd3915a6f532dd98a0ac3b866a406d5b97e093cb.png"
+    },
+    {
+      "name": "SEED",
+      "address": "0xbb5f429e8864b3a8291a2bf6a2a578f0bd3f3973",
+      "symbol": "SEED",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xbb5f429e8864b3a8291a2bf6a2a578f0bd3f3973.png"
     }
   ]
 }
