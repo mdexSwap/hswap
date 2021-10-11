@@ -168,7 +168,7 @@
   "tab3": "Farm",
   "tab4": "Charts",
   "tab5": "Boardroom",
-  "langSet": "Language Settings",
+  "langSet": "Language",
   "crossChain": "Bridge",
   "announcement": "News",
   "Cooperation": "Cooperation",
@@ -331,5 +331,7 @@
   "about": "About",
   "adjustmentPool": "Adjustment of Pool",
   "contactUs": "Contact us",
-  "document": "Doc"
+  "document": "Doc",
+  "Domain": "Domain name",
+  "MDEXDomain": "latest domain name of the MDEX"
 }
