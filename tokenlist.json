@@ -2087,6 +2087,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xbb5f429e8864b3a8291a2bf6a2a578f0bd3f3973.png"
+    },
+    {
+      "name": "ELK",
+      "address": "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c",
+      "symbol": "ELK",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c.png"
     }
   ]
 }
