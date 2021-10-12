@@ -2095,6 +2095,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c.png"
+    },
+    {
+      "name": "HCT",
+      "address": "0x45c13620b55c35a5f539d26e88247011eb10fdbd",
+      "symbol": "HCT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x45c13620b55c35a5f539d26e88247011eb10fdbd.png"
+    },
+    {
+      "name": "BETH",
+      "address": "0xb6f4c418514dd4680f76d5caa3bb42db4a893acb",
+      "symbol": "BETH",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xb6f4c418514dd4680f76d5caa3bb42db4a893acb.png"
     }
   ]
 }
