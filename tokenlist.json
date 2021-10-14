@@ -2111,6 +2111,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xb6f4c418514dd4680f76d5caa3bb42db4a893acb.png"
+    },
+    {
+      "name": "ACH",
+      "address": "0x4a31d1ad7430586752a1888fe947e3e7d52affb8",
+      "symbol": "ACH",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x4a31d1ad7430586752a1888fe947e3e7d52affb8.png"
     }
   ]
 }
