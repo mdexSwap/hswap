@@ -2119,6 +2119,14 @@
       "decimals": 8,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x4a31d1ad7430586752a1888fe947e3e7d52affb8.png"
+    },
+    {
+      "name": "ITFX",
+      "address": "0x0569843257b91a9753351a4d621ada83f642f57c",
+      "symbol": "ITFX",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x0569843257b91a9753351a4d621ada83f642f57c.png"
     }
   ]
 }
