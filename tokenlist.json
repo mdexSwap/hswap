@@ -2127,6 +2127,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x0569843257b91a9753351a4d621ada83f642f57c.png"
+    },
+    {
+      "name": "HB",
+      "address": "0xe4ab411dcfb3332486fd3ca91ca9ad9b4d820063",
+      "symbol": "HB",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xe4ab411dcfb3332486fd3ca91ca9ad9b4d820063.png"
     }
   ]
 }
