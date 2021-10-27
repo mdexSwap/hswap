@@ -2135,6 +2135,14 @@
       "decimals": 8,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xe4ab411dcfb3332486fd3ca91ca9ad9b4d820063.png"
+    },
+    {
+      "name": "WITCH",
+      "address": "0xf71a7d20c6fc34a3bf362780aee0fc9ee3ece5fe",
+      "symbol": "WITCH",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xf71a7d20c6fc34a3bf362780aee0fc9ee3ece5fe.png"
     }
   ]
 }
