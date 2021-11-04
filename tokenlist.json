@@ -2143,6 +2143,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xf71a7d20c6fc34a3bf362780aee0fc9ee3ece5fe.png"
+    },
+    {
+      "name": "HN",
+      "address": "0x7fc7b1c464f16f8ccc20b17eb95231a8bab8b7f4",
+      "symbol": "HN",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x7fc7b1c464f16f8ccc20b17eb95231a8bab8b7f4.png"
     }
   ]
 }
