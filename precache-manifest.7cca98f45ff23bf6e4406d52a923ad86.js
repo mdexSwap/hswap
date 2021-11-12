@@ -1,59 +1,59 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b92b8d33f4450a77be5b571c19acfca3",
+    "revision": "95fff55624096c026825056564b8c68a",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/index.html"
   },
   {
-    "revision": "8ac8aee5cc5db819980c",
+    "revision": "0f9b2b3d6c3e309b105e",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/css/3.719925f0.chunk.css"
   },
   {
-    "revision": "9e54552b8cc975adbf63",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/0.0acd2323.chunk.js"
+    "revision": "989d6ed7040b6057f6dc",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/0.e1516ea7.chunk.js"
   },
   {
-    "revision": "8ac8aee5cc5db819980c",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/3.5624dd2b.chunk.js"
+    "revision": "0f9b2b3d6c3e309b105e",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/3.77f89ad1.chunk.js"
   },
   {
     "revision": "f57b630e4ee6df5111cedb67bbdfcdca",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/3.5624dd2b.chunk.js.LICENSE.txt"
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/3.77f89ad1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ebf53d0bd24a94cd56c",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.b1c5f341.chunk.js"
+    "revision": "cf26fb12f749bdbb6755",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.3c8495f2.chunk.js"
   },
   {
     "revision": "caaa9c24a9c77eaead93960f555b5a26",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.b1c5f341.chunk.js.LICENSE.txt"
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.3c8495f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a01f620dc146332158d",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/5.ea9ed8cb.chunk.js"
+    "revision": "77f6e38ba9e049dcf546",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/5.c0e1d64f.chunk.js"
   },
   {
-    "revision": "96677b7a09580f83f4ed",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.f7cc9d6e.chunk.js"
+    "revision": "776c649ab230464b1715",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.f1b1c995.chunk.js"
   },
   {
     "revision": "c178649ae0de162657ef6caa733cc024",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.f7cc9d6e.chunk.js.LICENSE.txt"
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.f1b1c995.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b3fcbcf3240a6b030218",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/7.066e286c.chunk.js"
+    "revision": "0dd4a783ab22c73d3277",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/7.7e67f1f5.chunk.js"
   },
   {
-    "revision": "ea0e860b7f1e0f174288",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/8.e3386a94.chunk.js"
+    "revision": "4c57f352038282382db1",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/8.94e1454f.chunk.js"
   },
   {
-    "revision": "51603ab6cb949abd459a",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/main.c3075277.chunk.js"
+    "revision": "dcf0f51fee64496f092b",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/main.3fb2567d.chunk.js"
   },
   {
-    "revision": "dfc03145384141e44582",
-    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/runtime-main.c5400370.js"
+    "revision": "d6a256bbb61485988b9b",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/runtime-main.cf28f5d3.js"
   },
   {
     "revision": "67c6033720a7e7ce73b89890a05770bc",
@@ -462,6 +462,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "aa4545f0851014af8b0817ec83c2e39f",
     "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/poster.aa4545f0.png"
+  },
+  {
+    "revision": "275f3085d6a471836eef707071c197cb",
+    "url": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/pro.275f3085.svg"
   },
   {
     "revision": "1ae4d9f4653371789d98b85139933d27",
