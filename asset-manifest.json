@@ -1,21 +1,21 @@
 {
   "files": {
-    "static/js/0.e1516ea7.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/0.e1516ea7.chunk.js",
-    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/main.3fb2567d.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/runtime-main.cf28f5d3.js",
+    "static/js/0.91d985ce.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/0.91d985ce.chunk.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/main.ab1f1a28.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/runtime-main.6ea661e0.js",
     "static/css/3.719925f0.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/css/3.719925f0.chunk.css",
-    "static/js/3.77f89ad1.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/3.77f89ad1.chunk.js",
-    "static/js/4.3c8495f2.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.3c8495f2.chunk.js",
-    "static/js/5.c0e1d64f.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/5.c0e1d64f.chunk.js",
-    "static/js/6.f1b1c995.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.f1b1c995.chunk.js",
-    "static/js/7.7e67f1f5.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/7.7e67f1f5.chunk.js",
-    "static/js/8.94e1454f.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/8.94e1454f.chunk.js",
+    "static/js/3.7ee9ddc6.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/3.7ee9ddc6.chunk.js",
+    "static/js/4.39e8edcf.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.39e8edcf.chunk.js",
+    "static/js/5.da899524.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/5.da899524.chunk.js",
+    "static/js/6.a3be8a40.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.a3be8a40.chunk.js",
+    "static/js/7.6fd7a8e2.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/7.6fd7a8e2.chunk.js",
+    "static/js/8.90f0de67.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/8.90f0de67.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/index.html",
-    "precache-manifest.7cca98f45ff23bf6e4406d52a923ad86.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/precache-manifest.7cca98f45ff23bf6e4406d52a923ad86.js",
+    "precache-manifest.4a7624fb77277a9af17ae46662603e74.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/precache-manifest.4a7624fb77277a9af17ae46662603e74.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/service-worker.js",
-    "static/js/3.77f89ad1.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/3.77f89ad1.chunk.js.LICENSE.txt",
-    "static/js/4.3c8495f2.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.3c8495f2.chunk.js.LICENSE.txt",
-    "static/js/6.f1b1c995.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.f1b1c995.chunk.js.LICENSE.txt",
+    "static/js/3.7ee9ddc6.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/3.7ee9ddc6.chunk.js.LICENSE.txt",
+    "static/js/4.39e8edcf.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/4.39e8edcf.chunk.js.LICENSE.txt",
+    "static/js/6.a3be8a40.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/js/6.a3be8a40.chunk.js.LICENSE.txt",
     "static/media/Discord-hover.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/Discord-hover.67c60337.svg",
     "static/media/Discord.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/Discord.4aa39640.svg",
     "static/media/Github-hover.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/Github-hover.e8b190b2.svg",
@@ -45,6 +45,7 @@
     "static/media/bitkeepWallet.png": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/bitkeepWallet.4bceeb2d.png",
     "static/media/blue-loader.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/blue-loader.904b44c2.svg",
     "static/media/chart.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/chart.57c593e3.svg",
+    "static/media/check-icon.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/check-icon.f99726db.svg",
     "static/media/circle-grey.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/circle-grey.ed2a1dad.svg",
     "static/media/circle.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/circle.2d975615.svg",
     "static/media/coinbaseWalletIcon.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/coinbaseWalletIcon.62578f59.svg",
@@ -67,6 +68,7 @@
     "static/media/inviteIcon.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/inviteIcon.7d0f6274.svg",
     "static/media/invite_logo.png": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/invite_logo.235e157a.png",
     "static/media/invited_logo.png": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/invited_logo.34f85c7e.png",
+    "static/media/kol-icon.png": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/kol-icon.8b4c5f61.png",
     "static/media/language.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/language.b3986066.svg",
     "static/media/link.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/link.50c67f3c.svg",
     "static/media/magnifying-glass.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/magnifying-glass.67440097.svg",
@@ -97,9 +99,9 @@
     "static/media/x.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/static/media/x.5b8e2186.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf28f5d3.js",
+    "static/js/runtime-main.6ea661e0.js",
     "static/css/3.719925f0.chunk.css",
-    "static/js/3.77f89ad1.chunk.js",
-    "static/js/main.3fb2567d.chunk.js"
+    "static/js/3.7ee9ddc6.chunk.js",
+    "static/js/main.ab1f1a28.chunk.js"
   ]
 }
