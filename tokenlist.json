@@ -2151,6 +2151,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x7fc7b1c464f16f8ccc20b17eb95231a8bab8b7f4.png"
+    },
+    {
+      "name": "PMD",
+      "address": "0xbfb932ee032f04e0bd72200e31043e63aa650fc9",
+      "symbol": "PMD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xbfb932ee032f04e0bd72200e31043e63aa650fc9.png"
     }
   ]
 }
