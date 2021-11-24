@@ -2159,6 +2159,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xbfb932ee032f04e0bd72200e31043e63aa650fc9.png"
+    },
+    {
+      "name": "WONO",
+      "address": "0xa02c7c0039f6551d52cf652a933e9c6cd35302e8",
+      "symbol": "WONO",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xa02c7c0039f6551d52cf652a933e9c6cd35302e8.png"
     }
   ]
 }
