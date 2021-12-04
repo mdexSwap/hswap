@@ -2167,6 +2167,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xa02c7c0039f6551d52cf652a933e9c6cd35302e8.png"
+    },
+    {
+      "name": "NHBTC",
+      "address": "0xd81d5ccc891329a3b97a6752dd0f3c6a5fc0f6ea",
+      "symbol": "NHBTC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xd81d5ccc891329a3b97a6752dd0f3c6a5fc0f6ea.png"
     }
   ]
 }
