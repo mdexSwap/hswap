@@ -2183,6 +2183,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x410a56541bd912f9b60943fcb344f1e3d6f09567.png"
+    },
+    {
+      "name": "TOP",
+      "address": "0x16de6497292ca52d10038c641bd1d518113a51dc",
+      "symbol": "TOP",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x16de6497292ca52d10038c641bd1d518113a51dc.png"
     }
   ]
 }
