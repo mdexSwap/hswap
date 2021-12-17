@@ -2191,6 +2191,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x16de6497292ca52d10038c641bd1d518113a51dc.png"
+    },
+    {
+      "name": "WND",
+      "address": "0xd3b8999ea66d5ddac8af7be52165b913dd46c3b7",
+      "symbol": "WND",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xd3b8999ea66d5ddac8af7be52165b913dd46c3b7.png"
     }
   ]
 }
