@@ -2207,6 +2207,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x3405a1bd46b85c5c029483fbecf2f3e611026e45.png"
+    },
+    {
+      "name": "SALE",
+      "address": "0x2665375a48a76bb49f6b375844eb88390840c0b8",
+      "symbol": "SALE",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x2665375a48a76bb49f6b375844eb88390840c0b8.png"
+    },
+    {
+      "name": "STAR",
+      "address": "0xc3684755e5e7f3eaaad178de351969f4145e9b33",
+      "symbol": "STAR",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xc3684755e5e7f3eaaad178de351969f4145e9b33.png"
     }
   ]
 }
