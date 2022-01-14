@@ -2231,6 +2231,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x4668e0e7cc545de886abf038067f81cd4dc0924b.png"
+    },
+    {
+      "name": "VEE",
+      "address": "0x3709e8615e02c15b096f8a9b460ccb8ca8194e86",
+      "symbol": "VEE",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x3709e8615e02c15b096f8a9b460ccb8ca8194e86.png"
     }
   ]
 }
