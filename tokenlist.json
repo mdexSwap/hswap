@@ -2247,6 +2247,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x27d4dfdb3fdf58e198ba4dbc23b2f82c0b8e3405.png"
+    },
+    {
+      "name": "POL",
+      "address": "0x97513e975a7fa9072c72c92d8000b0db90b163c5",
+      "symbol": "POL",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x97513e975a7fa9072c72c92d8000b0db90b163c5.png"
     }
   ]
 }
