@@ -2255,6 +2255,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x97513e975a7fa9072c72c92d8000b0db90b163c5.png"
+    },
+    {
+      "name": "BCUG",
+      "address": "0xf73b911837a3d7001f472cb99bfa0a5a7667d08e",
+      "symbol": "BCUG",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xf73b911837a3d7001f472cb99bfa0a5a7667d08e.png"
     }
   ]
 }
