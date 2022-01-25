@@ -2263,6 +2263,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xf73b911837a3d7001f472cb99bfa0a5a7667d08e.png"
+    },
+    {
+      "name": "FCN",
+      "address": "0x914b633038f36d03fef5af7f12e519879576771a",
+      "symbol": "FCN",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x914b633038f36d03fef5af7f12e519879576771a.png"
+    },
+    {
+      "name": "YZN",
+      "address": "0xcc3f028d82c22daa75502fd183778bfd91e5b753",
+      "symbol": "YZN",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xcc3f028d82c22daa75502fd183778bfd91e5b753.png"
     }
   ]
 }
