@@ -2295,6 +2295,14 @@
       "decimals": 6,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa.png"
+    },
+    {
+      "name": "WNOW",
+      "address": "0x81c9309d8598fb863bbd337d35dcb6036bcd51ae",
+      "symbol": "WNOW",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x81c9309d8598fb863bbd337d35dcb6036bcd51ae.png"
     }
   ]
 }
