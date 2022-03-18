@@ -1,19 +1,19 @@
 {
   "files": {
     "static/js/0.b8d0e654.chunk.js": "/static/js/0.b8d0e654.chunk.js",
-    "main.js": "/static/js/main.eaf1444f.chunk.js",
+    "main.js": "/static/js/main.81fa1852.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.961c7e93.js",
     "static/css/3.e9f5f81a.chunk.css": "/static/css/3.e9f5f81a.chunk.css",
-    "static/js/3.c3d8d4c6.chunk.js": "/static/js/3.c3d8d4c6.chunk.js",
+    "static/js/3.2ce25ef8.chunk.js": "/static/js/3.2ce25ef8.chunk.js",
     "static/js/4.0548b161.chunk.js": "/static/js/4.0548b161.chunk.js",
     "static/js/5.791fedc5.chunk.js": "/static/js/5.791fedc5.chunk.js",
     "static/js/6.93d4b8c1.chunk.js": "/static/js/6.93d4b8c1.chunk.js",
     "static/js/7.66550c1b.chunk.js": "/static/js/7.66550c1b.chunk.js",
     "static/js/8.4b182704.chunk.js": "/static/js/8.4b182704.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.209b95d14d880e3c4526f929906ab73a.js": "/precache-manifest.209b95d14d880e3c4526f929906ab73a.js",
+    "precache-manifest.a39356fdcb13b5aa67a54d0efee5c33f.js": "/precache-manifest.a39356fdcb13b5aa67a54d0efee5c33f.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/3.c3d8d4c6.chunk.js.LICENSE.txt": "/static/js/3.c3d8d4c6.chunk.js.LICENSE.txt",
+    "static/js/3.2ce25ef8.chunk.js.LICENSE.txt": "/static/js/3.2ce25ef8.chunk.js.LICENSE.txt",
     "static/js/4.0548b161.chunk.js.LICENSE.txt": "/static/js/4.0548b161.chunk.js.LICENSE.txt",
     "static/js/6.93d4b8c1.chunk.js.LICENSE.txt": "/static/js/6.93d4b8c1.chunk.js.LICENSE.txt",
     "static/media/Discord-hover.svg": "/static/media/Discord-hover.67c60337.svg",
@@ -42,7 +42,7 @@
     "static/media/banner_invited.png": "/static/media/banner_invited.251f3261.png",
     "static/media/banner_invited_h5.png": "/static/media/banner_invited_h5.139e593c.png",
     "static/media/beta.svg": "/static/media/beta.a2a0d654.svg",
-    "static/media/bitkeepWallet.png": "/static/media/bitkeepWallet.4bceeb2d.png",
+    "static/media/bitkeepWallet.png": "/static/media/bitkeepWallet.74630884.png",
     "static/media/blue-loader.svg": "/static/media/blue-loader.904b44c2.svg",
     "static/media/chart.svg": "/static/media/chart.57c593e3.svg",
     "static/media/check-icon.svg": "/static/media/check-icon.f99726db.svg",
@@ -101,7 +101,7 @@
   "entrypoints": [
     "static/js/runtime-main.961c7e93.js",
     "static/css/3.e9f5f81a.chunk.css",
-    "static/js/3.c3d8d4c6.chunk.js",
-    "static/js/main.eaf1444f.chunk.js"
+    "static/js/3.2ce25ef8.chunk.js",
+    "static/js/main.81fa1852.chunk.js"
   ]
 }
