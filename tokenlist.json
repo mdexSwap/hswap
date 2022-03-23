@@ -2303,6 +2303,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x81c9309d8598fb863bbd337d35dcb6036bcd51ae.png"
+    },
+    {
+      "name": "MARK",
+      "address": "0x779a8134750809f79cf0ba48ee0ff1a5c41a8fdc",
+      "symbol": "MARK",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x779a8134750809f79cf0ba48ee0ff1a5c41a8fdc.png"
     }
   ]
 }
