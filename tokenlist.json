@@ -2261,6 +2261,14 @@
       "decimals": 9,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x8b79370b33ca2be7968a841145dd4e62b1d4291a.png"
+    },
+    {
+      "name": "BabyHT",
+      "address": "0xc9c709bbeb29f6f89062ecd5468625eca81d0c5c",
+      "symbol": "BabyHT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xc9c709bbeb29f6f89062ecd5468625eca81d0c5c.png"
     }
   ]
 }
