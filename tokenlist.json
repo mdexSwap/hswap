@@ -2261,6 +2261,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xc9c709bbeb29f6f89062ecd5468625eca81d0c5c.png"
+    },
+    {
+      "name": "Hbmoon",
+      "address": "0x8b5214e529f71e45567843228b4bae0c1efa08d8",
+      "symbol": "Hbmoon",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x8b5214e529f71e45567843228b4bae0c1efa08d8.png"
     }
   ]
 }
