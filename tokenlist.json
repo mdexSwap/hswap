@@ -2269,6 +2269,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x8b5214e529f71e45567843228b4bae0c1efa08d8.png"
+    },
+    {
+      "name": "CHS",
+      "address": "0x7f4d7f2f19e993e713fe85e877f34c949178bf55",
+      "symbol": "CHS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x7f4d7f2f19e993e713fe85e877f34c949178bf55.png"
     }
   ]
 }
