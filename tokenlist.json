@@ -2277,6 +2277,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x7f4d7f2f19e993e713fe85e877f34c949178bf55.png"
+    },
+    {
+      "name": "PIL",
+      "address": "0x63c93714d4f7830aaa2d63bb7004da4edd1e24b0",
+      "symbol": "PIL",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x63c93714d4f7830aaa2d63bb7004da4edd1e24b0.png"
     }
   ]
 }
