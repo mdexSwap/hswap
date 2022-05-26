@@ -2285,6 +2285,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x63c93714d4f7830aaa2d63bb7004da4edd1e24b0.png"
+    },
+    {
+      "name": "HBY",
+      "address": "0x5c0a02ccbc5eb09eef6773a161c6ccbe746fd29b",
+      "symbol": "HBY",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x5c0a02ccbc5eb09eef6773a161c6ccbe746fd29b.png"
     }
   ]
 }
