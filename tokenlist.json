@@ -2293,6 +2293,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x5c0a02ccbc5eb09eef6773a161c6ccbe746fd29b.png"
+    },
+    {
+      "name": "TRIAS",
+      "address": "0xa4838122c683f732289805fc3c207febd55babdd",
+      "symbol": "TRIAS",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xa4838122c683f732289805fc3c207febd55babdd.png"
     }
   ]
 }
