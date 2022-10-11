@@ -2301,6 +2301,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xa4838122c683f732289805fc3c207febd55babdd.png"
+    },
+    {
+      "name": "HT2.0",
+      "address": "0xe7647ed892714a777bd44d4f36fdba08b426a84e",
+      "symbol": "HT2.0",
+      "decimals": 9,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xe7647ed892714a777bd44d4f36fdba08b426a84e.png"
     }
   ]
 }
