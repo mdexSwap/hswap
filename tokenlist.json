@@ -2309,6 +2309,14 @@
       "decimals": 9,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xe7647ed892714a777bd44d4f36fdba08b426a84e.png"
+    },
+    {
+      "name": "DogeMoney",
+      "address": "0xaa1709d62b709d9cc66f6d9c3c066e0ffd853dd9",
+      "symbol": "DogeMoney",
+      "decimals": 9,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xaa1709d62b709d9cc66f6d9c3c066e0ffd853dd9.png"
     }
   ]
 }
