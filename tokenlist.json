@@ -2317,6 +2317,30 @@
       "decimals": 9,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xaa1709d62b709d9cc66f6d9c3c066e0ffd853dd9.png"
+    },
+    {
+      "name": "HTMOON2.0",
+      "address": "0xab83ef31442012dcdbfdfab7d1e7a40b7e499c84",
+      "symbol": "HTMOON2.0",
+      "decimals": 9,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xab83ef31442012dcdbfdfab7d1e7a40b7e499c84.png"
+    },
+    {
+      "name": "HTDoge",
+      "address": "0x831de9492df8556a5f1c1938791297b3667798cd",
+      "symbol": "HTDoge",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x831de9492df8556a5f1c1938791297b3667798cd.png"
+    },
+    {
+      "name": "Sun",
+      "address": "0xf586f0c88a8e5b6e5b7c0a2eef0cb3ae94ad91bd",
+      "symbol": "Sun",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xf586f0c88a8e5b6e5b7c0a2eef0cb3ae94ad91bd.png"
     }
   ]
 }
