@@ -2341,6 +2341,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xf586f0c88a8e5b6e5b7c0a2eef0cb3ae94ad91bd.png"
+    },
+    {
+      "name": "NAGA",
+      "address": "0x15e50e6d2a7dfa05c38afe60d1d0c43351d55aec",
+      "symbol": "NAGA",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0x15e50e6d2a7dfa05c38afe60d1d0c43351d55aec.png"
     }
   ]
 }
