@@ -2349,6 +2349,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0x15e50e6d2a7dfa05c38afe60d1d0c43351d55aec.png"
+    },
+    {
+      "name": "HTDAO",
+      "address": "0xdc6a75b895962a8f0d1f7fb00ce867115a02f38b",
+      "symbol": "HTDAO",
+      "decimals": 9,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xdc6a75b895962a8f0d1f7fb00ce867115a02f38b.png"
     }
   ]
 }
