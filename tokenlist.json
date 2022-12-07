@@ -2357,14 +2357,6 @@
       "decimals": 9,
       "chainId": 128,
       "logoURI": "https://mdex.co/token-icons/heco/0xdc6a75b895962a8f0d1f7fb00ce867115a02f38b.png"
-    },
-    {
-      "name": "BTCMT",
-      "address": "0x410a56541bd912f9b60943fcb344f1e3d6f09567",
-      "symbol": "BTCMT",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://mdex.co/token-icons/heco/0x410a56541bd912f9b60943fcb344f1e3d6f09567.png"
     }
   ]
 }
